@@ -1,0 +1,34 @@
+# CITATION.cff —— 引用元数据（Citation File Format 1.2.0）
+# 规范：https://citation-file-format.github.io/
+# 说明：本项目暂未声明开源许可证，故按 CFF 规范不写 license 字段（见 README「伦理与合规」）。
+cff-version: 1.2.0
+message: "若本仓库对您的研究或实践有帮助，请按下列元数据引用；If you use this work, please cite it using the metadata below."
+title: "存量—流量空间建模驱动的参与式交互仿真：面向公共空间人员流动治理的人机协同实验平台"
+type: software
+authors:
+  - name: "SF-HITL-Sim 项目组"
+version: 0.1.0
+date-released: "2026-10-19"
+url: "https://github.com/CORAX2022/SF-HITL-Sim"
+repository-code: "https://github.com/CORAX2022/SF-HITL-Sim"
+keywords:
+  - "参与式交互仿真"
+  - "存量-流量模型"
+  - "人在回路"
+  - "公共空间"
+  - "人员流动治理"
+  - "人机协同实验"
+  - "LLM 智能体"
+  - "行为实验"
+  - "participatory interactive simulation"
+  - "stock-flow model"
+  - "human-in-the-loop"
+  - "public space"
+  - "pedestrian-flow governance"
+  - "LLM agents"
+abstract: |
+  本仓库是一个以存量—流量空间模型为内核、面向公共空间人员流动治理的人在回路参与式交互仿真实验平台，
+  同时作为研究写作的 git 工作区使用。平台按设计让真人与 LLM 合成智能体进入同一仿真世界、经统一决策协议做轮回推演，
+  当前版本已实现空间存量-流量内核、闭环守恒演示、文献与上游溯源工作区。v0.1.0 包含 Python 3.13 仿真内核
+  （24/24 单元测试通过）、闭环演示与守恒性验证、文献索引与逐篇笔记、上游仓库溯源清单、
+  SUMO 路网转换器与 NetLogo 外部模型复现产物，以及 paper/ 论文写作脚手架与 docs/writing/ 写作规范。
