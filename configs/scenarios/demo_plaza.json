@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "name": "演示广场分区",
+    "name_en": "Demo Plaza Zoning",
+    "description": "用于验证存量-流量内核的最小场景：1 个入口、1 个出口、2 条通道、8 个功能单元。单元为示意多边形，坐标为归一化位置，仅用于可视化布局。",
+    "version": "1.0",
+    "units_count": 12,
+    "note": "容量与吸引力为示意值，正式实验须依实测标定。"
+  },
+  "units": [
+    {"id": "entry_w", "name": "西侧入口",  "type": "entry",    "area": 120, "capacity": 80,  "attract": 0.30, "mobility": 0.55, "x": 0.06, "y": 0.50},
+    {"id": "exit_e",  "name": "东侧出口",  "type": "exit",     "area": 120, "capacity": 80,  "attract": 0.35, "mobility": 0.50, "exit_rate": 0.25, "x": 0.94, "y": 0.50},
+
+    {"id": "corr_nw", "name": "西北通道",  "type": "corridor", "area": 90,  "capacity": 60,  "attract": 0.45, "mobility": 0.65, "x": 0.24, "y": 0.72},
+    {"id": "corr_sw", "name": "西南通道",  "type": "corridor", "area": 90,  "capacity": 60,  "attract": 0.45, "mobility": 0.65, "x": 0.24, "y": 0.28},
+    {"id": "corr_ne", "name": "东北通道",  "type": "corridor", "area": 90,  "capacity": 60,  "attract": 0.45, "mobility": 0.65, "x": 0.74, "y": 0.72},
+    {"id": "corr_se", "name": "东南通道",  "type": "corridor", "area": 90,  "capacity": 60,  "attract": 0.45, "mobility": 0.65, "x": 0.74, "y": 0.28},
+
+    {"id": "plaza_n", "name": "北侧主广场","type": "stay",     "area": 400, "capacity": 300, "attract": 1.00, "mobility": 0.12, "x": 0.50, "y": 0.82},
+    {"id": "plaza_c", "name": "中心广场",  "type": "stay",     "area": 500, "capacity": 400, "attract": 1.30, "mobility": 0.15, "x": 0.50, "y": 0.50},
+    {"id": "plaza_s", "name": "南侧主广场","type": "stay",     "area": 400, "capacity": 300, "attract": 1.00, "mobility": 0.12, "x": 0.50, "y": 0.18},
+
+    {"id": "fountain","name": "喷泉观景区","type": "stay",     "area": 150, "capacity": 90,  "attract": 1.15, "mobility": 0.20, "x": 0.36, "y": 0.50},
+    {"id": "stage",   "name": "下沉舞台",  "type": "stay",     "area": 200, "capacity": 150, "attract": 1.40, "mobility": 0.10, "x": 0.64, "y": 0.62},
+    {"id": "market",  "name": "市集摊位",  "type": "stay",     "area": 180, "capacity": 130, "attract": 1.25, "mobility": 0.18, "x": 0.64, "y": 0.38}
+  ],
+  "edges": [
+    {"src": "entry_w",  "dst": "corr_nw", "cost": 1.0},
+    {"src": "entry_w",  "dst": "corr_sw", "cost": 1.0},
+    {"src": "corr_nw",  "dst": "entry_w", "cost": 1.0},
+    {"src": "corr_sw",  "dst": "entry_w", "cost": 1.0},
+
+    {"src": "corr_nw",  "dst": "plaza_n", "cost": 1.8},
+    {"src": "corr_nw",  "dst": "plaza_c", "cost": 2.2},
+    {"src": "corr_sw",  "dst": "plaza_s", "cost": 1.8},
+    {"src": "corr_sw",  "dst": "plaza_c", "cost": 2.2},
+
+    {"src": "corr_ne",  "dst": "plaza_n", "cost": 1.8},
+    {"src": "corr_ne",  "dst": "plaza_c", "cost": 2.2},
+    {"src": "corr_se",  "dst": "plaza_s", "cost": 1.8},
+    {"src": "corr_se",  "dst": "plaza_c", "cost": 2.2},
+
+    {"src": "corr_ne",  "dst": "exit_e",  "cost": 1.0},
+    {"src": "corr_se",  "dst": "exit_e",  "cost": 1.0},
+    {"src": "exit_e",   "dst": "corr_ne", "cost": 1.0},
+    {"src": "exit_e",   "dst": "corr_se", "cost": 1.0},
+
+    {"src": "plaza_n",  "dst": "plaza_c", "cost": 1.5},
+    {"src": "plaza_c",  "dst": "plaza_n", "cost": 1.5},
+    {"src": "plaza_s",  "dst": "plaza_c", "cost": 1.5},
+    {"src": "plaza_c",  "dst": "plaza_s", "cost": 1.5},
+    {"src": "plaza_n",  "dst": "plaza_s", "cost": 3.0},
+    {"src": "plaza_s",  "dst": "plaza_n", "cost": 3.0},
+
+    {"src": "plaza_n",  "dst": "corr_ne", "cost": 1.8},
+    {"src": "plaza_n",  "dst": "corr_nw", "cost": 1.8},
+    {"src": "plaza_s",  "dst": "corr_se", "cost": 1.8},
+    {"src": "plaza_s",  "dst": "corr_sw", "cost": 1.8},
+    {"src": "corr_ne",  "dst": "plaza_n", "cost": 1.8},
+    {"src": "corr_nw",  "dst": "plaza_n", "cost": 1.8},
+    {"src": "corr_se",  "dst": "plaza_s", "cost": 1.8},
+    {"src": "corr_sw",  "dst": "plaza_s", "cost": 1.8},
+
+    {"src": "plaza_c",  "dst": "fountain","cost": 1.2},
+    {"src": "fountain","dst": "plaza_c", "cost": 1.2},
+    {"src": "plaza_c",  "dst": "stage",   "cost": 1.2},
+    {"src": "stage",   "dst": "plaza_c", "cost": 1.2},
+    {"src": "plaza_c",  "dst": "market",  "cost": 1.2},
+    {"src": "market",  "dst": "plaza_c", "cost": 1.2},
+
+    {"src": "plaza_n",  "dst": "stage",   "cost": 1.6},
+    {"src": "stage",   "dst": "plaza_n", "cost": 1.6},
+    {"src": "plaza_s",  "dst": "market",  "cost": 1.6},
+    {"src": "market",  "dst": "plaza_s", "cost": 1.6},
+    {"src": "fountain","dst": "plaza_n", "cost": 1.9},
+    {"src": "fountain","dst": "plaza_s", "cost": 1.9},
+    {"src": "plaza_n",  "dst": "fountain","cost": 1.9},
+    {"src": "plaza_s",  "dst": "fountain","cost": 1.9},
+    {"src": "stage",   "dst": "corr_ne", "cost": 2.0},
+    {"src": "market",  "dst": "corr_se", "cost": 2.0},
+    {"src": "corr_ne",  "dst": "stage",  "cost": 2.0},
+    {"src": "corr_se",  "dst": "market", "cost": 2.0},
+    {"src": "stage",   "dst": "market",  "cost": 2.4},
+    {"src": "market",  "dst": "stage",   "cost": 2.4}
+  ]
+}
