@@ -1,0 +1,40 @@
+# ============================================================================
+# SF-HITL-Sim 编辑器统一配置
+# ----------------------------------------------------------------------------
+# 目标：任何编辑器（VS Code / PyCharm / Vim / 记事本）打开本仓库，
+#       都得到同一套编码、行尾与缩进；与 .gitattributes 保持一一对应。
+# 规范依据见 CONTRIBUTING.md 与 docs/writing/ 写作规范。
+# ============================================================================
+root = true
+
+# ---- 全局默认 -------------------------------------------------------------
+[*]
+charset = utf-8
+# UTF-8（无 BOM，见 charset 语义）；不写 utf-8-bom。
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+indent_style = space
+indent_size = 4
+
+# ---- Python：4 空格缩进 ---------------------------------------------------
+[*.py]
+indent_style = space
+indent_size = 4
+
+# ---- 配置与元数据：2 空格缩进 --------------------------------------------
+[*.{json,jsonl,yml,yaml,toml,cff}]
+indent_style = space
+indent_size = 2
+
+# ---- Markdown：保留行尾两个空格（硬换行标记，不能自动删除）---------------
+[*.md]
+indent_style = space
+indent_size = 2
+trim_trailing_whitespace = false
+
+# ---- Windows 脚本：CRLF 行尾 ---------------------------------------------
+[*.{ps1,bat}]
+end_of_line = crlf
+indent_style = space
+indent_size = 4

@@ -1,0 +1,69 @@
+# ============================================================================
+# SF-HITL-Sim 忽略规则（仓库体积策略的唯一真源）
+# ----------------------------------------------------------------------------
+# 工作区当前约 1.68 GB，入库内容目标约 27 MB。
+# 原则：只排除"体积巨大 / 可再生成 / 有独立许可证"的内容；
+#       文献索引与笔记、上游溯源清单、源代码、复现图表、写作稿件全部入库。
+# ============================================================================
+
+# ---- 虚拟环境 ------------------------------------------------------------
+# 各 Lane 验证用的独立 venv（.venv-as / .venv-mesa / .venv-otree / .venv-sumo*）
+# 合计约 970 MB；可由 Python 版本 + 依赖清单在任何机器上重建，不值得入库。
+.venv*/
+venv/
+env/
+
+# ---- Python 解释器与测试缓存 ---------------------------------------------
+# 字节码、测试/类型检查缓存随解释器版本与平台变化，入库只会产生噪声 diff。
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# ---- 第三方上游源码（约 429 MB）------------------------------------------
+# deploy/repos/ 下是 8 个上游仓库的整树快照，仅作本地验证与溯源使用；
+# 入库只保留溯源清单 manifest.jsonl（stars/license/分支/sha256）。
+# 关键：必须写成 deploy/repos/* 再反转，绝不能写成 deploy/repos/ ——
+#       被整体忽略的目录内部，! 否定规则无法把文件重新纳入。
+deploy/repos/*
+!deploy/repos/manifest.jsonl
+
+# ---- 第三方 NetLogo 模型（约 64 MB）--------------------------------------
+# 该模型由 University of Leeds 以 CC BY-SA 4.0 发布，按许可证单独管理、外部获取；
+# 本仓库只保留自己复现出的运行产物（_nlogo_run/、results/repro/）。
+an-agent-based-simulation-model-of-pedestrian-evacuation-based-on-bayesian-nash-equilibrium_v1.0.0/
+
+# ---- 文献 PDF（约 195 MB）------------------------------------------------
+# 论文 PDF 版权归各出版方，不随仓库分发；入库的是索引（index.json）、
+# 逐篇笔记（notes/）与原始文献清单（docs/papers2/_raw/）。
+docs/papers/pdf/
+docs/papers2/pdf/
+
+# ---- 临时工作区与散落日志 -------------------------------------------------
+# .scratch/ 存放调研过程的临时下载与中间 JSON；日志与 Office 锁文件同样不入库。
+.scratch/
+*.log
+*.tmp
+~$*
+
+# ---- 操作系统与编辑器垃圾 -------------------------------------------------
+Thumbs.db
+Desktop.ini
+.DS_Store
+.idea/
+.vscode/
+*.swp
+$RECYCLE.BIN/
+
+# ============================================================================
+# 其余内容全部入库：
+#   文献索引 / 逐篇笔记（docs/papers/、docs/papers2/）
+#   原始采集清单（docs/papers2/_raw/、docs/repos-survey/raw/、deploy/repos/manifest.jsonl）
+#   源代码（src/、examples/、scripts/、tests/）
+#   复现图表与运行产物（results/repro/、_nlogo_run/）
+#   论文稿件与写作规范（paper/、docs/writing/）
+#   研究文档与验证报告（docs/model/、docs/architecture/、docs/research/、
+#                       docs/literature/、docs/verify/、docs/tooling/ 等）
+# ============================================================================

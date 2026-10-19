@@ -1,0 +1,48 @@
+# ============================================================================
+# SF-HITL-Sim 文本属性
+# ----------------------------------------------------------------------------
+# 全仓库统一 LF 入库（Windows / macOS / Linux 协作一致，评审 diff 干净）；
+# 仅 Windows 脚本保留 CRLF，二进制内容显式标记，避免行尾转换与文本 diff。
+# ============================================================================
+
+# 默认：自动识别文本文件，统一以 LF 存入仓库
+* text=auto eol=lf
+
+# ---- 文本类：显式声明为文本 + LF -----------------------------------------
+# 即使自动识别失败（例如 .nlogo、.bib），也强制按文本处理并统一行尾。
+*.md       text eol=lf
+*.py       text eol=lf
+*.json     text eol=lf
+*.jsonl    text eol=lf
+*.csv      text eol=lf
+*.yml      text eol=lf
+*.yaml     text eol=lf
+*.toml     text eol=lf
+*.bib      text eol=lf
+*.nlogo    text eol=lf
+*.cff      text eol=lf
+*.html     text eol=lf
+*.js       text eol=lf
+*.ts       text eol=lf
+*.css      text eol=lf
+
+# ---- Windows 脚本：保留 CRLF ---------------------------------------------
+# 本机为 Windows（PowerShell 5.1 对 LF 兼容性差），脚本按原生行尾存储，
+# 与 .editorconfig 中 [*.ps1] / [*.bat] 的 end_of_line = crlf 保持一致。
+*.ps1      text eol=crlf
+*.bat      text eol=crlf
+
+# ---- 二进制文件 -----------------------------------------------------------
+# 图片与 PDF 无法按行比较，标记 binary（-text -diff -merge），
+# 阻止 git 猜测编码、避免无意义的"文本 diff"。
+*.png      binary
+*.jpg      binary
+*.pdf      binary
+*.zip      binary
+
+# ---- 机器生成 / 外部来源内容：让 GitHub 语言统计与 diff 视图不再计数 ----
+# 文献采集原始 JSON 与本地上游调研原始清单属于过程产物，不参与人工评审阅读。
+docs/papers2/_raw/**         linguist-generated=true
+docs/repos-survey/raw/**     linguist-generated=true
+# 上游仓库溯源清单是 vendored 数据（条目来自第三方仓库 API），不计入本仓库代码统计。
+deploy/repos/manifest.jsonl  linguist-vendored=true
