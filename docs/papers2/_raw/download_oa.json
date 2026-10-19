@@ -1,0 +1,130 @@
+{
+ "jn_https-doi-org-10-3390-su151813364": {
+  "ok": false,
+  "route": "",
+  "doi": "https://doi.org/10.3390/su151813364",
+  "title": "Engaging Citizens in the Bioeconomy: Insights from the Co-Creation and Co-Design in the Development of the Serious Bioeconomy Game “Mission BioHero”",
+  "theme": "B",
+  "venue": "Sustainability"
+ },
+ "jn_https-doi-org-10-1177-02690942251380527": {
+  "ok": true,
+  "route": "https://pure-oai.bham.ac.uk/ws/files/279656869/SevincD2025Reading.pdf",
+  "doi": "https://doi.org/10.1177/02690942251380527",
+  "title": "Reading cities: Towards a participatory tool for disentangling the complexity of urban systems",
+  "theme": "B",
+  "venue": "Local Economy The Journal of the Local Economy Policy Unit"
+ },
+ "jn_https-doi-org-10-3389-frsc-2021-690458": {
+  "ok": true,
+  "route": "https://www.frontiersin.org/articles/10.3389/frsc.2021.690458/pdf",
+  "doi": "https://doi.org/10.3389/frsc.2021.690458",
+  "title": "Co-creation Pathways to Inform Shared Governance of Urban Living Labs in Practice: Lessons From Three European Projects",
+  "theme": "B",
+  "venue": "Frontiers in Sustainable Cities"
+ },
+ "jn_https-doi-org-10-3390-su13020526": {
+  "ok": false,
+  "route": "",
+  "doi": "https://doi.org/10.3390/su13020526",
+  "title": "Urban Living Labs and Citizen Science: From Innovation and Science towards Policy Impacts",
+  "theme": "B",
+  "venue": "Sustainability"
+ },
+ "jn_https-doi-org-10-17645-up-v7i2-5229": {
+  "ok": false,
+  "route": "",
+  "doi": "https://doi.org/10.17645/up.v7i2.5229",
+  "title": "Minecraft and Playful Public Participation in Urban Design",
+  "theme": "B",
+  "venue": "Urban Planning"
+ },
+ "jn_https-doi-org-10-11591-ijai-v11-i4-pp1197-1212": {
+  "ok": true,
+  "route": "https://zenodo.org/records/7042197/files/01%2020996%201570691087.pdf",
+  "doi": "https://doi.org/10.11591/ijai.v11.i4.pp1197-1212",
+  "title": "Simulation of pedestrian movements using a fine grid cellular automata model",
+  "theme": "D",
+  "venue": "IAES International Journal of Artificial Intelligence"
+ },
+ "jn_https-doi-org-10-1016-j-ugj-2025-05-005": {
+  "ok": true,
+  "route": "https://unipub.lib.uni-corvinus.hu/11444/1/1-s2.0-S2664328625000282-main.pdf",
+  "doi": "https://doi.org/10.1016/j.ugj.2025.05.005",
+  "title": "Urban living labs as catalysts for innovation: Advancing urban ecosystems within the quintuple helix model",
+  "theme": "B",
+  "venue": "Urban Governance"
+ },
+ "jn_https-doi-org-10-3389-ffutr-2021-640570": {
+  "ok": true,
+  "route": "https://www.frontiersin.org/articles/10.3389/ffutr.2021.640570/pdf",
+  "doi": "https://doi.org/10.3389/ffutr.2021.640570",
+  "title": "Assignment Matrix Free Algorithms for On-line Estimation of Dynamic Origin-Destination Matrices",
+  "theme": "D",
+  "venue": "Frontiers in Future Transportation"
+ },
+ "jn_https-doi-org-10-5755-j01-erem-79-2-33867": {
+  "ok": false,
+  "route": "",
+  "doi": "https://doi.org/10.5755/j01.erem.79.2.33867",
+  "title": "Transformative Capacity Building by Systematic Use of Urban Living Labs: A Case Study of Alytus, Lithuania",
+  "theme": "B",
+  "venue": "Environmental Research Engineering and Management"
+ },
+ "jn_https-doi-org-10-3390-su17177945": {
+  "ok": false,
+  "route": "",
+  "doi": "https://doi.org/10.3390/su17177945",
+  "title": "Participatory Digital Solutions for Nature-Based Solution Urban Projects: A Systematic PRISMA Literature Review",
+  "theme": "B",
+  "venue": "Sustainability"
+ },
+ "jn_https-doi-org-10-4081-ija-2023-2214": {
+  "ok": false,
+  "route": "",
+  "doi": "https://doi.org/10.4081/ija.2023.2214",
+  "title": "How to intensify collaboration in a participatory modelling process to collectively design and evaluate new farming systems",
+  "theme": "B",
+  "venue": "Italian Journal of Agronomy"
+ },
+ "jn_https-doi-org-10-1209-0295-5075-134-18003": {
+  "ok": false,
+  "route": "",
+  "doi": "https://doi.org/10.1209/0295-5075/134/18003",
+  "title": "The existence of cautious pedestrians might facilitate evacuation dynamics",
+  "theme": "D",
+  "venue": "Europhysics Letters (EPL)"
+ },
+ "jn_https-doi-org-10-1115-1-4063505": {
+  "ok": false,
+  "route": "",
+  "doi": "https://doi.org/10.1115/1.4063505",
+  "title": "Panic-Pressure Conversion Model From Microscopic Pedestrian Movement to Macroscopic Crowd Flow",
+  "theme": "D",
+  "venue": "Journal of Computational and Nonlinear Dynamics"
+ },
+ "jn_https-doi-org-10-1088-1742-5468-ac6255": {
+  "ok": false,
+  "route": "",
+  "doi": "https://doi.org/10.1088/1742-5468/ac6255",
+  "title": "Toward learning dynamic origin-destination matrices from crowd density heatmaps",
+  "theme": "D",
+  "venue": "Journal of Statistical Mechanics Theory and Experiment"
+ },
+ "jn_https-doi-org-10-1038-s41467-026-78228-y": {
+  "ok": true,
+  "route": "https://www.nature.com/articles/s41467-026-78228-y_reference.pdf",
+  "doi": "https://doi.org/10.1038/s41467-026-78228-y",
+  "title": "Emergence of polarization in networks of large language model agents",
+  "theme": "C",
+  "venue": "Nature Communications"
+ },
+ "jn_https-doi-org-10-18564-jasss-5740": {
+  "ok": false,
+  "route": "",
+  "doi": "https://doi.org/10.18564/jasss.5740",
+  "title": "From Local Actors to Leaf Carers: Companion Modeling for Rethinking Tree Protection in Senegal’s Groundnut Basin",
+  "theme": "B",
+  "venue": "Journal of Artificial Societies and Social Simulation"
+ }
+}

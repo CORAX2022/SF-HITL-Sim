@@ -1,0 +1,430 @@
+=== cat1 (37) ===
+mesa/mesa                                                    3886 Python       Mesa is an open-source Python library for agent-based modeling, ideal for 
+nikmcfly/MiroFish-Offline                                    2610 Python       Offline multi-agent simulation & prediction engine. English fork of MiroFi
+NetLogo/NetLogo                                              1186 Scala        turtles, patches, and links for kids, teachers, and scientists
+noncomputable/AgentMaps                                       965 JavaScript   Make social simulations on real maps! Agent-based modeling for the web.
+JuliaDynamics/Agents.jl                                       920 Julia        Agent-based modeling framework in Julia
+DataBassGit/AgentForge                                        853 Python       Extensible AGI Framework
+AgentTorch/AgentTorch                                         653 Jupyter Note large population models
+IBM/AMLSim                                                    406 Python       The AMLSim project is intended to provide a multi-agent based simulator th
+jofmi/agentpy                                                 388 Python       AgentPy is an open-source framework for the development and analysis of ag
+craftgen/craftgen                                             318 TypeScript   Integrating AI into every workflow with our open-source, no-code platform,
+starsimhub/covasim                                            291 Python       COVID-19 Agent-based Simulator (Covasim): a model for exploring coronaviru
+EpiModel/EpiModel                                             281 R            Mathematical Modeling of Infectious Disease Dynamics
+maxencefaldor/cax                                             271 Python       Cellular Automata Accelerated in JAX (Oral at ICLR 2025)
+mesa/mesa-examples                                            253 Python       User and showcase agent-based models developed using Mesa
+mesa/mesa-geo                                                 235 Python       GIS Extension for Mesa Agent-Based Modeling
+krABMaga/krABMaga                                             224 Rust         krABMaga: A modern developing art for reliable and efficient Agent-based M
+explorium-ai/gtm-skills                                       223 TypeScript   GTM Skills for Claude & Codex
+MathCancer/PhysiCell                                          217 C++          PhysiCell: Scientist end users should use latest release! Developers pleas
+eclab/mason                                                   191 Java         MASON Multiagent Simulation Toolkit
+AdieLaine/multi-agent-reasoning                               190 Python       The Multi-Agent Reasoning framework creates an interactive chatbot where A
+PGshen/thinking-map                                           186 Go           一个基于思维导图的智能思考辅助系统
+scottfr/simulation                                            161 JavaScript   Node and browser JavaScript library to run simulations. Supports System Dy
+FLAMEGPU/FLAMEGPU2                                            157 Cuda         FLAME GPU 2 is a GPU accelerated agent based modelling framework for CUDA 
+sarl/sarl                                                     156 Java         SARL Agent-Oriented Programming Language http://www.sarl.io
+douthwja01/OpenMAS                                            151 MATLAB       OpenMAS is an open source multi-agent simulator based in Matlab for the si
+uwol/computational-economy                                    139 Java         An agent-based computational economy with macroeconomic equilibria from mi
+BioDynaMo/biodynamo                                           137 C++          BioDynaMo is a high-performance and modular, agent-based simulation platfo
+BDI-pathogens/OpenABM-Covid19                                 130 Python       OpenABM-Covid19: an agent-based model for modelling the spread of SARS-CoV
+Panopticon-AI-team/panopticon                                 126 TypeScript   A wargaming platform compatible with reinforcement learning agents 
+NetLogo/models                                                126 NetLogo      NetLogo Models Library
+bancaditalia/BeforeIT.jl                                      124 Julia        High-Performance Agent-Based Macroeconomics Made Easy
+backspaces/agentscript                                        123 JavaScript   An Agent Based Modeling system (ABM)
+seuksaedu-beep/Persona-Flow-Chat                              122 HTML         Simulate AI Personas in Social Feeds with Real-Time Chat Bots 2026
+gama-platform/gama                                            120 Java         Main repository for developing the 2025+ versions of GAMA 
+assume-framework/assume                                       120 Python       ASSUME - Agent-based Simulation for Studying and Understanding Market Evol
+amesoudi/cultural_evolution_ABM_tutorial                      109 Stan         This tutorial shows how to create very simple simulation or agent-based mo
+Repast/repast.simphony                                        102 Java         Git repository for Repast Simphony development
+=== cat2 (9) ===
+jiachenli94/Awesome-Interaction-Aware-Trajectory-Predictio   1693 TeX          A selection of state-of-the-art research materials on trajectory predictio
+wdas/SeExpr                                                   431 C++          SeExpr is an embeddable, arithmetic expression language that enables flexi
+paraboul/mapchecking                                          168 Vue          Source code of MapChecking.com
+aillieo/RVO2-Unity                                            158 C#           ORCA(Optimal Reciprocal Collision Avoidance) in Unity.
+MengeCrowdSim/Menge                                           154 C++          The source code for the Menge crowd simulation framework
+svenkreiss/socialforce                                        146 Jupyter Note Differentiable Social Force simulation with universal interaction potentia
+nathanrooy/rpi-urban-mobility-tracker                         130 Jupyter Note The easiest way to count pedestrians, cyclists, and vehicles on edge compu
+sepsamavi/safe-interactive-crowdnav                           115 Python       Code base for SICNav T-RO paper and SICNav-Diffusion RA-L paper
+sweriko/Horde                                                 111 TypeScript   large scale crowd simulation in threejs
+=== cat3 (52) ===
+a-b-street/abstreet                                          8187 Rust         Transportation planning and traffic simulation software for creating citie
+eclipse-sumo/sumo                                            4223 Python       Eclipse SUMO is an open source, highly portable, microscopic and continuou
+OpenDriveLab/End-to-end-Autonomous-Driving                   3719              [IEEE T-PAMI 2024] All you need for End-to-end Autonomous Driving
+gboeing/ppde642                                              1323 Jupyter Note USC urban data science course series in Python
+flow-project/flow                                            1192 Python       Computational framework for reinforcement learning in traffic control
+LibCity/Bigscity-LibCity                                     1170 Python       LibCity: An Open Library for Urban Spatial-temporal Data Mining
+ucla-mobility/OpenCDA                                        1168 Python       A generalized framework for prototyping full-stack cooperative driving aut
+LucasAlegre/sumo-rl                                          1094 Python       Reinforcement Learning environments for Traffic Signal Control with SUMO. 
+bstabler/TransportationNetworks                              1070 Jupyter Note Transportation Networks for Research
+cityflow-project/CityFlow                                    1029 C++          A Multi-Agent Reinforcement Learning Environment for Large Scale City Traf
+eclipse-ditto/ditto                                           936 Java         Eclipse Ditto™: Digital Twin framework of Eclipse IoT - main repository
+MobilityData/gbfs                                             922              Documentation for the General Bikeshare Feed Specification, a standardized
+scikit-mobility/scikit-mobility                               808 Python       scikit-mobility: mobility analysis in Python
+openmobilityfoundation/mobility-data-specification            749              A data specification to enable right-of-way regulation, digital policy, ge
+conveyal/transitive.js                                        701 JavaScript   Transit data visualization
+matsim-org/matsim-libs                                        650 Java         Multi-Agent Transport Simulation
+motis-project/motis                                           608 C++          multimodal routing, geocoding, and map tiles
+TUDelft-CNS-ATM/bluesky                                       571 Python       The open source air traffic simulator
+ropensci/stplanr                                              443 R            Sustainable transport planning with R
+yifanlu0227/ChatSim                                           433 Python       [CVPR2024 Highlight] Editable Scene Simulation for Autonomous Driving via 
+UCF-SST-Lab/UCF-SST-CitySim1-Dataset                          429 Python       Official github page of UCF SST CitySim Dataset
+BilHim/trafficSimulator                                       403 Python       A microscopic traffic simulation in Python
+sommer/veins                                                  329 C++          Veins - The open source vehicular network simulation framework.
+team-watchdog/colombo-skylines                                325 HTML         A digital twin of the city of Colombo, Sri Lanka, implemented in Cities: S
+ActiveConclusion/COVID19_mobility                             276 Jupyter Note COVID-19 Mobility Data Aggregator. Scraper of Google, Apple, Waze and TomT
+Tom94/practical-path-guiding                                  252 C++          Code of "Practical Path Guiding for Efficient Light-Transport Simulation"
+ActivitySim/activitysim                                       252 Jupyter Note An Open Platform for Activity-Based Travel Modeling
+taco-group/GenAI4AD                                           233              a comprehensive and critical synthesis of the emerging role of GenAI acros
+cyanfish-x/tellux                                             210 TypeScript   Open-source 3D Earth Engine built on Three.js for digital globes, digital 
+davidsun1234/sichuan-digital-twin-dashboard                   203 JavaScript   A lightweight Sichuan digital twin operation dashboard with Canvas map ren
+Zhangweihui666/silver-tourism-digital-twin                    203 JavaScript   Semantic digital twin and 500-agent simulation laboratory for age-friendly
+NVlabs/catk                                                   201 Python       Closed-Loop Supervised Fine-Tuning of Tokenized Traffic Models. CVPR Oral 
+Esri/public-transit-tools                                     197 Python       Tools for working with GTFS public transit data in ArcGIS
+metadriverse/urban-sim                                        195 Python       [CVPR 2025 Highlight] Towards Autonomous Micromobility through Scalable Ur
+INTO-CPS-Association/DTaaS                                    185 TypeScript   :factory: :left_right_arrow: :busts_in_silhouette: Digital Twin as a Servi
+matsim-org/matsim-example-project                             174 Java         A small example of how to use MATSim as a library.
+mkturkcan/valdrada                                            168 JavaScript   Valdrada is a real-time digital twin of New York City built from public da
+DriveX-devs/VaN3Twin                                          164 C            A multi-stack, ETSI compliant, V2X framework for ns-3.
+game4automation/realvirtual-WEB                               156 TypeScript   Browser-based 3D-HMI for industrial automation — Three.js/TypeScript viewe
+ibi-group/datatools-ui                                        148 JavaScript   Core application for IBI's transit data tools suite.
+LBNL-UCB-STI/beam                                             148 Jupyter Note The Framework for Modeling Behavior, Energy, Autonomy, and Mobility in Tra
+CurryChen77/RIFT                                              139 Python       Group-Relative RL Fine-Tuning for Realistic and Controllable Traffic Simul
+minhe51805/UrbanReflex                                        133 TypeScript   UrbanReflex is an open-source smart city platform that transforms road seg
+UT-Austin-RPL/Ditto                                           129 Jupyter Note Code for Ditto: Building Digital Twins of Articulated Objects from Interac
+syzygyhack/open-foundry                                       120 TypeScript   open-source ontology platform for operational digital twins
+lcodeca/LuSTScenario                                          118 TeX          Luxembourg SUMO Traffic (LuST) Scenario
+smart-data-models/SmartCities                                 118              Data models related  to the Smart Cities Domain. Includes data models for 
+eclipse-mosaic/mosaic                                         117 Java         Eclipse MOSAIC is a Multi-Domain and Multi-Scale Simulation Framework for 
+johannilsson/sthlmtraveling                                   113 Java         STHLM Traveling helps you plan your journeys using data from Stockholm Pub
+Addepto/graph_builder                                         113 Python       Open-source toolkit to extract structured knowledge graphs from documents 
+klemola/liikennematto                                         106 Elm           :blue_car: Small scale traffic simulation with a playful approach
+Zaczero/osm-relatify                                          104 Python       🚍 OpenStreetMap Public Transport Made Easy! — Web Editor
+=== cat4 (66) ===
+HKUDS/nanobot                                               49017 Python       Ultra-lightweight, open-source, self-hosted personal AI agent framework in
+NirDiamant/GenAI_Agents                                     24585 Jupyter Note 50+ tutorials and implementations for Generative AI Agent techniques, from
+joonspk-research/generative_agents                          22222              Generative Agents: Interactive Simulacra of Human Behavior
+camel-ai/oasis                                               5270 Python       🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agent
+OpenBMB/AgentVerse                                           5156 JavaScript   🤖 AgentVerse 🪐 is designed to facilitate the deployment of multiple LLM-ba
+NVIDIA/skills                                                3593 Python       Agent Skills for NVIDIA products — install into Claude Code, Codex, and ot
+Mirix-AI/MIRIX                                               3451 Python       Mirix is a multi-agent personal assistant designed to track on-screen acti
+trypromptly/LLMStack                                         2307 Python       No-code multi-agent framework to build LLM Agents, workflows and applicati
+satellitecomponent/Neurite                                   2152 JavaScript   Fractal Graph-of-Thought. Rhizomatic Mind-Mapping for Ai-Agents, Web-Links
+future-agi/future-agi                                        2147 Python       Open-source, end-to-end platform for evaluating, observing, and improving 
+4thfever/cultivation-world-simulator                         2111 Python       基于 AI Agent 工作流的修仙世界模拟器，旨在还原智能、开放的仙侠世界。| An open-source Cultivation World 
+liltom-eth/llama2-webui                                      1935 Jupyter Note Run any Llama 2 locally with gradio UI on GPU or CPU from anywhere (Linux/
+google-deepmind/concordia                                    1780 Python       A library for generative social simulation
+Farama-Foundation/ChatArena                                  1567 Python       ChatArena (or Chat Arena) is a Multi-Agent Language Game Environments for 
+YGYOOO/WorldX                                                1552 TypeScript   One sentence creates an AI-driven world — generate maps, characters, and w
+tsinghua-fib-lab/AgentSociety                                1340 Python       AgentSociety 2 is a modern, LLM-native agent simulation platform designed 
+taichengguo/LLM_MultiAgents_Survey_Papers                    1326              Large Language Model based Multi-Agents: A Survey of Progress and Challeng
+Agentshire/Agentshire                                        1301 TypeScript   OpenClaw / QClaw  plugin that visualizes AI agents as 3D NPCs in a game to
+fetchai/innovation-lab-examples                              1149 Python       80+ production-ready AI agent examples in Python — build autonomous agents
+kyky2347/ALTA                                                1087 Python       Autonomous LLM Trading Asterism — a research-only multi-agent trading plat
+Human-Agent-Society/CORAL                                    1068 Python       Open-source autoresearch powered by autonomous coding agents. Run Claude C
+mkturkcan/generative-agents                                   995 Jupyter Note Working, locally-running, low-cost implementation of Generative Agents: In
+Derpyu520/qq-bridge                                           982 JavaScript   Bridge between QQ (SnowLuma OneBot v11) and DeepSeek Harness agents: socia
+AIScientists-Dev/WorldSeed                                    822 Python       More is Different. A multi-agent world engine where AI agents live, talk, 
+Purewhiter/mobilegym                                          818 Python       [EMNLP 2026] MobileGym: A Verifiable and Highly Parallel Simulation Platfo
+oil-oil/wolfcha                                               734 TypeScript   AI Werewolf game. You take one seat, LLM players fill the rest. AI 狼人杀。
+hello-diana/MASCOT                                            714 Python       EMNLP 2026 Main Conference Paper: MASCOT: Towards Multi-Agent Socio-Collab
+mario-andreschak/FLUJO                                        660 TypeScript   Multi-Agent + Automation Harness: Graph-based Workflows, MCP, Self-Improvi
+Ahren09/AgentReview                                           575 Jupyter Note Official Implementation for EMNLP 2024 (Main Track, Oral) "AgentReview: Ex
+nv-tlabs/Gamma-World                                          570 Python       Implementation of Gamma-World: Generative Multi-Agent World Modeling Beyon
+facebookresearch/meta-agents-research-environments            567 Python       Meta Agents Research Environments is a comprehensive platform designed to 
+ZJU-LLMs/Agent-Kernel                                         547 Python       A MicroKernel Multi-Agents System Framework for Adaptive Social Simulation
+x-glacier/GenerativeAgentsCN                                  536 Python       本项目为Generative Agents项目的重构+深度汉化版本，旨在为中文用户提供一个利于维护的基础版本，以便后续实验或功能拓展。
+LehengTHU/Agent4Rec                                           504 Python       [SIGIR 2024 perspective] The implementation of paper "On Generative Agents
+aws-samples/bedrock-engineer                                  484 TypeScript   Universal AI Agent using Amazon Bedrock, capable of customize to create/ed
+agiresearch/WarAgent                                          459 Python       WarAgent: LLM-based Multi-Agent Simulation of World Wars
+ZJU-LLMs/OpenStory                                            429 Python       An LLM-powered multi-agent framework for simulating interactive, evolving 
+cardiffnlp/tweetnlp                                           394 Python       TweetNLP for all the NLP enthusiasts working on Twitter! The Python librar
+csml-rpi/Foam-Agent                                           340 Python       Foam-Agent: A large language model-based multi-agent framework for automat
+SwiftSage/SwiftSage                                           330 Python       SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex Inte
+HumanoidAgents/HumanoidAgents                                 326 Python       Humanoid Agents: Platform for Simulating Human-like Generative Agents
+ServiceNow/TapeAgents                                         319 Python       TapeAgents is a framework that facilitates all stages of the LLM Agent dev
+Prompthon-IO/agent-systems-handbook                           315 MDX          A practical AI agents handbook covering agent systems, agentic workflows, 
+tsinghua-fib-lab/LLM-Agent-Based-Modeling-and-Simulation      303              
+dengyier/OpenWorkProof                                        287 Python       Open protocol for AI agent work contracts and verifiable execution — autho
+huygiatrng/AlpacaTradingAgent                                 277 Python       AlpacaTradingAgent: Multi-Agents LLM Financial Trading Framework and perfo
+arklexai/arksim                                               233 Python       Find your agents errors be fore your real users do
+AIR-DISCOVER/FreeAskWorld                                     232 Python        [AAAI 2026 Oral] FreeAskWorld is an interactive simulation framework that
+mluogh/eastworld                                              227 Python       Framework for Generative Agents in Games
+FreedomIntelligence/TwinMarket                                224 Python       [NeurIPS 2025 & ICLR 2025 Financial AI Best Paper Award] A multi-agent fra
+Luciole-Studio/Misaka-Agent                                   215 Python       A multi-agent research system for the humanities and social sciences.
+KhanCold/merchantbench                                        170 Python       MerchantBench is a 365-day, order-level benchmark for evaluating the long-
+tt-a1i/MiroFish-local                                         156 Python       MiroFish的免费本地运行版本 | Graphiti+Neo4j替代付费Zep | 简易便捷本地跑通
+microsoft/AnthropomorphicIntelligence                         150 Python       Advancing AI by embracing human-likeness for better AI understanding, huma
+marcopatzelt/brunnfeld-agentic-world                          139 TypeScript   Medieval village economy simulation — up to 1000 LLM agents across multipl
+grandgaming9321-prog/reality-engine                           131 HTML         Top Dynamic AI World Simulation & Storytelling Tools 2026
+ChinmayShringi/MicroFish-En                                   130 Python       English translation of MiroFish (github.com/666ghj/MiroFish) - A concise a
+oaslananka/kicad-mcp-pro                                      127 Python       MCP server for KiCad, connecting AI agents to schematic and PCB workflows,
+sethkarten/LLM-Economist                                      125 Python       Official repository of the 2025 paper, LLM Economist: Large Population Mod
+gunawan1996/world-forge-ai                                    124 HTML         AI World Generator 2026: Create Self-Evolving Maps & Stories
+Abhinesh2004/mirage-cortex                                    121 HTML         Top Agent Swarm Simulation Tools for LLM World Modeling 2026
+rafaelmateo123/Arena-of-Autonomous-Threads                    117 HTML         Top AI Agent Simulator: Build a Local Reddit Forum for LLM Testing 2026
+tanbryan/ai-mv-generator                                      106 Python       A multi-agent system designed for generating music videos with scrolling s
+lucagioacchini/auto-pen-bench                                 104 Python       This repo contains the codes of the penetration test benchmark for Generat
+JouJouoo/agent-campus                                         101 Python       A multi-agent campus social simulation built with LangGraph, featuring mem
+apromisedland/trustworthy-agent-simulation                    101 Python       Auditable LLM multi-agent town simulation with AgentScope, Mesa, replay, p
+=== cat5 (106) ===
+Imbad0202/academic-research-skills-codex                    12837 Python       Codex-native Academic Research Skills suite for human-in-the-loop academic
+humanlayer/humanlayer                                       11693 TypeScript   The best way to get AI coding agents to solve hard problems in complex cod
+aden-hive/hive                                              11106 Python       Multi-Agent Harness for Production AI
+PySpur-Dev/pyspur                                            5794 TypeScript   A visual playground for agentic workflows: Iterate over your agents 10x fa
+agentscope-ai/AgentTeams                                     5748 Go           An open-source Collaborative Multi-Agent OS for transparent, human-in-the-
+argilla-io/argilla                                           5151 Python       Argilla is a collaboration tool for AI engineers and domain experts to bui
+dagucloud/dagu                                               4347 Go           Self-hostable workflow orchestrator for teams whose main work isn't orches
+didi/xiaoju-survey                                           3802 TypeScript   XIAOJUSURVEY is an enterprises form builder and analytics platform that al
+FireRedTeam/FireRed-OpenStoryline                            3484 Python       FireRed-OpenStoryline is an AI video editing agent that transforms manual 
+langchain-ai/social-media-agent                              2841 TypeScript   📲 An agent for sourcing, curating, and scheduling social media posts with 
+MouseLand/cellpose                                           2398 Python       a generalist algorithm for cellular segmentation with human-in-the-loop ca
+langchain-ai/agents-from-scratch                             2389 Jupyter Note Build an email assistant with human-in-the-loop and memory
+Weizhena/Deep-Research-skills                                2355 Python       Structured deep research skill for Claude Code/Open Code/Codex with human-
+psychopy/psychopy                                            2096 Python       For running psychology and neuroscience experiments
+code-kern-ai/refinery                                        1473 Python       The data scientist's open-source choice to scale, assess and maintain natu
+petergyang/human-review                                      1384 JavaScript   A visual tool to edit HTML and Markdown files, leave comments like a Googl
+jspsych/jsPsych                                              1226 TypeScript   Create behavioral experiments in a browser using JavaScript
+XiaoLuoLYG/GOD                                               1220 Python       Govern, Observe, Direct - a real-time control room for agent societies
+i365dev/free4chat                                            1219 TypeScript   Temporary rooms for Humans and AI Agents — run, supervise and steer Agent 
+cinderline/northcinder                                       1205 JavaScript   Open-source MCP server for comparing products and asking the buyer before 
+heymrun/heym                                                 1187 Python       Build agentic systems. Run them with confidence. Orchestrate agents, autom
+Ricky-7-Yan/intelligent-audit-system                         1173 Python       AuditPilot: auditable enterprise AI agents for evidence-grounded workflows
+Shy2593666979/AgentChat                                       915 Python       AgentChat 是一个基于 LLM 的智能体交流平台，内置默认 Agent 并支持用户自定义 Agent。通过多轮对话和任务协作，Agent 可
+LvcidPsyche/auto-browser                                      904 Python       Give your AI agent a real browser — with a human in the loop. Open-source 
+jonigl/mcp-client-for-ollama                                  830 Python       Harness the power of local LLMs with this TUI MCP Client for Ollama. Featu
+Ryder-Sun/Meldwork                                            774 JavaScript   Local-first AI agent workspace for multi-agent collaboration, agent orches
+Scifabric/pybossa                                             760 Python       PYBOSSA is the ultimate crowdsourcing framework (aka microtasking) to anal
+b12io/orchestra                                               714 Python       Orchestra is a human-in-the-loop AI system for orchestrating project teams
+Deuz-AI/Deuz-SDK                                              682 TypeScript   TypeScript AI SDK and agent framework with zero dependencies. Build produc
+spaceamoeba-t/tapq                                            639 Swift        Multi-modal voice agent for your AI agents. Talk with Claude Code, Codex, 
+chenxiachan/thoughtdag                                        625 TypeScript   Your thinking deserves a map: an infinite canvas where LLM conversations g
+KimGLee/Cambium                                               581 Python       Governance standard and reference toolset for LLM-maintained knowledge cor
+Justin0504/Aegis                                              542 TypeScript   Runtime policy enforcement for AI agents. Cryptographic audit trail, human
+oTree-org/oTree                                               530 Python       Python framework for multiplayer decision games, behavioral experiments, a
+fioncat/otree                                                 523 Rust         A command line tool to view objects (JSON/YAML/TOML/XML) in TUI tree widge
+cordum-io/cordum                                              509 Go           The action firewall for AI agents. Enforce policy and human approval befor
+busabase/busabase                                             498 TypeScript   Open-source database & workspace for AI agents — structured data, durable 
+pizza-bot-app/pizza-bot                                       489 TypeScript   A local-first inbox for long-running AI agents, built with DeepAgents and 
+wjayesh/mahilo                                                483 Python       mahilo: Multi-Agent Human-in-the-Loop Framework is a flexible framework fo
+CodeSoul-co/Hypha                                             447 TypeScript   Harness-oriented agent system framework for production-grade LLM agent app
+smithersai/smithers                                           432 TypeScript   Smithers is an agentic workflow framework for defining workflows in simple
+CopilotKit/open-research-ANA                                  417 TypeScript   🤖 An open-source, AI agent-native research canvas application that perform
+DY-2026/GameDesignOS                                          417 Python       Local-first game design OS for AI agents: turn sessions into evidence, exp
+weicanie/prisma-ai                                            410 TypeScript   你的求职AI co-pilot，优化你的项目，定制你的简历，为你匹配工作，并帮助你做好面试准备。此外，还提供一个免费的面经导向的面向offer学习网
+pegasi-ai/reins                                               392 Python       Stop AI agents from doing things you didn't ask for.
+zj-unicom-ai/UniEmployee                                      362 Python       面向企业的数字员工构建与运行平台：把专业员工的经验、流程与判断标准，固化为可随时上岗、可配置、可审批、可观测的 AI 数字员工。
+ttommyth/interactive-mcp                                      351 TypeScript   Vibe coding should have human in the loop! interactive-mcp: Local, cross-p
+pneumaticapp/pneumaticworkflow                                319 Python       Free and source-available Apache 2.0 licensed lightweight workflow automat
+sutro-sh/jev-align                                            308 Python       Build calibrated AI Functions from human feedback using Jev and GEPA.
+AhmadHassan-BTed/OpenOPC-Shadow-Adapter                       298 Python       Zero-modification Human-in-the-Loop adapter for OpenOPC's agentic DAG runt
+virtengine/bosun                                              285 JavaScript   Autonomous Engineering
+microsoft/Sico                                                282 Python       An open-source Digital Worker platform for reliable execution, continuous 
+sagents-ai/sagents                                            276 Elixir       Build interactive AI agents in Elixir with OTP supervision, middleware com
+mcollina/githuman                                             259 TypeScript   Keep the Human in the Loop of coding
+Toloka/crowd-kit                                              255 Python       Control the quality of your labeled data with the Python tools you already
+MaxInGaussian/pi-plans                                        238 TypeScript   Human-in-the-loop planning extension for the Pi coding agent. Turns rough 
+huggingface/gym-hil                                           234 Python       Human in the loop Reinforcement Learning suite
+KOBA789/human-in-the-loop                                     230 Rust         An MCP (Model Context Protocol) server that allows AI assistants to ask qu
+FlickeringLamp/ai-novelist                                    224 TypeScript   vibecoding在AI写作领域的初步尝试，具备function calling，rag，mcp，skills，人在回路等功能，或许能当一个小cu
+huxuehao/apboa                                                209 Java         Apboa 一个基于 AgentScope 构建的可视化智能体平台，支持敏感词 · 多模型接入 · 多模态 · Hook（硬编码 + 在线） · T
+yuema137/PairTeX                                              200 JavaScript   A local, Git-native review + feedback layer for existing LaTeX projects.
+bigchuidw3/spring-ai-agentx                                   197 Java         基于原生 Spring AI 的智能体（Agent）开发框架，提供 ReAct 执行引擎、分层记忆、工具调度、Human-in-the-Loop 等
+edwinkys/phantasm                                             197 Svelte       Toolkits to create a human-in-the-loop approval layer to monitor and guide
+nicepkg/auto-company                                          195 Python       🤖 A fully autonomous AI company that runs 24/7. 14 AI agents (Bezos, Munge
+tokencanopy/e2a                                               193 Go           Open-source email API for applications and AI agents. Managed hosting at e
+psychopy/psychojs                                             190 JavaScript   PsychoJS is the online counterpart of the PsychoPy Python library
+stloendays/Superpower                                         189 TypeScript   From AI Assistance to Agentic Workflows: Making MCP Practical in the Brows
+madguyevans-creator/Fintech-CUI-Trust-Framework               177 Python       An open-source engineering governance standard defining trust boundaries f
+bailinghub/bailinghub                                         172 TypeScript   让 Agent 通过对话直接操作你的商城、SaaS、CRM 或 ERP 后台，同时保留原有权限、审批与审计。Self-hosted hub for 
+ESA-PhiLab/iris                                               170 JavaScript   Semi-automatic tool for manual segmentation of multi-spectral and geo-spat
+decionis/docker                                               165 Go           Govern consequential AI agent actions in Docker with deterministic policy,
+Donders-Institute/bidscoin                                    161 Python       BIDScoin converts your source-level neuroimaging data to BIDS
+manor-os/manor-ai                                             160 Python       Source-available, self-hosted AI agent workspace for small businesses and 
+byt3bl33d3r/figaro                                            155 Python       Orchestrate fleets of Claude Code & Claude Computer Use agents across cont
+Francis1998/scholar-rag-agent                                 149 Python       Local-first scientific-literature RAG with a script-free saved-run browser
+paulp-o/ask-user-questions-mcp                                147 TypeScript   Better 'AskUserQuestion' - A lightweight MCP server/OpenCode plugin/Agent 
+Buffalo2024/Rulora                                            145 JavaScript   Pluggable controls for reliable AI agents: validated outputs, bounded loop
+Naituw/AskHuman                                               142 Rust         Human-in-the-loop tool for answering questions from AI agents.
+BichengWang/ai-decision-system                                141 Jupyter Note Replayable, offline-verifiable records for AI-assisted go/no-go decisions:
+wanmol/goal-flow                                              141 Python       Graph-Orchestrated Agent Loop — a production-grade framework on LangGraph.
+pkooij/open-arms-mini                                         134              open-arms-mini: cheap human like teleoperation device that supports human 
+agentailor/fullstack-langgraph-nextjs-agent                   134 TypeScript     Production-ready Next.js template for building AI agents with LangGraph.
+whichmen/dxl-commerce-agent                                   133 Python       OpenClaw + 大模型驱动的完整电商客服自动化系统：覆盖淘宝、拼多多、抖音、快手、小红书、视频号，包含浏览器/手机 Worker、订单物流与售
+verl-project/verl-vla                                         129 Python       A unified VLA post-training framework for human-in-the-loop data collectio
+alex-durango/pingfusi                                         128 JavaScript   MCP server + CLI that puts a real human in your coding agent's loop. It pu
+X-isdoingreat/canvas-pilot                                    125 Python       Local-first Canvas LMS AI agent that learns each course's recurring assign
+weijt606/anti-vibe-writing                                    123              An AI writing skill that turns agent-generated drafts into clearer, warmer
+frumu-ai/tandem                                               121 Rust         Tandem is the authority layer between AI agents and company tools: runtime
+nodeGame/nodegame                                             120 JavaScript   Complete nodegame repository with examples and documentation
+doraemonkeys/claude-code-debug-mode                           118              Cursor-style Debug Mode skill for coding agents. Hypothesis-driven debuggi
+hardness1020/Leeway                                           116 Python       A workflow-driven AI agent framework that executes YAML-defined decision t
+adamterlson/AgenticStateMachines                              114 TypeScript   State Machine definitions for Agentic AI patterns including tool use, refl
+easychen/ask4me                                               113 Go           Single request, complete the human-in-the-loop | 极简Human-in-the-Loop 方案：一个
+extrasmall0/dear-hiring-manager                               110              A Claude Code plugin that fills your job applications from your profile, d
+BrightbeamAI/chap                                             110 HTML         CHAP, the Collaborative Human Agent Protocol, is a MCP/A2A-compatible runt
+qifan777/data-agent-tutorial                                  110 Kotlin       Data-Agent：从 0 到 1 构建 Text2SQL 智能体实战教程，覆盖 StateGraph 编排、双重 RAG、关系图谱、HITL 人
+Wbbbbjikjgo/ERP-AGENT                                         110 Python       本项目基于通义千问（qwen-plus）大模型构建AI Agent智能采购管理系统，专为摩托车零部件采购场景打造。系统与现有Java ERP后端深度
+pa1nrui1/legal-skills                                         109 Python       Chinese legal workflow skills for AI agents
+ptonlix/gohumanloop                                           109 Python       💯 Perfecting AI workflows with human intelligence
+Towow-ai/Flowness                                             107 Python        A work-centered runtime for agentic software engineering. Work persists; 
+YihongT/CoAutoResearch                                        105 Python       An open-source research system for autonomous investigation, recursive sel
+Yaogui415/newsflow-oss                                        104 Python       An AI-assisted newsroom workflow system for event tracking, evidence organ
+esurovtsev/langgraph-advanced                                 103 Jupyter Note An advanced LangGraph series exploring real-world agent workflows, dynamic
+jinhanbuilds/hoist-the-elephant                               102 JavaScript   Re-anchor long conversations that drift through repeated local corrections
+Toloka/tendem-mcp                                             102 Python       Home for Human In The Loop Tendem plugin for your agent.
+z15114664687-dot/hr-onboarding-agent                          101 Python       Open-source AI-assisted HR onboarding for Feishu/Lark: configurable workfl
+=== cat6 (3) ===
+SDXorg/pysd                                                   462 Python       System Dynamics Modeling in Python
+Fault-lang/Fault                                              171 Go           a language for building system dynamic models
+Jonas-Nicodemus/PINNs-based-MPC                               157 Python       We discuss nonlinear model predictive control (NMPC) for multi-body dynami
+=== cat7 (150) ===
+bilawalsidhu/gods-eye-view                                  56208 JavaScript   A spy satellite simulator in your browser, except the data is real. Live o
+CesiumGS/cesium                                             15833 JavaScript   An open-source JavaScript library for world-class 3D globes and maps :eart
+marceloprates/prettymaps                                    14304 Python       Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + s
+originalankur/maptoposter                                   14212 Python       Transform your favorite cities into beautiful, minimalist designs. MapToPo
+keplergl/kepler.gl                                          12046 TypeScript   Kepler.gl is a powerful open source geospatial analysis tool for large-sca
+Turfjs/turf                                                 10519 TypeScript   A modular geospatial engine written in JavaScript and TypeScript
+domlysz/BlenderGIS                                           9476 Python       Blender addons to make the bridge between Blender and geographic data
+opengeos/GeoLibre                                            7996 TypeScript   A lightweight, cloud-native GIS platform for visualizing, exploring, and a
+uber/h3                                                      6593 C            Hexagonal hierarchical geospatial indexing system
+RediSearch/RediSearch                                        6243 Rust         A query and indexing engine for Redis, providing secondary indexing, full-
+hyperknot/openfreemap                                        6209 Python       Free and open-source map hosting solution with custom styles for websites 
+gboeing/osmnx                                                5875 Python       Download, model, analyze, and visualize street networks and other geospati
+geopandas/geopandas                                          5277 Python       Python tools for geographic data
+maptalks/maptalks.js                                         4538 HTML         A light and plugable JavaScript library for integrated 2D/3D maps.
+torchgeo/torchgeo                                            4202 Python       TorchGeo: datasets, samplers, transforms, and pre-trained models for geosp
+mbloch/mapshaper                                             4190 JavaScript   Tools for editing Shapefile, GeoJSON, TopoJSON and CSV files
+opengeos/segment-geospatial                                  4163 Python       A Python package for segmenting geospatial data with the Segment Anything 
+antvis/L7                                                    4073 TypeScript   🌎 Large-scale WebGL-powered Geospatial Data Visualization analysis engine.
+mapnik/mapnik                                                3968 C++          Mapnik is an open source toolkit for developing mapping applications
+opengeos/leafmap                                             3783 Python       A Python package for interactive mapping and geospatial analysis with mini
+opengeos/geoai                                               3424 Python       GeoAI: Artificial Intelligence for Geospatial Data
+zcreativelabs/react-simple-maps                              3381 TypeScript   Composable SVG map charts for data visualization in React
+maplibre/maputnik                                            2655 TypeScript   An open source visual editor for the 'MapLibre Style Specification'
+CesiumGS/3d-tiles                                            2621 Batchfile    Specification for streaming massive heterogeneous 3D geospatial datasets :
+rasterio/rasterio                                            2582 Python       Rasterio reads and writes geospatial raster datasets
+NASA-AMMOS/3DTilesRendererJS                                 2492 JavaScript   Renderer for 3D Tiles in Javascript using three.js, Babylon.js, and r3f
+geoman-io/leaflet-geoman                                     2434 TypeScript   🍂🗺️ The most powerful leaflet plugin for drawing and editing geometry laye
+apache/sedona                                                2421 Java         A cluster computing framework for processing large-scale geospatial data
+postgis/postgis                                              2244 PLpgSQL      PostGIS spatial database extension to PostgreSQL [mirror]
+proj4js/proj4js                                              2244 JavaScript   JavaScript library to transform coordinates from one coordinate system to 
+nvkelso/natural-earth-vector                                 2242 HTML         A global, public domain map dataset available at three scales and featurin
+locationtech/jts                                             2240 Java         The JTS Topology Suite is a Java library for creating and manipulating vec
+Esri/arcgis-python-api                                       2216 Python       Documentation and samples for ArcGIS API for Python
+georust/geo                                                  1947 Rust         Rust geospatial primitives & algorithms
+c2g-dev/city2graph                                           1944 Python       Transform geospatial relations into graphs for Graph Neural Networks and s
+geotools/geotools                                            1929 Java         Official GeoTools repository
+zouyaoji/vue-cesium                                          1916 HTML         🎉 Vue 3.x components for CesiumJS.
+gboeing/osmnx-examples                                       1897 Jupyter Note Gallery of OSMnx tutorials, usage examples, and feature demonstrations.
+joewdavies/geoblender                                        1862 HTML         Tutorials for making 3D-looking maps with Blender and QGIS
+thanglequoc/vietnamese-provinces-database                    1830 PLpgSQL      Comprehensive SQL and GIS datasets for Vietnamese administrative units, in
+pelicanmapping/osgearth                                      1809 C            3D Maps & Terrain SDK (C++)
+GeoNode/geonode                                              1721 Python       GeoNode is an open source platform that facilitates the creation, sharing,
+tengge1/ShadowEditor                                         1714 JavaScript   Cross-platform 3D scene editor based on three.js, golang and mongodb for d
+Mapsui/Mapsui                                                1577 C#           Mapsui is a .NET Map component for: MAUI, Avalonia, Uno Platform, Blazor, 
+mikeroyal/Photogrammetry-Guide                               1529 Python       Photogrammetry Guide.  Photogrammetry is widely used for Aerial surveying,
+go-spatial/tegola                                            1502 Go           Tegola is a Mapbox Vector Tile server written in Go
+GEOSwift/GEOSwift                                            1501 Swift        The Swift Geometry Engine.
+placemark/placemark                                          1466 TypeScript   A flexible web-based editor, converter, visualization tool, for geospatial
+movingpandas/movingpandas                                    1419 Python       MovingPandas - a Python library for movement data exploration and analysis
+w3reality/three-geo                                          1419 JavaScript   3D geographic visualization library
+NICEXAI/leaflet_zh                                           1411 HTML         Leaflet 中文网
+opengisch/QField                                             1382 C++          A simplified touch optimized interface for QGIS
+Toblerity/Fiona                                              1249 Python       Fiona reads and writes geographic data files
+pyproj4/pyproj                                               1231 Python       Python interface to PROJ (cartographic projections and coordinate transfor
+ResidentMario/geoplot                                        1216 Python       High-level geospatial data visualization library for Python.
+jblindsay/whitebox-tools                                     1212 Rust         An advanced geospatial data analysis platform
+OSGeo/grass                                                  1178 C            GRASS - free and open-source geospatial processing engine
+paulmach/orb                                                 1136 Go           Types and utilities for working with 2d geometry in Golang
+openwisp/django-rest-framework-gis                           1129 Python       Geographic add-ons for Django REST Framework. Maintained by the OpenWISP P
+opengeospatial/geoparquet                                    1100 Python       Specification for storing geospatial vector data (point, line, polygon) in
+dimartarmizi/map-to-poster                                   1093 JavaScript   MapToPoster JS is a client-side web app that turns any location into a hig
+uber/h3-js                                                   1089 JavaScript   h3-js provides a JavaScript version of H3, a hexagon-based geospatial inde
+marsgis/mars3d                                               1085              【Mars3D平台 】主仓库，包含所有开源仓库清单导航
+cyang-kth/fmm                                                1057 C++          Fast map matching, an open source framework in C++
+uber/h3-py                                                   1045 Python       Python bindings for H3, a hierarchical hexagonal geospatial indexing syste
+opengeos/streamlit-geospatial                                1031 Python       A multi-page streamlit app for geospatial
+dcharatan/flowmap                                             986 Python       [3DV 2025] Code for "FlowMap: High-Quality Camera Poses, Intrinsics, and D
+twpayne/go-geom                                               983 Go           Package geom implements efficient geometry types for geospatial applicatio
+xarray-contrib/xarray-spatial                                 976 Python       Spatial analysis algorithms for xarray implemented in numba
+developmentseed/lonboard                                      969 Python       Fast, interactive geospatial data visualization in Jupyter.
+opengeos/RustGIS                                              946 Rust         A fast, free and open-source GIS in pure Rust.
+xeokit/xeokit-sdk                                             945 HTML         3D BIM IFC Viewer SDK for AEC engineering applications. Open Source JavaSc
+openglobus/openglobus                                         940 TypeScript   TypeScript/JavaScript 3D maps and geospatial data visualization engine lib
+pysheds/pysheds                                               911 Python       Simple and fast watershed delineation in python
+opengeos/python-geospatial                                    908 Shell        A collection of Python packages for geospatial analysis with binder-ready 
+tjukanovt/30DayMapChallenge                                   885 Python       Official repo for the #30DayMapChallenge data visualization project. Open 
+SharpMap/SharpMap                                             860 C#           An easy-to-use mapping library for use in web and desktop applications
+mousebird-consulting-inc/WhirlyGlobe                          847 C++          WhirlyGlobe Development
+aourednik/historical-basemaps                                 845 JavaScript   Collection of georeferenced boundaries of world countries and cultural reg
+rstudio/leaflet                                               842 JavaScript   R Interface to Leaflet Maps
+neo4j-contrib/spatial                                         826 Java         Neo4j Spatial is a library of utilities for Neo4j that faciliates the enab
+matplotlib/basemap                                            817 Python       Plot on map projections (with coastlines and political boundaries) using m
+stefanocudini/leaflet-search                                  814 JavaScript   Search stuff in a Leaflet map
+koopjs/koop                                                   713 JavaScript   Transform, query, and download geospatial data on the web.
+openinframap/openinframap                                     689 TypeScript   Open Infrastructure Map, a view of infrastructure data in OpenStreetMap
+koordinates/kart                                              683 Python       Distributed version-control for geospatial and tabular data
+fatiando/verde                                                675 Python       Processing and gridding spatial data, machine-learning style
+opengeos/geospatial-data-catalogs                             668 Python       A list of open geospatial datasets available on AWS, Earth Engine, Planeta
+geosolutions-it/MapStore2                                     664 JavaScript   The solution to create and share maps, dashboards, geostories with 3D supp
+maptalks/maptalks.three                                       651 HTML         A maptalks layer to render with three.js.
+mszell/geospatialdatascience                                  650 Jupyter Note Course materials for: Geospatial Data Science
+earthaccess-dev/earthaccess                                   644 Python       Python Library for NASA Earthdata APIs
+pysal/momepy                                                  637 Python       Urban Morphology Measuring Toolkit
+giswqs/intro-gispro                                           637 Jupyter Note Code examples for the book titled Introduction to GIS Programming
+tudelft3d/3dfier                                              637 C++          The open-source tool for creating 3D models
+corteva/rioxarray                                             626 Python       geospatial xarray extension powered by rasterio
+rspatial/terra                                                622 C++          R package for spatial data handling https://rspatial.github.io/terra/refer
+JuliaEarth/GeoStats.jl                                        591 Julia        An extensible framework for geospatial data science and geostatistical mod
+opendatacube/datacube-core                                    591 Python       Open Data Cube analyses continental scale Earth Observation data through t
+randyzwitch/streamlit-folium                                  586 Python       Streamlit Component for rendering Folium maps
+zhongkaifu/TensorSharp                                        583 C#           A native .NET LLM inference engine and agent runtime for GGUF models. Tens
+Wildhoney/Leaflet.FreeDraw                                    576 JavaScript   :earth_asia: FreeDraw allows the free-hand drawing of shapes on your Leafl
+naturalatlas/node-gdal                                        573 C++          Node.js bindings for GDAL (Geospatial Data Abstraction Library)
+xeokit/xeokit-bim-viewer                                      568 JavaScript   Built with xeokit SDK. IFC, BIM and Point Cloud 3D Viewer as a package. En
+luanshixia/AutoCADCodePack                                    560 C#           AutoCAD Code Pack: A powerful library that helps you to develop AutoCAD pl
+r-spatial/mapview                                             554 JavaScript   Interactive viewing of spatial data in R
+kunifujiwara/VoxCity                                          553 Python       Python framework for integrating geospatial data, 3D city modeling, and ur
+opengeos/GeoAgent                                             508 Python       A multimodal AI agent for geospatial data analysis and interactive visuali
+OpenGeoscience/geojs                                          471 JavaScript   High-performance visualization and interactive data exploration of scienti
+opengeos/geospatial                                           437 Dockerfile   A Python package for installing commonly used packages for geospatial anal
+dekart-xyz/dekart                                             434 JavaScript   Open-source backend for Kepler.gl. Self-hosted alternative to CARTO and Fo
+UDST/pandana                                                  430 C++          Pandas Network Analysis by UrbanSim: fast accessibility metrics and shorte
+FlowmapBlue/FlowmapBlue                                       426 CSS          Flow map visualization tool
+conveyal/r5                                                   406 Java         Developed to power Conveyal's web-based interface for scenario planning an
+luukvdmeer/sfnetworks                                         402 R            Tidy Geospatial Networks in R
+urschrei/Geopython                                            383 Jupyter Note Notebooks and libraries for spatial/geo Python explorations
+maplibre/navara                                               383 TypeScript   Navara is a highly extensible 3D map engine. Load a wide range of GIS data
+Esri/spatial-framework-for-hadoop                             376 Java         The Spatial Framework for Hadoop allows developers and data scientists to 
+Gaia3D/mago-3d-tiler                                          365 Java         Official mago-3d-tiler repository, Java Version 3D Tiles Generator
+raphaelquast/EOmaps                                           362 Python       A library to create interactive maps of geographical datasets
+banesullivan/localtileserver                                  350 Python       dynamic tile server for visualizing rasters in Jupyter with ipyleaflet or 
+felixpalmer/a5                                                332 TypeScript   Pentagonal geospatial indexing system DGGS
+tsinghua-fib-lab/DRL-urban-planning                           310 Jupyter Note A deep reinforcement learning (DRL) based approach for spatial layout of l
+cgre-aachen/gemgis                                            298 Python       Spatial data processing for geomodeling
+schochastics/graphlayouts                                     284 R            new layout algorithms for network visualizations in R
+geolens-io/geolens                                            275 Python       Self-hosted geospatial data catalog with semantic search (pgvector), OGC/S
+riatelab/mapsf                                                249 R            Thematic cartography with R
+eurostat/gridviz                                              245 JavaScript   A library for visualizing gridded data 🌐
+osmlab/atlas                                                  244 Java         OSM in memory
+NASA-AMMOS/MMGIS                                              233 JavaScript   Multi-Mission Geographic Information System - A Web-based Mapping and Spat
+GenericMappingTools/GMT.jl                                    221 Julia        Generic Mapping Tools Library Wrapper for Julia
+varoudis/depthmapX                                            194 C++          depthmapX is a multi-platform Spatial Network Analysis Software
+tudelft3d/City4CFD                                            191 C++          Reconstruction of LoD2 3D city models for urban flow simulations
+msoechting/lexcube                                            190 TypeScript   Lexcube: 3D Data Cube Visualization in Jupyter Notebooks
+r-barnes/dggridR                                              189 C++          Discrete Global Grids for R: Spatial Analysis Done Right
+andreasdr/tdme2                                               185 C++          TDME2 - ThreeDeeMiniEngine2 is a lightweight, multi-platform 3D engine inc
+movingpandas/movingpandas-examples                            183 Jupyter Note Example notebooks illustrating MovingPandas use cases 
+remotesensinginfo/rsgislib                                    177 C++          Remote Sensing and GIS Software Library; python module tools for processin
+pkinney/topo                                                  173 Elixir       A Geometry library for Elixir that calculates spatial relationships betwee
+peterstace/simplefeatures                                     173 Go           Simple Features is a pure Go Implementation of the OpenGIS Simple Feature 
+zymazza/mazzap                                                152 Python       Mazzap, part of the Mazzstack: essentials for the Singularity Slowlife
+neesjanvaneck/VOSviewer-Online                                141 JavaScript   VOSviewer Online is a tool for network visualization. It is a web-based ve
+visgl/flowmap.gl                                              141 TypeScript   Flow map drawing layer for deck.gl
+ryrobes/flowmaps                                              139 Clojure      Construct & orchestrate stand-alone Clojure core.async pipelines with ease
+matejker/everystreet                                          133 Jupyter Note An algorithm finding #everystreet route on Open Street Map (OSMnx)
+ggerman/libgd-gis                                             129 Ruby         libgd-gis is a native GIS and map-rendering engine for Ruby built on top o
+benchmark-urbanism/cityseer-api                               125 Python       Computational tools for urban analysis
+GoogleCloudPlatform/bigquery-geo-viz                          124 TypeScript   Visualize Google BigQuery geospatial data using Google Maps Platform APIs
+riponcm/AcadGIS                                               111 Python       Make publication-ready study area maps, choropleths, locator insets, terra
+uber-web/kepler.gl-data                                       110              Kepler.gl Sample Repo

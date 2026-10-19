@@ -1,0 +1,166 @@
+{
+ "log": [
+  {
+   "q": "系统动力学 仿真 城市",
+   "chunk": 0,
+   "error": "<HTTPError 429: 'Too Many Requests'>"
+  },
+  {
+   "q": "系统动力学 仿真 城市",
+   "chunk": 8,
+   "error": "<HTTPError 429: 'Too Many Requests'>"
+  },
+  {
+   "q": "存量 更新 空间 模型",
+   "chunk": 0,
+   "error": "<HTTPError 429: 'Too Many Requests'>"
+  },
+  {
+   "q": "存量 更新 空间 模型",
+   "chunk": 8,
+   "error": "<HTTPError 429: 'Too Many Requests'>"
+  },
+  {
+   "q": "要素流动 空间 格局",
+   "chunk": 0,
+   "error": "<HTTPError 429: 'Too Many Requests'>"
+  },
+  {
+   "q": "要素流动 空间 格局",
+   "chunk": 8,
+   "error": "<HTTPError 429: 'Too Many Requests'>"
+  },
+  {
+   "q": "因果 反馈 系统 模型",
+   "chunk": 0,
+   "error": "<HTTPError 429: 'Too Many Requests'>"
+  },
+  {
+   "q": "因果 反馈 系统 模型",
+   "chunk": 8,
+   "error": "<HTTPError 429: 'Too Many Requests'>"
+  },
+  {
+   "q": "参与式 规划 公众参与",
+   "chunk": 0,
+   "error": "<HTTPError 429: 'Too Many Requests'>"
+  },
+  {
+   "q": "参与式 规划 公众参与",
+   "chunk": 8,
+   "error": "<HTTPError 429: 'Too Many Requests'>"
+  },
+  {
+   "q": "情景模拟 规划支持",
+   "chunk": 0,
+   "error": "<HTTPError 429: 'Too Many Requests'>"
+  },
+  {
+   "q": "情景模拟 规划支持",
+   "chunk": 8,
+   "error": "<HTTPError 429: 'Too Many Requests'>"
+  },
+  {
+   "q": "仿真实验 决策 平台",
+   "chunk": 0,
+   "error": "<HTTPError 429: 'Too Many Requests'>"
+  },
+  {
+   "q": "仿真实验 决策 平台",
+   "chunk": 8,
+   "error": "<HTTPError 429: 'Too Many Requests'>"
+  },
+  {
+   "q": "大语言模型 智能体",
+   "chunk": 0,
+   "error": "<HTTPError 429: 'Too Many Requests'>"
+  },
+  {
+   "q": "大语言模型 智能体",
+   "chunk": 8,
+   "error": "<HTTPError 429: 'Too Many Requests'>"
+  },
+  {
+   "q": "生成式人工智能 规划",
+   "chunk": 0,
+   "error": "<HTTPError 429: 'Too Many Requests'>"
+  },
+  {
+   "q": "生成式人工智能 规划",
+   "chunk": 8,
+   "error": "<HTTPError 429: 'Too Many Requests'>"
+  },
+  {
+   "q": "多智能体 仿真 社会",
+   "chunk": 0,
+   "error": "<HTTPError 429: 'Too Many Requests'>"
+  },
+  {
+   "q": "多智能体 仿真 社会",
+   "chunk": 8,
+   "error": "<HTTPError 429: 'Too Many Requests'>"
+  },
+  {
+   "q": "行人流 元胞自动机",
+   "chunk": 0,
+   "error": "<HTTPError 429: 'Too Many Requests'>"
+  },
+  {
+   "q": "行人流 元胞自动机",
+   "chunk": 8,
+   "error": "<HTTPError 429: 'Too Many Requests'>"
+  },
+  {
+   "q": "人群 疏散 仿真",
+   "chunk": 0,
+   "error": "<HTTPError 429: 'Too Many Requests'>"
+  },
+  {
+   "q": "人群 疏散 仿真",
+   "chunk": 8,
+   "error": "<HTTPError 429: 'Too Many Requests'>"
+  },
+  {
+   "q": "客流 预测 轨道",
+   "chunk": 0,
+   "error": "<HTTPError 429: 'Too Many Requests'>"
+  },
+  {
+   "q": "客流 预测 轨道",
+   "chunk": 8,
+   "error": "<HTTPError 429: 'Too Many Requests'>"
+  },
+  {
+   "q": "手机信令 出行",
+   "chunk": 0,
+   "error": "<HTTPError 429: 'Too Many Requests'>"
+  },
+  {
+   "q": "手机信令 出行",
+   "chunk": 8,
+   "error": "<HTTPError 429: 'Too Many Requests'>"
+  },
+  {
+   "q": "城市 数字孪生 交通",
+   "chunk": 0,
+   "error": "<HTTPError 429: 'Too Many Requests'>"
+  },
+  {
+   "q": "城市 数字孪生 交通",
+   "chunk": 8,
+   "error": "<HTTPError 429: 'Too Many Requests'>"
+  },
+  {
+   "q": "起讫点 OD 估计",
+   "chunk": 0,
+   "error": "<HTTPError 429: 'Too Many Requests'>"
+  },
+  {
+   "q": "起讫点 OD 估计",
+   "chunk": 8,
+   "error": "<HTTPError 429: 'Too Many Requests'>"
+  }
+ ],
+ "count": 0,
+ "rows": []
+}

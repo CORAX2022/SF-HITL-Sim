@@ -1,0 +1,1837 @@
+[
+ {
+  "id": "ax_2604-15782v1",
+  "title": "Fusing Cellular Network Data and Tollbooth Counts for Urban Traffic Flow Estimation",
+  "authors": [
+   "Oluwaleke Yusuf",
+   "Shaira Tabassum"
+  ],
+  "year": 2026,
+  "venue": "arXiv preprint",
+  "source_id": "2604.15782v1",
+  "url": "https://arxiv.org/abs/2604.15782v1",
+  "pdf_path": "docs/papers2/pdf/ax_2604-15782v1.pdf",
+  "downloaded": true,
+  "open_access": true,
+  "themes": [
+   "A"
+  ],
+  "abstract_zh": "交通仿真缺少分车型OD数据。本文以稀疏准确的收费站点分车型计数为真值，结合时间与道路类型特征训练XGBoost，校正并分解手机网络peopleFlow，在挪威特隆赫姆公交枢纽扩建案例中生成逐小时分车型OD矩阵，总流量R2达0.9812。",
+  "contribution_zh": "用稀疏收费站点计数校正并分解手机网络数据，生成逐小时OD矩阵",
+  "verified": true,
+  "notes": "PDF 已下载并经 PyMuPDF 校验（页数 8，正文可读）；标题/作者/摘要取自 arXiv 或出版方 API 实际返回。"
+ },
+ {
+  "id": "ax_2511-14607v1",
+  "title": "A System Dynamics Approach to Evaluating Sludge Management Strategies in Vinasse Treatment: Cost-Benefit Analysis and Scenario Assessment",
+  "authors": [
+   "Agustin Olivares",
+   "Paul Leger",
+   "Rodrigo Poblete"
+  ],
+  "year": 2025,
+  "venue": "arXiv preprint",
+  "source_id": "2511.14607v1",
+  "url": "https://arxiv.org/abs/2511.14607v1",
+  "pdf_path": "docs/papers2/pdf/ax_2511-14607v1.pdf",
+  "downloaded": true,
+  "open_access": true,
+  "themes": [
+   "A"
+  ],
+  "abstract_zh": "针对智利 pisco 酒业每升酒精产生 10–15 升酒糟的难题，本文提出系统动力学模型（SDM），评估自然干燥、异地转运、混凝-絮凝加速污泥产生三种策略的成本。模型以智利北部一家企业的历史数据校准，纳入污泥运输、混凝剂用量与环境温度等变量，并给出各情景成本的预期结果以支持决策。",
+  "contribution_zh": "首次提出面向酒糟污泥管理的系统动力学模型并给出各管理情景成本预估。",
+  "verified": true,
+  "notes": "PDF 已下载并经 PyMuPDF 校验（页数 3，正文可读）；标题/作者/摘要取自 arXiv 或出版方 API 实际返回。"
+ },
+ {
+  "id": "ax_2501-09141v1",
+  "title": "The Science of Urban Metabolism and Sustainability",
+  "authors": [
+   "Mariana Brüning-González",
+   "José Ignacio Arroyo",
+   "Pablo A. Marquet",
+   "Horacio Samaniego"
+  ],
+  "year": 2025,
+  "venue": "arXiv preprint",
+  "source_id": "2501.09141v1",
+  "url": "https://arxiv.org/abs/2501.09141v1",
+  "pdf_path": "docs/papers2/pdf/ax_2501-09141v1.pdf",
+  "downloaded": true,
+  "open_access": true,
+  "themes": [
+   "A"
+  ],
+  "abstract_zh": "城市系统如生物体，依赖物质与能量代谢维持运转。本文分析城市代谢与可持续性研究的结构演化，发现该新兴领域增长至2019年，方法以生态网络分析、生命周期评价和物质流分析为主，偏好流量而非存量，作者多来自中国和美国，性别差距小于一般科研。",
+  "contribution_zh": "以文献计量刻画城市代谢与可持续性研究的结构演化，指出其重流量轻存量的缺口。",
+  "verified": true,
+  "notes": "PDF 已下载并经 PyMuPDF 校验（页数 26，正文可读）；标题/作者/摘要取自 arXiv 或出版方 API 实际返回。"
+ },
+ {
+  "id": "jn-10-1007-s10980-026-02444-6",
+  "title": "An integrated land-use reclassification and scenario-simulation analysis of land system dynamics in China",
+  "authors": [
+   "Boxuan Zhao",
+   "Penghe Xu",
+   "Yuanyuan Yang"
+  ],
+  "year": 2026,
+  "venue": "Landscape Ecology",
+  "source_id": "10.1007/s10980-026-02444-6",
+  "url": "https://doi.org/10.1007/s10980-026-02444-6",
+  "pdf_path": null,
+  "downloaded": false,
+  "open_access": true,
+  "themes": [
+   "A",
+   "D"
+  ],
+  "abstract_zh": "针对传统土地覆盖分类掩盖生态上不同利用方式的问题，论文整合遥感与人类活动干扰指标，把中国土地系统重新划分为七类，识别 2000—2020 年主导转换路径，并模拟 2030 与 2050 年不同情景下的分异。",
+  "contribution_zh": "以土地利用再分类与情景模拟整合刻画中国土地系统动态。",
+  "verified": true,
+  "notes": "OpenAlex 元数据与摘要已核验；未获 PDF。"
+ },
+ {
+  "id": "jn-10-1007-s44498-026-00092-2",
+  "title": "Urban metabolism in transition: a dynamic modeling of stock-flow-service nexus in the built environment",
+  "authors": [
+   "Xiaoyi Liu",
+   "Zhongnan Ye",
+   "Shu-Chien Hsu"
+  ],
+  "year": 2026,
+  "venue": "Journal of Industrial Ecology",
+  "source_id": "10.1007/s44498-026-00092-2",
+  "url": "https://doi.org/10.1007/s44498-026-00092-2",
+  "pdf_path": null,
+  "downloaded": false,
+  "open_access": true,
+  "themes": [
+   "A"
+  ],
+  "abstract_zh": "研究把动态物质流分析与前瞻性生命周期评价结合，建立“存量—流量—服务”关联模型，评估香港公共租赁住房部门 1950—2100 年建筑材料存量、能源需求与温室气体排放的长期演变，识别存量增长与减排路径的时点关系。",
+  "contribution_zh": "提出建成环境存量-流量-服务动态耦合建模并做百年尺度情景评估。",
+  "verified": true,
+  "notes": "OpenAlex 元数据与摘要已核验；未获 PDF。"
+ },
+ {
+  "id": "cn_7204129335",
+  "title": "融合大语言模型的城市指标体检评估智能诊断范式构建与探索",
+  "authors": [
+   "王康旭",
+   "张姗琪",
+   "陈成"
+  ],
+  "year": 2026,
+  "venue": "城市规划学刊",
+  "source_id": "NAPSTIC:7204129335",
+  "url": "https://opaj.napstic.cn/search?q=%E8%9E%8D%E5%90%88%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%9F%8E%E5%B8%82%E6%8C%87%E6%A0%87%E4%BD%93%E6%A3%80%E8%AF%84%E4%BC%B0%E6%99%BA%E8%83%BD%E8%AF%8A%E6%96%AD%E8%8C%83%E5%BC%8F%E6%9E%84%E5%BB%BA%E4%B8%8E%E6%8E%A2%E7%B4%A2",
+  "pdf_path": null,
+  "downloaded": false,
+  "open_access": false,
+  "themes": [
+   "C",
+   "A"
+  ],
+  "abstract_zh": "针对城市体检评估异常识别停留于表层描述、数据与专业知识衔接不足的问题，论文提出“表征—解释—决策”（S-E-D）诊断认知本体框架，并构建知识增强大语言模型的分析方法，在规划知识约束下支持指标分析、问题归因与策略推演，以南京市指标体检为案例验证。",
+  "contribution_zh": "提出 S-E-D 认知框架与知识增强大模型驱动的城市指标智能诊断范式。",
+  "verified": true,
+  "notes": "NAPSTIC 题录与摘要已核验（origin_id 7204129335，2026年第2期，P.82-88）；CNKI/万方无公开 API，全文需机构订阅，未获 PDF。"
+ },
+ {
+  "id": "jn-10-1002-sdr-70015",
+  "title": "The Qualitative Systems Exploration Model (QSEM): A New Framework to Support the Structural Analysis of Causal Loop Diagrams Within Participatory System Dynamics",
+  "authors": [
+   "Adam Hulme",
+   "Duncan Radley",
+   "Andrew D. Brown"
+  ],
+  "year": 2025,
+  "venue": "System Dynamics Review",
+  "source_id": "10.1002/sdr.70015",
+  "url": "https://doi.org/10.1002/sdr.70015",
+  "pdf_path": null,
+  "downloaded": false,
+  "open_access": true,
+  "themes": [
+   "A",
+   "B"
+  ],
+  "abstract_zh": "论文提出半定量的定性系统探索模型（QSEM），在参与式系统动力学的模型概念化后期，用系统因子分类、关键回路识别与原型分析三阶段流程，系统解读因果回路图，提高模型结构选择的可追溯性与可复现性。",
+  "contribution_zh": "为参与式系统动力学中的因果回路图结构分析提供三阶段半定量框架。",
+  "verified": true,
+  "notes": "OpenAlex 元数据与摘要已核验；未获 PDF。"
+ },
+ {
+  "id": "jn-10-3390-su172210342",
+  "title": "Theoretical Framework for Carbon Trading in Construction Industry: A PROMISE Framework and System Dynamics (SD) Causal Loop Diagram (CLD) Approach",
+  "authors": [
+   "Augustine Senanu Komla Kukah",
+   "Xiaohua Jin",
+   "Robert Osei-Kyei"
+  ],
+  "year": 2025,
+  "venue": "Sustainability",
+  "source_id": "10.3390/su172210342",
+  "url": "https://doi.org/10.3390/su172210342",
+  "pdf_path": null,
+  "downloaded": false,
+  "open_access": true,
+  "themes": [
+   "A"
+  ],
+  "abstract_zh": "论文以建筑业碳交易为对象，先用 PROMISE（个人—关系—组织—市场—制度—社会—环境）框架归类系统要素，再用系统动力学因果回路图刻画要素间的正负反馈影响，形成可用于政策情景分析的理论框架。",
+  "contribution_zh": "用 PROMISE 框架与因果回路图构建建筑业碳交易系统动力学理论框架。",
+  "verified": true,
+  "notes": "OpenAlex 元数据与摘要已核验；未获 PDF。"
+ },
+ {
+  "id": "jn-10-61435-ijred-2024-60267",
+  "title": "Quantification of household electricity consumption for supporting energy efficiency of urban metabolism: Material flow analysis",
+  "authors": [
+   "Sharif Shofirun Sharif Ali",
+   "Saraswathy Kasavan",
+   "Muhammad Rizal Razman"
+  ],
+  "year": 2024,
+  "venue": "International Journal of Renewable Energy Development",
+  "source_id": "10.61435/ijred.2024.60267",
+  "url": "https://doi.org/10.61435/ijred.2024.60267",
+  "pdf_path": null,
+  "downloaded": false,
+  "open_access": true,
+  "themes": [
+   "A"
+  ],
+  "abstract_zh": "以马来西亚芙蓉市 400 份入户问卷为基础，用物质流分析与用电绩效指标量化家庭电力消费的规模与结构，估算采用五星能效家电后的节电、节费与减排潜力，为城市代谢中的能源流管理提供测算依据。",
+  "contribution_zh": "以物质流分析与入户调查量化家庭电力流及其节能潜力。",
+  "verified": true,
+  "notes": "OpenAlex 元数据与摘要已核验；未获 PDF。"
+ },
+ {
+  "id": "jn-10-24857-rgsa-v18n3-191",
+  "title": "Urban Metabolism and Waste Flows in Small Municipalities: Methodological Advances in Material Flow Analysis",
+  "authors": [
+   "Eugenia Aumond Kuhn",
+   "Miguel Aloysio Sattler",
+   "Lucas Dorneles Magnus"
+  ],
+  "year": 2024,
+  "venue": "Revista de Gestão Social e Ambiental",
+  "source_id": "10.24857/rgsa.v18n3-191",
+  "url": "https://doi.org/10.24857/rgsa.v18n3-191",
+  "pdf_path": null,
+  "downloaded": false,
+  "open_access": true,
+  "themes": [
+   "A"
+  ],
+  "abstract_zh": "把欧盟统计局的国家尺度物质流分析方法适配到巴西小城市尺度，通过多轮次数据收集与迭代修正，刻画城市代谢中的废弃物流量，并提出服务于市政环境管理的方法流程。",
+  "contribution_zh": "将国家尺度物质流分析下调适配到小城市废弃物代谢核算。",
+  "verified": true,
+  "notes": "OpenAlex 元数据与摘要已核验；未获 PDF。"
+ },
+ {
+  "id": "cn_shinsj202404011",
+  "title": "面向突发公共卫生事件的城市韧性评价与仿真研究",
+  "authors": [
+   "柯小玲",
+   "王晨曦",
+   "郭海湘"
+  ],
+  "year": 2024,
+  "venue": "西部人居环境学刊",
+  "source_id": "NAPSTIC:shinsj202404011",
+  "url": "https://opaj.napstic.cn/search?q=%E9%9D%A2%E5%90%91%E7%AA%81%E5%8F%91%E5%85%AC%E5%85%B1%E5%8D%AB%E7%94%9F%E4%BA%8B%E4%BB%B6%E7%9A%84%E5%9F%8E%E5%B8%82%E9%9F%A7%E6%80%A7%E8%AF%84%E4%BB%B7%E4%B8%8E%E4%BB%BF%E7%9C%9F%E7%A0%94%E7%A9%B6",
+  "pdf_path": null,
+  "downloaded": false,
+  "open_access": false,
+  "themes": [
+   "A",
+   "D"
+  ],
+  "abstract_zh": "以武汉为对象，从自然、经济、社会、物理、组织五个维度构建城市韧性评价指标体系，运用系统动力学建立韧性仿真模型评估 2009—2020 年韧性水平，并模拟 2021—2030 年不同情景下的变化趋势，识别关键影响因素并提出韧性提升措施。",
+  "contribution_zh": "以系统动力学仿真评估并预测城市韧性演化情景。",
+  "verified": true,
+  "notes": "NAPSTIC 题录与摘要已核验（origin_id shinsj202404011，2024年第39卷第4期，73-80）；未获 PDF。"
+ },
+ {
+  "id": "jn-10-3390-su15076297",
+  "title": "A System Dynamics Model for Assessing Land-Use Transport Interaction Scenarios in Chennai, India",
+  "authors": [
+   "Devi Priyadarisini K",
+   "G. Umadevi"
+  ],
+  "year": 2023,
+  "venue": "Sustainability",
+  "source_id": "10.3390/su15076297",
+  "url": "https://doi.org/10.3390/su15076297",
+  "pdf_path": null,
+  "downloaded": false,
+  "open_access": true,
+  "themes": [
+   "A",
+   "D"
+  ],
+  "abstract_zh": "以印度钦奈为例构建土地利用—交通交互的系统动力学模型，把人口、土地利用、出行率、路段容量比与供需比等参数纳入同一反馈系统，并模拟 2011、2021、2031 三个年份的不同发展情景。",
+  "contribution_zh": "以系统动力学把土地利用与交通供需参数耦合，用于情景化评估。",
+  "verified": true,
+  "notes": "OpenAlex 元数据与摘要已核验；未获 PDF。"
+ },
+ {
+  "id": "cn_stxb202304002",
+  "title": "从城市到城市群：京津冀物质代谢特征及影响因素",
+  "authors": [
+   "刘凝音",
+   "张妍",
+   "李彦显"
+  ],
+  "year": 2023,
+  "venue": "生态学报",
+  "source_id": "NAPSTIC:stxb202304002",
+  "url": "https://opaj.napstic.cn/search?q=%E4%BB%8E%E5%9F%8E%E5%B8%82%E5%88%B0%E5%9F%8E%E5%B8%82%E7%BE%A4%E5%8C%97%E4%BA%AC%E6%B4%A5%E5%86%80%E7%89%A9%E8%B4%A8%E4%BB%A3%E8%B0%A2%E7%89%B9%E5%BE%81%E5%8F%8A%E5%BD%B1%E5%93%8D%E5%9B%A0%E7%B4%A0",
+  "pdf_path": null,
+  "downloaded": false,
+  "open_access": false,
+  "themes": [
+   "A"
+  ],
+  "abstract_zh": "从城市群与城市两个尺度核算 2000—2017 年京津冀物质消耗状况，识别主要贡献物质、部门与驱动因素：非金属矿物贡献逾 34.2%，工业部门贡献逾 58%，经济规模为首要正向驱动，物质消耗强度作用类型多样。",
+  "contribution_zh": "跨尺度核算城市群物质代谢并分解其驱动因素。",
+  "verified": true,
+  "notes": "NAPSTIC 题录与摘要已核验（origin_id stxb202304002，2023年第43卷第4期，1326-1337）；未获 PDF。"
+ },
+ {
+  "id": "cn_zgrkzyyhj202302012",
+  "title": "城市蔓延影响了城市代谢效率吗？——基于285个地级市面板数据的实证研究",
+  "authors": [
+   "罗啸潇",
+   "刘勇",
+   "廖斌"
+  ],
+  "year": 2023,
+  "venue": "中国人口·资源与环境",
+  "source_id": "NAPSTIC:zgrkzyyhj202302012",
+  "url": "https://opaj.napstic.cn/search?q=%E5%9F%8E%E5%B8%82%E8%94%93%E5%BB%B6%E5%BD%B1%E5%93%8D%E4%BA%86%E5%9F%8E%E5%B8%82%E4%BB%A3%E8%B0%A2%E6%95%88%E7%8E%87%E5%90%97",
+  "pdf_path": null,
+  "downloaded": false,
+  "open_access": false,
+  "themes": [
+   "A"
+  ],
+  "abstract_zh": "基于非期望产出 SBM 模型测算中国 285 个地级市 2004—2019 年城市代谢效率并检验收敛性，再用 Tobit 与面板门槛模型检验城市蔓延与代谢效率的线性和非线性关系，发现代谢效率存在“滚雪球”效应与 σ 收敛，蔓延总体提升效率但具区域异质性。",
+  "contribution_zh": "用面板门槛模型揭示城市蔓延对城市代谢效率的非线性影响。",
+  "verified": true,
+  "notes": "NAPSTIC 题录与摘要已核验（origin_id zgrkzyyhj202302012，2023年第33卷第2期，113-123）；未获 PDF。"
+ },
+ {
+  "id": "jn-10-3390-land11050652",
+  "title": "Forecasting Urban Land Use Change Based on Cellular Automata and the PLUS Model",
+  "authors": [
+   "Linfeng Xu",
+   "Xuan Liu",
+   "De Tong"
+  ],
+  "year": 2022,
+  "venue": "Land",
+  "source_id": "10.3390/land11050652",
+  "url": "https://doi.org/10.3390/land11050652",
+  "pdf_path": null,
+  "downloaded": false,
+  "open_access": true,
+  "themes": [
+   "D",
+   "A"
+  ],
+  "abstract_zh": "以杭州都市区为案例，论文使用融合用地扩张分析策略与元胞自动机的 PLUS 模型，在多类随机斑块种子机制下选取多种驱动因子，解释并预测七类土地利用类型的扩张，并用 Kappa 等指标检验模拟精度。",
+  "contribution_zh": "验证 PLUS（LEAS+CA）模型在城市扩张情景模拟中的精度与适用性。",
+  "verified": true,
+  "notes": "OpenAlex 元数据与摘要已核验；未获 PDF。"
+ },
+ {
+  "id": "jn-10-1177-23998083221140892",
+  "title": "How changes in urban morphology translate into urban metabolisms of building stocks: A framework for spatiotemporal material flow analysis and a case study",
+  "authors": [
+   "Mario Kolkwitz",
+   "Elina Luotonen",
+   "Satu Huuhka"
+  ],
+  "year": 2022,
+  "venue": "Environment and Planning B: Urban Analytics and City Science",
+  "source_id": "10.1177/23998083221140892",
+  "url": "https://doi.org/10.1177/23998083221140892",
+  "pdf_path": null,
+  "downloaded": false,
+  "open_access": true,
+  "themes": [
+   "A",
+   "D"
+  ],
+  "abstract_zh": "论文关注城市形态变化如何驱动建筑存量与材料流量，提出面向时空的材料流分析框架，把建筑存量、拆建流量与城市规划的空间形态决策联系起来，并以案例说明形态方案差异会带来不同的资源流动与代谢后果。",
+  "contribution_zh": "建立城市形态—建筑存量—材料流量的时空耦合分析框架并实证。",
+  "verified": true,
+  "notes": "OpenAlex 元数据与摘要已核验；未获 PDF。"
+ },
+ {
+  "id": "jn-10-1037-met0000484",
+  "title": "Refining the causal loop diagram: A tutorial for maximizing the contribution of domain expertise in computational system dynamics modeling",
+  "authors": [
+   "Loes Crielaard",
+   "Jeroen F. Uleman",
+   "Bas D L Châtel"
+  ],
+  "year": 2022,
+  "venue": "Psychological Methods",
+  "source_id": "10.1037/met0000484",
+  "url": "https://doi.org/10.1037/met0000484",
+  "pdf_path": null,
+  "downloaded": false,
+  "open_access": true,
+  "themes": [
+   "A"
+  ],
+  "abstract_zh": "针对系统思维实践常止步于概念性因果回路图（CLD）的问题，本文提出一套把专家心智模型转化为可计算系统动力学模型的教程式流程，主张以结构化引导从领域专家处抽取变量、因果链接与反馈回路，并将其形式化为可仿真模型，从而支持“假如”情景推演。",
+  "contribution_zh": "给出把专家因果回路图转为可计算系统动力学模型的规范化教程流程。",
+  "verified": true,
+  "notes": "OpenAlex 元数据与摘要已核验；期刊为订阅制，未获 PDF。"
+ },
+ {
+  "id": "jn-10-1038-s41467-021-26752-4",
+  "title": "A Deep Gravity model for mobility flows generation",
+  "authors": [
+   "Filippo Simini",
+   "Gianni Barlacchi",
+   "Massimiliano Luca"
+  ],
+  "year": 2021,
+  "venue": "Nature Communications",
+  "source_id": "10.1038/s41467-021-26752-4",
+  "url": "https://doi.org/10.1038/s41467-021-26752-4",
+  "pdf_path": null,
+  "downloaded": false,
+  "open_access": true,
+  "themes": [
+   "A",
+   "D"
+  ],
+  "abstract_zh": "论文提出 Deep Gravity 模型，用深度神经网络从自愿地理数据中提取土地利用、路网、交通与设施等特征，学习特征与出行流量之间的非线性关系，从而在缺少实测流动数据的区域生成流量概率，并在多城市出行数据上显著优于传统重力模型。",
+  "contribution_zh": "用深度学习替代重力模型生成区域间人流流量概率。",
+  "verified": true,
+  "notes": "OpenAlex 元数据与摘要已核验；未获 PDF。"
+ },
+ {
+  "id": "ax_2606-18189v1",
+  "title": "Beyond Failure Recovery: An Engagement-Aware Human-in-the-loop Framework for Robotic Systems",
+  "authors": [
+   "Jiaying Fang",
+   "Joyce Yang",
+   "Zhanxin Wu",
+   "Bohan Yang",
+   "Tapomayukh Bhattacharjee"
+  ],
+  "year": 2026,
+  "venue": "arXiv preprint",
+  "source_id": "2606.18189v1",
+  "url": "https://arxiv.org/abs/2606.18189v1",
+  "pdf_path": "docs/papers2/pdf/ax_2606-18189v1.pdf",
+  "downloaded": true,
+  "open_access": true,
+  "themes": [
+   "B"
+  ],
+  "abstract_zh": "人在回路只在机器人失败或不确定时请用户介入，把人当作提升性能的工具；照护场景中交互应支持参与度，交互过频又加重负担。故提出参与度感知 MPC（E-MPC），以交互动力学模型刻画参与度随交互频率与类型变化，在负荷约束下规划交互。仿真与进食机器人用户研究显示提升体验且保持成功。",
+  "contribution_zh": "把用户参与度建模为可优化的动力学状态，用 E-MPC 在负荷约束下主动规划交互。",
+  "verified": true,
+  "notes": "PDF 已下载并经 PyMuPDF 校验（页数 14，正文可读）；标题/作者/摘要取自 arXiv 或出版方 API 实际返回。"
+ },
+ {
+  "id": "ax_2607-01382v1",
+  "title": "CommonRoad-Game: A Human-in-the-Loop Simulation Framework for Autonomous Driving",
+  "authors": [
+   "Yunfei Bi",
+   "Youran Wang"
+  ],
+  "year": 2026,
+  "venue": "arXiv preprint",
+  "source_id": "2607.01382v1",
+  "url": "https://arxiv.org/abs/2607.01382v1",
+  "pdf_path": "docs/papers2/pdf/ax_2607-01382v1.pdf",
+  "downloaded": true,
+  "open_access": true,
+  "themes": [
+   "B"
+  ],
+  "abstract_zh": "现有平台依赖录制数据、缺乏实时人机接口且开销大。本文提出轻量级人机在环框架 CommonRoad-Game，紧耦合 CommonRoad：多线程架构对齐仿真与墙钟，场景生成模块记录日志以构造可复现用例；实验显示其同步稳定、支持多智能体仿真。",
+  "contribution_zh": "提出紧耦合 CommonRoad 的轻量级人机在环框架，实现仿真时间与墙钟同步。",
+  "verified": true,
+  "notes": "PDF 已下载并经 PyMuPDF 校验（页数 15，正文可读）；标题/作者/摘要取自 arXiv 或出版方 API 实际返回。"
+ },
+ {
+  "id": "ax_2601-11587v1",
+  "title": "Evidence-Grounded Multi-Agent Planning Support for Urban Carbon Governance via RAG",
+  "authors": [
+   "Yuyan Huang",
+   "Haoran Li",
+   "Yifan Lu",
+   "Ruolin Wu",
+   "Siqian Chen",
+   "Chao Liu"
+  ],
+  "year": 2026,
+  "venue": "arXiv preprint",
+  "source_id": "2601.11587v1",
+  "url": "https://arxiv.org/abs/2601.11587v1",
+  "pdf_path": "docs/papers2/pdf/ax_2601-11587v1.pdf",
+  "downloaded": true,
+  "open_access": true,
+  "themes": [
+   "B"
+  ],
+  "abstract_zh": "城市碳治理需整合排放清单、政策文本等异质证据，但 LLM 的事实可靠性与证据可追溯性不足。本文以标准文本 RAG 构建证据锚定的四智能体规划支持系统：证据问答、排放评估、规划推荐、报告集成。在事实检索与综合规划生成两类任务上评估，并以宁波为案例；引入 RAG 后平均分由不足 6 升至 90 以上。",
+  "contribution_zh": "提出基于文本 RAG 的证据锚定四智能体碳治理规划支持系统，并以双任务评估和宁波案例验证。",
+  "verified": true,
+  "notes": "PDF 已下载并经 PyMuPDF 校验（页数 7，正文可读）；标题/作者/摘要取自 arXiv 或出版方 API 实际返回。"
+ },
+ {
+  "id": "ax_2511-10857v1",
+  "title": "Enhancing Demand-Oriented Regionalization with Agentic AI and Local Heterogeneous Data for Adaptation Planning",
+  "authors": [
+   "Seyedeh Mobina Noorani",
+   "Shangde Gao",
+   "Changjie Chen",
+   "Karla Saldana Ochoa"
+  ],
+  "year": 2025,
+  "venue": "arXiv preprint",
+  "source_id": "2511.10857v1",
+  "url": "https://arxiv.org/abs/2511.10857v1",
+  "pdf_path": "docs/papers2/pdf/ax_2511-10857v1.pdf",
+  "downloaded": true,
+  "open_access": true,
+  "themes": [
+   "B"
+  ],
+  "abstract_zh": "人口普查区、邮编等规划单元常无法反映本地社区需求，缺乏防灾策略灵活性。作者提出带智能体 AI 的规划支持系统，遵循人在回路原则生成灾害规划区域。系统基于代表性初始化的空间约束自组织映射 RepSC-SOM，加入地理阈值过滤，智能体可建议输入特征与空间约束，以杰克逊维尔洪水为例。",
+  "contribution_zh": "提出智能体 AI 与人在回路结合的区划支持系统。",
+  "verified": true,
+  "notes": "PDF 已下载并经 PyMuPDF 校验（页数 5，正文可读）；标题/作者/摘要取自 arXiv 或出版方 API 实际返回。"
+ },
+ {
+  "id": "ax_2505-00820v1",
+  "title": "HMCF: A Human-in-the-loop Multi-Robot Collaboration Framework Based on Large Language Models",
+  "authors": [
+   "Zhaoxing Li",
+   "Wenbo Wu",
+   "Yue Wang",
+   "Yanran Xu",
+   "William Hunt",
+   "Sebastian Stein"
+  ],
+  "year": 2025,
+  "venue": "arXiv preprint",
+  "source_id": "2505.00820v1",
+  "url": "https://arxiv.org/abs/2505.00820v1",
+  "pdf_path": "docs/papers2/pdf/ax_2505-00820v1.pdf",
+  "downloaded": true,
+  "open_access": true,
+  "themes": [
+   "B"
+  ],
+  "abstract_zh": "多机器人系统面临泛化性、异构性与安全性挑战。本文提出LLM驱动的人在回路多机器人协作框架HMCF：每台机器人配备LLM智能体，理解自身能力、把任务转为可执行指令并校验可行性；中央assistant LLM负责分配与重分配，人仅在必要时介入。仿真在BEHAVIOR-1K上成功率较现有规划方法提升4.76%，真实世界部署验证零样本泛化。",
+  "contribution_zh": "提出LLM驱动的人在回路多机器人协作框架，以任务校验与人工监督缓解幻觉。",
+  "verified": true,
+  "notes": "PDF 已下载并经 PyMuPDF 校验（页数 8，正文可读）；标题/作者/摘要取自 arXiv 或出版方 API 实际返回。"
+ },
+ {
+  "id": "ax_2508-07314v1",
+  "title": "Human-in-the-Loop Simulation for Real-Time Exploration of HVAC Demand Flexibility",
+  "authors": [
+   "Xinlei Zhou",
+   "Han Du",
+   "Emily W. Yap",
+   "Wanbin Dou",
+   "Mingyang Huang",
+   "Zhenjun Ma"
+  ],
+  "year": 2025,
+  "venue": "arXiv preprint",
+  "source_id": "2508.07314v1",
+  "url": "https://arxiv.org/abs/2508.07314v1",
+  "pdf_path": "docs/papers2/pdf/ax_2508-07314v1.pdf",
+  "downloaded": true,
+  "open_access": true,
+  "themes": [
+   "B"
+  ],
+  "abstract_zh": "本文开发了集成高保真仿真引擎与用户仪表盘的交互式人机在环仿真平台，用于探索 HVAC 需求灵活性。用户可在仿真运行中随时覆盖温度设定值、HVAC 时间表等默认控制，实施自选需求响应策略并实时观察影响，而非像常规仿真那样只能被动观察结果。文中介绍了平台架构、仪表盘设计与用户案例。",
+  "contribution_zh": "提出把用户嵌入控制回路的人机在环 HVAC 需求灵活性交互仿真平台",
+  "verified": true,
+  "notes": "PDF 已下载并经 PyMuPDF 校验（页数 16，正文可读）；标题/作者/摘要取自 arXiv 或出版方 API 实际返回。"
+ },
+ {
+  "id": "ax_2507-22358v1",
+  "title": "Magentic-UI: Towards Human-in-the-loop Agentic Systems",
+  "authors": [
+   "Hussein Mozannar",
+   "Gagan Bansal",
+   "Cheng Tan",
+   "Adam Fourney",
+   "Victor Dibia",
+   "Jingya Chen",
+   "Jack Gerrits",
+   "Tyler Payne",
+   "Matheus Kunzler Maldaner",
+   "Madeleine Grunde-McLaughlin",
+   "Eric Zhu",
+   "Griffin Bassman",
+   "Jacob Alber",
+   "Peter Chang",
+   "Ricky Loynd",
+   "Friederike Niedtner",
+   "Ece Kamar",
+   "Maya Murad",
+   "Rafah Hosn",
+   "Saleema Amershi"
+  ],
+  "year": 2025,
+  "venue": "arXiv preprint",
+  "source_id": "2507.22358v1",
+  "url": "https://arxiv.org/abs/2507.22358v1",
+  "pdf_path": "docs/papers2/pdf/ax_2507-22358v1.pdf",
+  "downloaded": true,
+  "open_access": true,
+  "themes": [
+   "B"
+  ],
+  "abstract_zh": "针对LLM智能体自主能力不足、误对齐与对抗操纵风险，本文提出开源Web界面Magentic-UI，基于多智能体架构支持浏览、代码执行与文件操作并可用MCP扩展，提供共同规划、共同执行、动作审批、答案核验、长期记忆与多任务六种人机交互机制，并从四方面评估其自主与交互能力。",
+  "contribution_zh": "开源Magentic-UI人机回环智能体系统，提出六种交互机制并实证其提升任务完成率。",
+  "verified": true,
+  "notes": "PDF 已下载并经 PyMuPDF 校验（页数 40，正文可读）；标题/作者/摘要取自 arXiv 或出版方 API 实际返回。"
+ },
+ {
+  "id": "jn_https-doi-org-10-1177-02690942251380527",
+  "title": "Reading cities: Towards a participatory tool for disentangling the complexity of urban systems",
+  "authors": [
+   "Deniz Sevinç",
+   "Alister J. Scott",
+   "John R. Bryson",
+   "J Leach"
+  ],
+  "year": 2025,
+  "venue": "Local Economy The Journal of the Local Economy Policy Unit",
+  "source_id": "https://doi.org/10.1177/02690942251380527",
+  "url": "https://doi.org/10.1177/02690942251380527",
+  "pdf_path": "docs/papers2/pdf/jn_https-doi-org-10-1177-02690942251380527.pdf",
+  "downloaded": true,
+  "open_access": true,
+  "themes": [
+   "B"
+  ],
+  "abstract_zh": "本文以伯明翰“Urban Placemakers”桌游为例，评估桌游作为决策支持工具的贡献。该游戏补充传统参与和政策制定方式，让政策研究模型与产出同利益相关者共同开发，营造出讨论棘手城市问题的安全假设空间，促进创新与社会学习，并帮助研究团队理解城市相互依赖、优先排序一套指标。",
+  "contribution_zh": "验证桌游可作为参与式决策支持工具，以共同设计的安全假设空间诊断城市系统复杂性。",
+  "verified": true,
+  "notes": "PDF 已下载并经 PyMuPDF 校验（页数 17，正文可读）；标题/作者/摘要取自 arXiv 或出版方 API 实际返回。"
+ },
+ {
+  "id": "ax_2507-21090v1",
+  "title": "Thinking Like a Scientist: Can Interactive Simulations Foster Critical AI Literacy?",
+  "authors": [
+   "Yiling Zhao",
+   "Audrey Michal",
+   "Nithum Thain",
+   "Hari Subramonyam"
+  ],
+  "year": 2025,
+  "venue": "arXiv preprint",
+  "source_id": "2507.21090v1",
+  "url": "https://arxiv.org/abs/2507.21090v1",
+  "pdf_path": "docs/papers2/pdf/ax_2507-21090v1.pdf",
+  "downloaded": true,
+  "open_access": true,
+  "themes": [
+   "B"
+  ],
+  "abstract_zh": "AI 系统日益影响个人与社会决策，而博客、静态课程等传统方式难以支撑深层概念理解。本文以控制实验检验交互式模拟能否让学习者像科学家一样思考：605 名参与者借助交互式 AI 教程进行假设检验与实验，观察公平性、数据集代表性与语言模型偏见。结果显示模拟有效提升各主题 AI 素养、知识迁移与信心，但参与度不预测学习。",
+  "contribution_zh": "控制实验证明交互式探究模拟能有效提升批判性 AI 素养与知识迁移。",
+  "verified": true,
+  "notes": "PDF 已下载并经 PyMuPDF 校验（页数 28，正文可读）；标题/作者/摘要取自 arXiv 或出版方 API 实际返回。"
+ },
+ {
+  "id": "jn_https-doi-org-10-1016-j-ugj-2025-05-005",
+  "title": "Urban living labs as catalysts for innovation: Advancing urban ecosystems within the quintuple helix model",
+  "authors": [
+   "Fernando Luís Almeida",
+   "Nikolett Deutsch"
+  ],
+  "year": 2025,
+  "venue": "Urban Governance",
+  "source_id": "https://doi.org/10.1016/j.ugj.2025.05.005",
+  "url": "https://doi.org/10.1016/j.ugj.2025.05.005",
+  "pdf_path": "docs/papers2/pdf/jn_https-doi-org-10-1016-j-ugj-2025-05-005.pdf",
+  "downloaded": true,
+  "open_access": true,
+  "themes": [
+   "B"
+  ],
+  "abstract_zh": "论文以五重螺旋模型（学界、产业、政府、公民社会、自然环境）分析城市生活实验室（ULL）对城市创新生态的塑造。方法为行动研究式定性分析，考察葡萄牙三个ULL案例。结论：ULL可在大规模实施前降低不确定性，但多元利益需中介方能共创；ULL加速数字化转型；自然环境虽讨论较少，却关乎可持续性与韧性。",
+  "contribution_zh": "以五重螺旋框架实证揭示城市生活实验室作为城市创新生态催化剂的作用机制。",
+  "verified": true,
+  "notes": "PDF 已下载并经 PyMuPDF 校验（页数 9，正文可读）；标题/作者/摘要取自 arXiv 或出版方 API 实际返回。"
+ },
+ {
+  "id": "ax_2310-12534v1",
+  "title": "Cormas: The Software for Participatory Modelling and its Application for Managing Natural Resources in Senegal",
+  "authors": [
+   "Oleksandr Zaitsev",
+   "François Vendel",
+   "Etienne Delay"
+  ],
+  "year": 2023,
+  "venue": "arXiv preprint",
+  "source_id": "2310.12534v1",
+  "url": "https://arxiv.org/abs/2310.12534v1",
+  "pdf_path": "docs/papers2/pdf/ax_2310-12534v1.pdf",
+  "downloaded": true,
+  "open_access": true,
+  "themes": [
+   "B"
+  ],
+  "abstract_zh": "Cormas 是 CIRAD 于上世纪90年代末开发的多主体仿真平台，用于自然资源管理并理解自然与社会动态的相互作用，适合让地方利益相关者参与建模与知识共享的参与式仿真。本文介绍其独有特性，并报告塞内加尔牧区资源管理进行中研究的早期结果。",
+  "contribution_zh": "介绍 Cormas 平台特性，论证其如何支撑参与式建模仿真",
+  "verified": true,
+  "notes": "PDF 已下载并经 PyMuPDF 校验（页数 10，正文可读）；标题/作者/摘要取自 arXiv 或出版方 API 实际返回。"
+ },
+ {
+  "id": "ax_2303-02480v2",
+  "title": "GSP = DSP + Boundary Conditions -- The Graph Signal Processing Companion Model",
+  "authors": [
+   "John Shi",
+   "Jose M. F. Moura"
+  ],
+  "year": 2023,
+  "venue": "arXiv preprint",
+  "source_id": "2303.02480v2",
+  "url": "https://arxiv.org/abs/2303.02480v2",
+  "pdf_path": "docs/papers2/pdf/ax_2303-02480v2.pdf",
+  "downloaded": true,
+  "open_access": true,
+  "themes": [
+   "B"
+  ],
+  "abstract_zh": "本文提出图信号处理（GSP）的伴随模型，证明在较宽条件下、对任意无向或有向图，GSP 等价于经典信号处理（DSP）加上适当的边界条件，从而可将 DSP 概念推广到伴随模型并转译回图傅里叶域。",
+  "contribution_zh": "证明 GSP 等价于 DSP 加边界条件，并给出伴随模型扩展图信号处理。",
+  "verified": true,
+  "notes": "PDF 已下载并经 PyMuPDF 校验（页数 16，正文可读）；标题/作者/摘要取自 arXiv 或出版方 API 实际返回。"
+ },
+ {
+  "id": "ax_2304-05959v1",
+  "title": "UAV Obstacle Avoidance by Human-in-the-Loop Reinforcement in Arbitrary 3D Environment",
+  "authors": [
+   "Xuyang Li",
+   "Jianwu Fang",
+   "Kai Du",
+   "Kuizhi Mei",
+   "Jianru Xue"
+  ],
+  "year": 2023,
+  "venue": "arXiv preprint",
+  "source_id": "2304.05959v1",
+  "url": "https://arxiv.org/abs/2304.05959v1",
+  "pdf_path": "docs/papers2/pdf/ax_2304-05959v1.pdf",
+  "downloaded": true,
+  "open_access": true,
+  "themes": [
+   "B"
+  ],
+  "abstract_zh": "研究复杂三维环境的无人机连续控制，使其从起点抵达任意目标点且高度速度可变。提出人在回路的深度强化学习，用领域知识奖励函数引导导航，人类动态调整奖励以避障。在城市、乡村、森林场景验证成功率与步长，结果显示其缩短收敛时间并提升效率与准确率。",
+  "contribution_zh": "提出 DDPG-H 与 TD3-H，由人类识别避障状态并动态调整奖励函数。",
+  "verified": true,
+  "notes": "PDF 已下载并经 PyMuPDF 校验（页数 7，正文可读）；标题/作者/摘要取自 arXiv 或出版方 API 实际返回。"
+ },
+ {
+  "id": "ax_2203-06246v1",
+  "title": "An Uncommon Task: Participatory Design in Legal AI",
+  "authors": [
+   "Fernando Delgado",
+   "Solon Barocas",
+   "Karen Levy"
+  ],
+  "year": 2022,
+  "venue": "arXiv preprint",
+  "source_id": "2203.06246v1",
+  "url": "https://arxiv.org/abs/2203.06246v1",
+  "pdf_path": "docs/papers2/pdf/ax_2203-06246v1.pdf",
+  "downloaded": true,
+  "open_access": true,
+  "themes": [
+   "B"
+  ],
+  "abstract_zh": "尽管呼吁 AI 设计应多方参与，却少有实证研究说明这类过程如何组织。本文以 2006 至 2011 年 NIST 主办的 TREC Legal Track 为对象，基于档案与协调人访谈，分析其如何用交互式仿真让计算机科学家与律师共同设计、评测自动化文书审阅技术。",
+  "contribution_zh": "实证揭示交互式仿真如何促成律师与科学家共同设计法律 AI。",
+  "verified": true,
+  "notes": "PDF 已下载并经 PyMuPDF 校验（页数 23，正文可读）；标题/作者/摘要取自 arXiv 或出版方 API 实际返回。"
+ },
+ {
+  "id": "ax_2212-06036v1",
+  "title": "The spatial accessibility of attractive parks in Chicago and a proposed planning support system to evaluate the accessibility of POIs",
+  "authors": [
+   "Tianchen Huang"
+  ],
+  "year": 2022,
+  "venue": "arXiv preprint",
+  "source_id": "2212.06036v1",
+  "url": "https://arxiv.org/abs/2212.06036v1",
+  "pdf_path": "docs/papers2/pdf/ax_2212-06036v1.pdf",
+  "downloaded": true,
+  "open_access": true,
+  "themes": [
+   "B"
+  ],
+  "abstract_zh": "本研究以 Google Maps 评分与评论数量化芝加哥公园吸引力，用重力、线性与核模型计算不同种族、收入群体步行与驾车的累积可达性。结果显示步行可达性高的公园吸引力强，驾车可达性高者多沿高速公路，黑人与高收入群体得分更高；并提出基于评分数据的 POI 规划支持系统。",
+  "contribution_zh": "以网络评分量化公园吸引力，测度分群体可达性并提出 POI 规划支持系统",
+  "verified": true,
+  "notes": "PDF 已下载并经 PyMuPDF 校验（页数 69，正文可读）；标题/作者/摘要取自 arXiv 或出版方 API 实际返回。"
+ },
+ {
+  "id": "cn_7202988551",
+  "title": "参与式规划设计驱动社区多维协同发展的机制与路径——以广东佛山顺德东风村为例",
+  "authors": [
+   "芮光晔",
+   "黎子铭"
+  ],
+  "year": 2026,
+  "venue": "风景园林",
+  "source_id": "NAPSTIC:7202988551",
+  "url": "https://opaj.napstic.cn/search?q=%E5%8F%82%E4%B8%8E%E5%BC%8F%E8%A7%84%E5%88%92%E8%AE%BE%E8%AE%A1%E9%A9%B1%E5%8A%A8%E7%A4%BE%E5%8C%BA%E5%A4%9A%E7%BB%B4%E5%8D%8F%E5%90%8C%E5%8F%91%E5%B1%95%E7%9A%84%E6%9C%BA%E5%88%B6%E4%B8%8E%E8%B7%AF%E5%BE%84",
+  "pdf_path": null,
+  "downloaded": false,
+  "open_access": false,
+  "themes": [
+   "B"
+  ],
+  "abstract_zh": "基于理论梳理与广东佛山东风村的行动研究，构建并实践“点状培育—全域共识—网络激活”参与式行动框架：以空间改造项目切入、用工作坊与方案共议推进，以“重要性—可实施性”评估模型整合诉求并设立社区基金，再以社区微创投激活多元主体，实现空间—社会—经济三维协同。",
+  "contribution_zh": "提出参与式规划设计三阶段框架并验证社区多维协同机制。",
+  "verified": true,
+  "notes": "NAPSTIC 题录与摘要已核验（origin_id 7202988551，2026年第33卷第2期，P.59-67）；未获 PDF。"
+ },
+ {
+  "id": "cn_csghhk202306021",
+  "title": "“人民城市”视角下社区微更新参与式规划设计的新模式探索：以上海市YF里弄微更新为例",
+  "authors": [
+   "李晴",
+   "林妮"
+  ],
+  "year": 2023,
+  "venue": "城市规划学刊",
+  "source_id": "NAPSTIC:csghhk202306021",
+  "url": "https://opaj.napstic.cn/search?q=%E4%BA%BA%E6%B0%91%E5%9F%8E%E5%B8%82%E8%A7%86%E8%A7%92%E4%B8%8B%E7%A4%BE%E5%8C%BA%E5%BE%AE%E6%9B%B4%E6%96%B0%E5%8F%82%E4%B8%8E%E5%BC%8F%E8%A7%84%E5%88%92%E8%AE%BE%E8%AE%A1%E7%9A%84%E6%96%B0%E6%A8%A1%E5%BC%8F%E6%8E%A2%E7%B4%A2",
+  "pdf_path": null,
+  "downloaded": false,
+  "open_access": false,
+  "themes": [
+   "B"
+  ],
+  "abstract_zh": "针对社区微更新公众参与多停留于象征性参与的问题，论文提出融合交往理性与工具理性的“双理性”概念与分析模型，把复杂的微更新设计拆解为迭代递进的阶段，每阶段兼具方案深化与集体协商，并以YF里弄五阶段实证展示多方合意方案的形成。",
+  "contribution_zh": "以“双理性”模型把社区微更新公众参与推进到实权性参与。",
+  "verified": true,
+  "notes": "NAPSTIC 题录与摘要已核验（origin_id csghhk202306021，2023年第6期，87-96）；未获 PDF。"
+ },
+ {
+  "id": "cn_fjyl202202009",
+  "title": "城市建设中儿童参与式规划设计的研究进展",
+  "authors": [
+   "赵迪",
+   "毕倚冉"
+  ],
+  "year": 2022,
+  "venue": "风景园林",
+  "source_id": "NAPSTIC:fjyl202202009",
+  "url": "https://opaj.napstic.cn/search?q=%E5%9F%8E%E5%B8%82%E5%BB%BA%E8%AE%BE%E4%B8%AD%E5%84%BF%E7%AB%A5%E5%8F%82%E4%B8%8E%E5%BC%8F%E8%A7%84%E5%88%92%E8%AE%BE%E8%AE%A1%E7%9A%84%E7%A0%94%E7%A9%B6%E8%BF%9B%E5%B1%95",
+  "pdf_path": null,
+  "downloaded": false,
+  "open_access": false,
+  "themes": [
+   "B"
+  ],
+  "abstract_zh": "以 Web of Science 与 CNKI 文献为基础，用研究整合法梳理国内外儿童参与式规划设计的发展历程、国际倡议、地方政策、理论研究与代表性实践，从顶层架构、组织机制、实践模式三方面提出适合中国的儿童参与式规划设计策略。",
+  "contribution_zh": "系统综述儿童参与式规划设计并提出中国发展策略。",
+  "verified": true,
+  "notes": "NAPSTIC 题录与摘要已核验（origin_id fjyl202202009，2022年第29卷第2期，65-70）；未获 PDF。"
+ },
+ {
+  "id": "cn_7107848472",
+  "title": "面向公共服务设施布局优化的规划支持系统设计",
+  "authors": [
+   "叶澄",
+   "张姗琪",
+   "李民健"
+  ],
+  "year": 2022,
+  "venue": "上海城市规划",
+  "source_id": "NAPSTIC:7107848472",
+  "url": "https://opaj.napstic.cn/search?q=%E9%9D%A2%E5%90%91%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8A%A1%E8%AE%BE%E6%96%BD%E5%B8%83%E5%B1%80%E4%BC%98%E5%8C%96%E7%9A%84%E8%A7%84%E5%88%92%E6%94%AF%E6%8C%81%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1",
+  "pdf_path": null,
+  "downloaded": false,
+  "open_access": false,
+  "themes": [
+   "B",
+   "D"
+  ],
+  "abstract_zh": "论文面向公共服务设施布局优化需求设计规划支持系统，结合数据增强设计理念与布局优化模型，给出系统的技术架构与功能组织，使规划人员在数据与模型支持下完成设施选址与布局方案比较。",
+  "contribution_zh": "提出面向设施布局优化的规划支持系统技术架构。",
+  "verified": true,
+  "notes": "NAPSTIC 题录与摘要已核验（origin_id 7107848472，2022年第3期，P.23-29）；未获 PDF。"
+ },
+ {
+  "id": "ax_2608-06485v1",
+  "title": "Do AI Personas Grow? Analyzing and Benchmarking Personality Evolution in LLM Agents After Life Events",
+  "authors": [
+   "Ming Wang",
+   "Peidong Wang",
+   "Xiaocui Yang",
+   "Daling Wang",
+   "Shi Feng",
+   "Fiona Fui-Hoon Nah",
+   "Ee-Peng Lim"
+  ],
+  "year": 2026,
+  "venue": "arXiv preprint",
+  "source_id": "2608.06485v1",
+  "url": "https://arxiv.org/abs/2608.06485v1",
+  "pdf_path": "docs/papers2/pdf/ax_2608-06485v1.pdf",
+  "downloaded": true,
+  "open_access": true,
+  "themes": [
+   "C"
+  ],
+  "abstract_zh": "本文以 Big Five 为心理测量锚点，研究人格条件化 LLM 智能体在 11 类重大生活事件后的人格变化，并与人类纵向证据对照。结果显示位移可测但事件特异性弱、幅度多低于人类效应量，性别与文化调节微弱，人格离散度压缩三至四倍；并提出 BFI-Adapt 基准对 14 个模型排序。",
+  "contribution_zh": "提出 BFI-Adapt 基准，揭示 PC-Agents 只模拟人类人格动态的均值而非其形态。",
+  "verified": true,
+  "notes": "PDF 已下载并经 PyMuPDF 校验（页数 25，正文可读）；标题/作者/摘要取自 arXiv 或出版方 API 实际返回。"
+ },
+ {
+  "id": "jn_https-doi-org-10-1038-s41467-026-78228-y",
+  "title": "Emergence of polarization in networks of large language model agents",
+  "authors": [
+   "Jinghua Piao",
+   "Zhihong Lu",
+   "Gao Chen",
+   "Fengli Xu",
+   "Qinghua Hu",
+   "Fernando Pereira dos Santos",
+   "Yongping Li",
+   "James A. Evans"
+  ],
+  "year": 2026,
+  "venue": "Nature Communications",
+  "source_id": "https://doi.org/10.1038/s41467-026-78228-y",
+  "url": "https://doi.org/10.1038/s41467-026-78228-y",
+  "pdf_path": "docs/papers2/pdf/jn_https-doi-org-10-1038-s41467-026-78228-y.pdf",
+  "downloaded": true,
+  "open_access": true,
+  "themes": [
+   "C"
+  ],
+  "abstract_zh": "LLM赋能的自主智能体可生成社会网络、交流并就政治议题形成分化观点。本文模拟数千个LLM智能体，涵盖GPT-3.5、GPT-4o、ChatGLM、Llama-3、DeepSeek-V3等模型；智能体经LLM引导对话并随时间更新观点，涌现观点极化，并自发形成具同质聚集等人类网络特征的社会网络。其演化与人类实证研究及观点动力学模型一致，可作检验干预的合成试验台。",
+  "contribution_zh": "构建数千LLM智能体网络仿真，揭示极化与同质聚集涌现，并检验干预策略。",
+  "verified": true,
+  "notes": "PDF 已下载并经 PyMuPDF 校验（页数 14，正文可读）；标题/作者/摘要取自 arXiv 或出版方 API 实际返回。"
+ },
+ {
+  "id": "ax_2608-07519v2",
+  "title": "From Survey Personas to LLM Agents: A Generative Agent-based Simulation of Mobility Policy Preference Dynamics",
+  "authors": [
+   "Ali Torkayesh",
+   "Julia Offermann",
+   "Regina Gimpel",
+   "Linda Engelmann",
+   "Katrin Arning",
+   "Martina Ziefle",
+   "Sandra Venghaus"
+  ],
+  "year": 2026,
+  "venue": "arXiv preprint",
+  "source_id": "2608.07519v2",
+  "url": "https://arxiv.org/abs/2608.07519v2",
+  "pdf_path": "docs/papers2/pdf/ax_2608-07519v2.pdf",
+  "downloaded": true,
+  "open_access": true,
+  "themes": [
+   "C"
+  ],
+  "abstract_zh": "多数 LLM 社会仿真依赖手工虚构人格，该文提出以调查数据为基础的生成式智能体建模框架，把真实受访者转译为自然语言 persona。以德国淘汰燃油车政策为案例，用 514 名受访者构建智能体并运行 16 轮仿真，考察支持度演化、跨轮立场切换与人格间差异。",
+  "contribution_zh": "将真实调查受访者转译为 LLM 生成式智能体，用于动态政策偏好仿真。",
+  "verified": true,
+  "notes": "PDF 已下载并经 PyMuPDF 校验（页数 15，正文可读）；标题/作者/摘要取自 arXiv 或出版方 API 实际返回。"
+ },
+ {
+  "id": "ax_2609-16436v1",
+  "title": "Interpreting and Steering LLM Agents for Social Simulations",
+  "authors": [
+   "Jiayue Gaveal Fan",
+   "Arul Murugan",
+   "Shreyas Krishnan",
+   "Abhishek Nagaraj"
+  ],
+  "year": 2026,
+  "venue": "arXiv preprint",
+  "source_id": "2609.16436v1",
+  "url": "https://arxiv.org/abs/2609.16436v1",
+  "pdf_path": "docs/papers2/pdf/ax_2609-16436v1.pdf",
+  "downloaded": true,
+  "open_access": true,
+  "themes": [
+   "C"
+  ],
+  "abstract_zh": "基于大语言模型的社科仿真存在黑箱问题：既难解释行为机制，也难按需放大或抑制机制。本文比较提示词操控、自编码器（SAE）特征引导与线性探针三类方法，以彩票、最后通牒博弈及创造力、产品创新任务操作化偏好与能力。结果显示 SAE 与探针常优于基础提示词，可分解出可读特征并定向改变行为。",
+  "contribution_zh": "首次系统比较提示词、SAE与探针三类方法，证明SAE与探针能更精细地引导智能体。",
+  "verified": true,
+  "notes": "PDF 已下载并经 PyMuPDF 校验（页数 70，正文可读）；标题/作者/摘要取自 arXiv 或出版方 API 实际返回。"
+ },
+ {
+  "id": "ax_2604-01520v1",
+  "title": "LLM Agents as Social Scientists: A Human-AI Collaborative Platform for Social Science Automation",
+  "authors": [
+   "Lei Wang",
+   "Yuanzi Li",
+   "Jinchao Wu",
+   "Heyang Gao",
+   "Xiaohe Bo",
+   "Xu Chen",
+   "Ji-Rong Wen"
+  ],
+  "year": 2026,
+  "venue": "arXiv preprint",
+  "source_id": "2604.01520v1",
+  "url": "https://arxiv.org/abs/2604.01520v1",
+  "pdf_path": "docs/papers2/pdf/ax_2604-01520v1.pdf",
+  "downloaded": true,
+  "open_access": true,
+  "themes": [
+   "C"
+  ],
+  "abstract_zh": "传统社会科学研究需在庞杂方法空间中设计实验并依赖真实人类被试，成本高难扩展。作者提出 S-Researcher 平台，将研究流程与被试池一并“硅化”：其引擎 YuLan-OneSim 以自然语言自动编程保证通用性、分布式架构支持十万并发智能体、反馈式微调保障可靠性，并按归纳、演绎、溯因三模式贯通实验设计、仿真、分析与报告。",
+  "contribution_zh": "提出“硅化”研究流程与被试池、保留人类干预的人机协作社会科学自动化平台与仿真引擎",
+  "verified": true,
+  "notes": "PDF 已下载并经 PyMuPDF 校验（页数 20，正文可读）；标题/作者/摘要取自 arXiv 或出版方 API 实际返回。"
+ },
+ {
+  "id": "ax_2604-03898v1",
+  "title": "LLM-Agent-based Social Simulation for Attitude Diffusion",
+  "authors": [
+   "Deepak John Reji"
+  ],
+  "year": 2026,
+  "venue": "arXiv preprint",
+  "source_id": "2604.03898v1",
+  "url": "https://arxiv.org/abs/2604.03898v1",
+  "pdf_path": "docs/papers2/pdf/ax_2604-03898v1.pdf",
+  "downloaded": true,
+  "open_access": true,
+  "themes": [
+   "C"
+  ],
+  "abstract_zh": "本文提出开源框架 discourse_simulator，把大语言模型与主体建模结合，模拟公众对移民态度在抗议、政策辩论等突出事件后如何演变。LLM 用于生成帖子并模拟观念传播；框架融合多维信念结构与真实事件时间线，把仿真定位为检验社会理论的工具，并以都柏林反移民游行、100 个智能体 15 天仿真作演示。",
+  "contribution_zh": "提出融合多维信念与实时新闻的开源 LLM 生成式主体建模框架，以仿真作理论检验工具",
+  "verified": true,
+  "notes": "PDF 已下载并经 PyMuPDF 校验（页数 12，正文可读）；标题/作者/摘要取自 arXiv 或出版方 API 实际返回。"
+ },
+ {
+  "id": "ax_2603-01952v1",
+  "title": "LiveCultureBench: a Multi-Agent, Multi-Cultural Benchmark for Large Language Models in Dynamic Social Simulations",
+  "authors": [
+   "Viet-Thanh Pham",
+   "Lizhen Qu",
+   "Thuy-Trang Vu",
+   "Gholamreza Haffari",
+   "Dinh Phung"
+  ],
+  "year": 2026,
+  "venue": "arXiv preprint",
+  "source_id": "2603.01952v1",
+  "url": "https://arxiv.org/abs/2603.01952v1",
+  "pdf_path": "docs/papers2/pdf/ax_2603-01952v1.pdf",
+  "downloaded": true,
+  "open_access": true,
+  "themes": [
+   "C"
+  ],
+  "abstract_zh": "LLM智能体评测偏重任务成功率，忽视文化得体性与评测者可靠性。提出LiveCultureBench多文化动态基准：将LLM智能体嵌入位置图建模的小镇，居民具多样人口与文化画像；每回合一名居民承担日常目标，其余提供社会情境。LLM验证器对规范违背与任务进展作结构化判断，聚合成任务—规范权衡与验证器不确定性指标。",
+  "contribution_zh": "提出多文化动态社会仿真基准，联合评测任务完成、文化规范遵循与验证器可靠性",
+  "verified": true,
+  "notes": "PDF 已下载并经 PyMuPDF 校验（页数 30，正文可读）；标题/作者/摘要取自 arXiv 或出版方 API 实际返回。"
+ },
+ {
+  "id": "ax_2602-03545v2",
+  "title": "Persona Generators: Generating Diverse Synthetic Personas for Arbitrary Contexts",
+  "authors": [
+   "Davide Paglieri",
+   "Logan Cross",
+   "William A. Cunningham",
+   "Joel Z. Leibo",
+   "Alexander Sasha Vezhnevets"
+  ],
+  "year": 2026,
+  "venue": "arXiv preprint",
+  "source_id": "2602.03545v2",
+  "url": "https://arxiv.org/abs/2602.03545v2",
+  "pdf_path": "docs/papers2/pdf/ax_2602-03545v2.pdf",
+  "downloaded": true,
+  "open_access": true,
+  "themes": [
+   "C"
+  ],
+  "abstract_zh": "现有合成人群技术多追求密度匹配，导致行为趋同且忽略长尾。本文主张转向支撑覆盖，提出 Persona Generator：情境提示扩展出多样性轴后生成人群，并用 AlphaEvolve 以 LLM 为变异算子进化其代码。结果表明，进化生成器在留出情境的六项多样性指标上显著优于基线，且对真实人类特质分布的拟合优于人口统计基线。",
+  "contribution_zh": "把人群生成重构为对生成器代码的支撑覆盖优化，用LLM进化出高多样性生成器。",
+  "verified": true,
+  "notes": "PDF 已下载并经 PyMuPDF 校验（页数 45，正文可读）；标题/作者/摘要取自 arXiv 或出版方 API 实际返回。"
+ },
+ {
+  "id": "ax_2604-11655v1",
+  "title": "RPA-Check: A Multi-Stage Automated Framework for Evaluating Dynamic LLM-based Role-Playing Agents",
+  "authors": [
+   "Riccardo Rosati",
+   "Edoardo Colucci",
+   "Massimiliano Bolognini",
+   "Adriano Mancini",
+   "Paolo Sernani"
+  ],
+  "year": 2026,
+  "venue": "arXiv preprint",
+  "source_id": "2604.11655v1",
+  "url": "https://arxiv.org/abs/2604.11655v1",
+  "pdf_path": "docs/papers2/pdf/ax_2604-11655v1.pdf",
+  "downloaded": true,
+  "open_access": true,
+  "themes": [
+   "C"
+  ],
+  "abstract_zh": "LLM 驱动的角色扮演智能体日益普及，但常规 NLP 指标难以衡量角色贴合度、逻辑一致性与长时叙事稳定性。本文提出 RPA-Check 多阶段自动评测框架，含维度定义、指标扩写、语义过滤与 LLM-as-a-Judge 思维链打分四步，并在严肃游戏 LLM Court 上以 5 个法律情境和多个本地量化模型验证，揭示模型规模、推理深度与运行稳定性的权衡。",
+  "contribution_zh": "提出四阶段布尔清单式 LLM-as-a-Judge 框架，客观评测角色扮演智能体的角色保真度。",
+  "verified": true,
+  "notes": "PDF 已下载并经 PyMuPDF 校验（页数 34，正文可读）；标题/作者/摘要取自 arXiv 或出版方 API 实际返回。"
+ },
+ {
+  "id": "ax_2604-06663v1",
+  "title": "Restoring Heterogeneity in LLM-based Social Simulation: An Audience Segmentation Approach",
+  "authors": [
+   "Xiaoyou Qin",
+   "Zhihong Li",
+   "Xiaoxiao Cheng"
+  ],
+  "year": 2026,
+  "venue": "arXiv preprint",
+  "source_id": "2604.06663v1",
+  "url": "https://arxiv.org/abs/2604.06663v1",
+  "pdf_path": "docs/papers2/pdf/ax_2604-06663v1.pdf",
+  "downloaded": true,
+  "open_access": true,
+  "themes": [
+   "C"
+  ],
+  "abstract_zh": "LLM 常被用于模拟社会态度与行为，提供可扩展的\"硅样本\"，但现有做法常把人群压缩为\"平均人格\"，掩盖子群体差异。本文以美国气候意见调查数据，在两个开放权重模型上比较六种受众分群配置，变化标识粒度、精简度与选择逻辑，并以分布、结构、预测三维保真度评估。",
+  "contribution_zh": "提出以受众分群系统性恢复 LLM 社会仿真的异质性，并建立三维保真度评估框架。",
+  "verified": true,
+  "notes": "PDF 已下载并经 PyMuPDF 校验（页数 43，正文可读）；标题/作者/摘要取自 arXiv 或出版方 API 实际返回。"
+ },
+ {
+  "id": "ax_2609-24911v1",
+  "title": "SocioVerse2: A Longitudinal Dynamic Social Simulation Framework under a Human-AI Co-evolutionary Paradigm",
+  "authors": [
+   "Xinnong Zhang",
+   "Jiayu Lin",
+   "Jia Wang",
+   "Yixu Huang",
+   "Xinyi Mou",
+   "Yingqian Wu",
+   "Jingcong Liang",
+   "Shijun Lei",
+   "Jianing Shi",
+   "Guanying Li",
+   "Siyuan Wang",
+   "Hanjia Lyu",
+   "Zhenfei Yin",
+   "Yunlu Yin",
+   "Siming Chen",
+   "Yulan He",
+   "Jiebo Luo",
+   "Xuanjing Huang",
+   "Liyin Jin",
+   "Baohua Zhou",
+   "Hanqi Yan",
+   "Zhongyu Wei"
+  ],
+  "year": 2026,
+  "venue": "arXiv preprint",
+  "source_id": "2609.24911v1",
+  "url": "https://arxiv.org/abs/2609.24911v1",
+  "pdf_path": "docs/papers2/pdf/ax_2609-24911v1.pdf",
+  "downloaded": true,
+  "open_access": true,
+  "themes": [
+   "C"
+  ],
+  "abstract_zh": "生成式智能体以\"硅样本\"连接主体建模与真实行为数据，但现有平台缺少仿真内容干预与研究者对过程的控制。SocioVerse2 将其扩展为人机共演化范式：纵向回路以演化环境与干预分叉反事实分支，可控研究回路把研究视为可版本化的状态，并配备带研究者检查点的技能与数据服务，在 7 个案例中验证。",
+  "contribution_zh": "提出人机共演化纵向社会仿真框架，支持仿真内容干预与研究者对过程的版本化控制。",
+  "verified": true,
+  "notes": "PDF 已下载并经 PyMuPDF 校验（页数 44，正文可读）；标题/作者/摘要取自 arXiv 或出版方 API 实际返回。"
+ },
+ {
+  "id": "ax_2607-14485v1",
+  "title": "Step-Level Preference Learning for Generative Agents in Social Simulations",
+  "authors": [
+   "Wenchang Gao",
+   "Pingyue Sheng",
+   "Lanlan Qiu",
+   "Yunfei Ma",
+   "Jian Zhao",
+   "Baicheng Chen",
+   "Kangda Wang",
+   "Yuyang Tian",
+   "Shunqiang Mao",
+   "Tianxing He"
+  ],
+  "year": 2026,
+  "venue": "arXiv preprint",
+  "source_id": "2607.14485v1",
+  "url": "https://arxiv.org/abs/2607.14485v1",
+  "pdf_path": "docs/papers2/pdf/ax_2607-14485v1.pdf",
+  "downloaded": true,
+  "open_access": true,
+  "themes": [
+   "C"
+  ],
+  "abstract_zh": "基于大语言模型的生成式智能体通过规划、记忆检索、反思与动作选择等中间步骤模拟人类行为，但这类中间步骤缺少细粒度人工标注，智能体未对齐人类偏好。作者提出交互式仿真界面 SimPref 采集逐步偏好监督，构建含 57K 条标注的数据集，并用监督微调与直接偏好优化提升仿真保真度与交互质量。",
+  "contribution_zh": "提出逐步人类偏好标注界面并构建 57K 偏好数据集，用 SFT+DPO 对齐智能体中间决策",
+  "verified": true,
+  "notes": "PDF 已下载并经 PyMuPDF 校验（页数 16，正文可读）；标题/作者/摘要取自 arXiv 或出版方 API 实际返回。"
+ },
+ {
+  "id": "ax_2507-02919v1",
+  "title": "ChatGPT is not A Man but Das Man: Representativeness and Structural Consistency of Silicon Samples Generated by Large Language Models",
+  "authors": [
+   "Dai Li",
+   "Linzhuo Li",
+   "Huilian Sophie Qiu"
+  ],
+  "year": 2025,
+  "venue": "arXiv preprint",
+  "source_id": "2507.02919v1",
+  "url": "https://arxiv.org/abs/2507.02919v1",
+  "pdf_path": "docs/papers2/pdf/ax_2507-02919v1.pdf",
+  "downloaded": true,
+  "open_access": true,
+  "themes": [
+   "C"
+  ],
+  "abstract_zh": "该研究质疑用 ChatGPT、Llama 等大语言模型作为“硅样本”模拟人类意见。作者以 ANES 2020 中堕胎与非法移民问题提示 GPT-4 与 Llama 3.1 系列，发现回答相对人类数据存在结构一致性失败（准确率不随人口聚合层级保持）与严重同质化（少数意见被低估），提出“准确性优化假设”：同质化源于优先输出众数回答，故不宜替代人类调查数据。",
+  "contribution_zh": "实证揭示 LLM“硅样本”存在结构不一致与同质化，并提出准确性优化假设。",
+  "verified": true,
+  "notes": "PDF 已下载并经 PyMuPDF 校验（页数 33，正文可读）；标题/作者/摘要取自 arXiv 或出版方 API 实际返回。"
+ },
+ {
+  "id": "ax_2511-21783v2",
+  "title": "NetworkGames: Simulating Cooperation in Network Games with Personality-driven LLM Agents",
+  "authors": [
+   "Xuan Qiu"
+  ],
+  "year": 2025,
+  "venue": "arXiv preprint",
+  "source_id": "2511.21783v2",
+  "url": "https://arxiv.org/abs/2511.21783v2",
+  "pdf_path": "docs/papers2/pdf/ax_2511-21783v2.pdf",
+  "downloaded": true,
+  "open_access": true,
+  "themes": [
+   "C"
+  ],
+  "abstract_zh": "大语言模型虽在成对博弈中被广泛检验，在复杂网络博弈中的集体行为仍鲜有研究。作者提出 NetworkGames 框架，连接生成式智能体与几何深度学习，将社会仿真视为 LLM 策略支配的消息传递过程，给智能体赋予 MBTI 人格并置于小世界、无标度网络，用迭代囚徒困境考察人格与拓扑如何共定集体福利。",
+  "contribution_zh": "首次在受拓扑约束的网络博弈中研究 LLM 智能体，揭示连通性悖论与枢纽决定论。",
+  "verified": true,
+  "notes": "PDF 已下载并经 PyMuPDF 校验（页数 19，正文可读）；标题/作者/摘要取自 arXiv 或出版方 API 实际返回。"
+ },
+ {
+  "id": "ax_2504-10157v3",
+  "title": "SocioVerse: A World Model for Social Simulation Powered by LLM Agents and A Pool of 10 Million Real-World Users",
+  "authors": [
+   "Xinnong Zhang",
+   "Jiayu Lin",
+   "Xinyi Mou",
+   "Shiyue Yang",
+   "Xiawei Liu",
+   "Libo Sun",
+   "Hanjia Lyu",
+   "Yihang Yang",
+   "Weihong Qi",
+   "Yue Chen",
+   "Guanying Li",
+   "Ling Yan",
+   "Yao Hu",
+   "Siming Chen",
+   "Yu Wang",
+   "Xuanjing Huang",
+   "Jiebo Luo",
+   "Shiping Tang",
+   "Libo Wu",
+   "Baohua Zhou",
+   "Zhongyu Wei"
+  ],
+  "year": 2025,
+  "venue": "arXiv preprint",
+  "source_id": "2504.10157v3",
+  "url": "https://arxiv.org/abs/2504.10157v3",
+  "pdf_path": "docs/papers2/pdf/ax_2504-10157v3.pdf",
+  "downloaded": true,
+  "open_access": true,
+  "themes": [
+   "C"
+  ],
+  "abstract_zh": "社会仿真正成为社会科学研究新路径，但现有方法在环境、用户、交互机制与行为模式上难以与真实世界对齐。本文提出 LLM 智能体驱动的社会仿真世界模型 SocioVerse，含四个对齐组件与千万级真实用户池，在政治、新闻、经济三域大规模仿真。结果显示能以标准化流程与极少人工调整反映大规模人群动态。",
+  "contribution_zh": "提出 LLM 智能体驱动的社会仿真世界模型与千万级真实用户池。",
+  "verified": true,
+  "notes": "PDF 已下载并经 PyMuPDF 校验（页数 32，正文可读）；标题/作者/摘要取自 arXiv 或出版方 API 实际返回。"
+ },
+ {
+  "id": "ax_2507-06310v1",
+  "title": "Too Human to Model:The Uncanny Valley of LLMs in Social Simulation -- When Generative Language Agents Misalign with Modelling Principles",
+  "authors": [
+   "Yongchao Zeng",
+   "Calum Brown",
+   "Mark Rounsevell"
+  ],
+  "year": 2025,
+  "venue": "arXiv preprint",
+  "source_id": "2507.06310v1",
+  "url": "https://arxiv.org/abs/2507.06310v1",
+  "pdf_path": "docs/papers2/pdf/ax_2507-06310v1.pdf",
+  "downloaded": true,
+  "open_access": true,
+  "themes": [
+   "C"
+  ],
+  "abstract_zh": "作者认为 LLM 智能体\"太像人\"而难以建模：其表达过于细致、难以驾驭，与建模所需的抽象、简化与可解释性相冲突。通过将 Bass 扩散模型改写为 LLM 版本的模型构建思想实验，本文揭示时间分辨率、对话干预、提示规则化、角色一致性与涌现理解五重困境，指出 LLM 智能体陷入\"恐怖谷\"，并梳理其适用条件。",
+  "contribution_zh": "论证 LLM 智能体因过于拟人而陷入建模\"恐怖谷\"，并划定其适用边界。",
+  "verified": true,
+  "notes": "PDF 已下载并经 PyMuPDF 校验（页数 14，正文可读）；标题/作者/摘要取自 arXiv 或出版方 API 实际返回。"
+ },
+ {
+  "id": "ax_2406-17232v2",
+  "title": "Beyond Demographics: Aligning Role-playing LLM-based Agents Using Human Belief Networks",
+  "authors": [
+   "Yun-Shiuan Chuang",
+   "Krirk Nirunwiroj",
+   "Zach Studdiford",
+   "Agam Goyal",
+   "Vincent V. Frigo",
+   "Sijia Yang",
+   "Dhavan Shah",
+   "Junjie Hu",
+   "Timothy T. Rogers"
+  ],
+  "year": 2024,
+  "venue": "arXiv preprint",
+  "source_id": "2406.17232v2",
+  "url": "https://arxiv.org/abs/2406.17232v2",
+  "pdf_path": "docs/papers2/pdf/ax_2406-17232v2.pdf",
+  "downloaded": true,
+  "open_access": true,
+  "themes": [
+   "C"
+  ],
+  "abstract_zh": "大语言模型（LLM）智能体对社会仿真至关重要。作者用人类调查数据估计出涵盖 64 个议题、载荷于 9 个因子的信念网络，给智能体注入某一议题观点，检验其余议题上与人类意见的对齐度。结果显示，仅靠人口学角色扮演无法对齐人机意见，注入单一信念却显著提升网络内相关议题的对齐，网络外则否。",
+  "contribution_zh": "提出用实证人类信念网络注入单一信念来对齐角色扮演 LLM 与人类观点。",
+  "verified": true,
+  "notes": "PDF 已下载并经 PyMuPDF 校验（页数 17，正文可读）；标题/作者/摘要取自 arXiv 或出版方 API 实际返回。"
+ },
+ {
+  "id": "ax_2409-02601v3",
+  "title": "ChatGPT vs Social Surveys: Probing Objective and Subjective Silicon Population",
+  "authors": [
+   "Muzhi Zhou",
+   "Lu Yu",
+   "Xiaomin Geng",
+   "Lan Luo"
+  ],
+  "year": 2024,
+  "venue": "arXiv preprint",
+  "source_id": "2409.02601v3",
+  "url": "https://arxiv.org/abs/2409.02601v3",
+  "pdf_path": "docs/papers2/pdf/ax_2409-02601v3.pdf",
+  "downloaded": true,
+  "open_access": true,
+  "themes": [
+   "C"
+  ],
+  "abstract_zh": "该文用重复随机抽样构造抽样分布，估计 GPT 生成“硅样本”的总体参数。结果显示其性别与平均年龄接近 2020 年美国人口，但显著高估黑人与高学历人群；态度得分点估计高度不一致、无明确意识形态倾向，回答分布呈正态且明显偏离真实受访者，也比人类更确定，并讨论据此推断真实人口的隐患。",
+  "contribution_zh": "用抽样分布量化 GPT 硅总体的人口结构偏差与过度确定性。",
+  "verified": true,
+  "notes": "PDF 已下载并经 PyMuPDF 校验（页数 18，正文可读）；标题/作者/摘要取自 arXiv 或出版方 API 实际返回。"
+ },
+ {
+  "id": "ax_2406-09464v1",
+  "title": "GPT-ology, Computational Models, Silicon Sampling: How should we think about LLMs in Cognitive Science?",
+  "authors": [
+   "Desmond C. Ong"
+  ],
+  "year": 2024,
+  "venue": "arXiv preprint",
+  "source_id": "2406.09464v1",
+  "url": "https://arxiv.org/abs/2406.09464v1",
+  "pdf_path": "docs/papers2/pdf/ax_2406-09464v1.pdf",
+  "downloaded": true,
+  "open_access": true,
+  "themes": [
+   "C"
+  ],
+  "abstract_zh": "本文综述认知科学中三类 LLM 研究范式：GPT-ology 推断模型自身能力，LLM 作为人类认知的计算模型，以及用 LLM 模拟人群的 silicon sampling；评析其推论与挑战（拟人化、提示词敏感、存在性证明逻辑不对称、保真度假设），并指出模型选择、训练数据与可复现性等悬置问题。",
+  "contribution_zh": "梳理 LLM 认知科学三大范式，辨析其推论边界与悬置问题。",
+  "verified": true,
+  "notes": "PDF 已下载并经 PyMuPDF 校验（页数 8，正文可读）；标题/作者/摘要取自 arXiv 或出版方 API 实际返回。"
+ },
+ {
+  "id": "cn_shcsgh202402006",
+  "title": "基于大语言模型的城市街区情感空间识别与更新策略研究——以上海市四川北路街区为例",
+  "authors": [
+   "周静",
+   "邝远霄",
+   "吴书驰"
+  ],
+  "year": 2025,
+  "venue": "上海城市规划",
+  "source_id": "NAPSTIC:shcsgh202502006",
+  "url": "https://opaj.napstic.cn/search?q=%E5%9F%BA%E4%BA%8E%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%9F%8E%E5%B8%82%E8%A1%97%E5%8C%BA%E6%83%85%E6%84%9F%E7%A9%BA%E9%97%B4%E8%AF%86%E5%88%AB%E4%B8%8E%E6%9B%B4%E6%96%B0%E7%AD%96%E7%95%A5%E7%A0%94%E7%A9%B6",
+  "pdf_path": null,
+  "downloaded": false,
+  "open_access": false,
+  "themes": [
+   "C"
+  ],
+  "abstract_zh": "构建“数据采集—情感识别—更新策略”框架，用大语言模型与知识图谱整合社交媒体、市民热线、新闻与访谈等多源异构数据，识别上海四川北路街区 8 类情感空间并对 3697 个地点情感评分，发现情感热点与物质载体高度耦合、负面情感呈功能失配—节点聚集分异。",
+  "contribution_zh": "以多源数据+大模型实现街区情感空间识别并转译为更新策略。",
+  "verified": true,
+  "notes": "NAPSTIC 题录与摘要已核验（origin_id shcsgh202502006，2025年第2期，32-39）；全文需订阅，未获 PDF。"
+ },
+ {
+  "id": "cn_shcsgh202403016",
+  "title": "基于大语言模型的城市街区“人—地”情感关联测度及启示——以上海多伦路街区为例",
+  "authors": [
+   "周静",
+   "邝远霄",
+   "刘勇"
+  ],
+  "year": 2024,
+  "venue": "上海城市规划",
+  "source_id": "NAPSTIC:shcsgh202403016",
+  "url": "https://opaj.napstic.cn/search?q=%E5%9F%BA%E4%BA%8E%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%9F%8E%E5%B8%82%E8%A1%97%E5%8C%BA%E4%BA%BA%E5%9C%B0%E6%83%85%E6%84%9F%E5%85%B3%E8%81%94%E6%B5%8B%E5%BA%A6%E5%8F%8A%E5%90%AF%E7%A4%BA",
+  "pdf_path": null,
+  "downloaded": false,
+  "open_access": false,
+  "themes": [
+   "C"
+  ],
+  "abstract_zh": "在地方依恋三维框架基础上建立“人—地”坐标系，用大语言模型量化心理过程以表征人地情感关联，以上海多伦路街区为例开展应用探索，发现人们对“嵌在居民区的景点”情感反应复杂，并据此提出“街区记忆圈”更新策略。",
+  "contribution_zh": "用大语言模型量化人地情感关联并提出街区记忆圈策略。",
+  "verified": true,
+  "notes": "NAPSTIC 题录与摘要已核验（origin_id shcsgh202403016，2024年第3期，102-108）；未获 PDF。"
+ },
+ {
+  "id": "ax_2607-09192v1",
+  "title": "Empirical Pedestrian Safety Assessment in a Mobile Robot Using a Predictive Social Force Model",
+  "authors": [
+   "Alireza Jafari",
+   "Yun-Hao Tsai",
+   "Yen-Chen Liu"
+  ],
+  "year": 2026,
+  "venue": "arXiv preprint",
+  "source_id": "2607.09192v1",
+  "url": "https://arxiv.org/abs/2607.09192v1",
+  "pdf_path": "docs/papers2/pdf/ax_2607-09192v1.pdf",
+  "downloaded": true,
+  "open_access": true,
+  "themes": [
+   "D"
+  ],
+  "abstract_zh": "机器人需与行人共享人行道。本文检验在社会力模型及其 PTTC 变体中加入预测的效果，提出 PSFM 与 PTSFM，按有限时域积分预测社会力矢量，并在移动机器人上与志愿者做对向相遇试验，用客观指标与 Likert 问卷评估。结果显示 PTTC 整合改善安全指标，预测增益有限，主观评分无显著差异。",
+  "contribution_zh": "提出预测型 PSFM 与 PTSFM，实证表明 PTTC 整合提升安全性而预测增益有限。",
+  "verified": true,
+  "notes": "PDF 已下载并经 PyMuPDF 校验（页数 8，正文可读）；标题/作者/摘要取自 arXiv 或出版方 API 实际返回。"
+ },
+ {
+  "id": "ax_2601-17304v1",
+  "title": "From microscopic social force models to macroscopic continuum models for pedestrian flow",
+  "authors": [
+   "Liangze Yang",
+   "Hui Yu",
+   "Jie Du"
+  ],
+  "year": 2026,
+  "venue": "arXiv preprint",
+  "source_id": "2601.17304v1",
+  "url": "https://arxiv.org/abs/2601.17304v1",
+  "pdf_path": "docs/papers2/pdf/ax_2601-17304v1.pdf",
+  "downloaded": true,
+  "open_access": true,
+  "themes": [
+   "D"
+  ],
+  "abstract_zh": "行人流是大量个体相互作用的复杂系统。微观模型可刻画个体相互作用力，宏观模型便于解析分析与高效数值预测，但二者跨尺度关系少有研究。本文基于原始社会力模型并引入反应式最优路径选择，先推导介观动理学方程，再通过改变相互作用力导出若干宏观连续模型。",
+  "contribution_zh": "从社会力模型自下而上推导出多类宏观连续模型，建立微观与宏观尺度的定量联系。",
+  "verified": true,
+  "notes": "PDF 已下载并经 PyMuPDF 校验（页数 20，正文可读）；标题/作者/摘要取自 arXiv 或出版方 API 实际返回。"
+ },
+ {
+  "id": "ax_2512-16887v1",
+  "title": "An evacuation simulator for pedestrian dynamics based on the Social Force Model",
+  "authors": [
+   "Julián López",
+   "Virginia Mazzone",
+   "M. Leticia Rubio Puzzo",
+   "Juan Cruz Moreno"
+  ],
+  "year": 2025,
+  "venue": "arXiv preprint",
+  "source_id": "2512.16887v1",
+  "url": "https://arxiv.org/abs/2512.16887v1",
+  "pdf_path": "docs/papers2/pdf/ax_2512-16887v1.pdf",
+  "downloaded": true,
+  "open_access": true,
+  "themes": [
+   "D"
+  ],
+  "abstract_zh": "封闭空间的行人疏散需要能真实刻画个体相互作用与空间约束的仿真工具。本文提出基于社会力模型（SFM）的开源疏散仿真器 SiCoBioNa，提供图形界面，无需数值建模经验即可配置行人属性、空间几何与初始条件，涵盖目标导向运动、人际与障碍物相互作用，并输出定量数据与可视化结果。",
+  "contribution_zh": "发布开源、图形化、模块化可扩展的社会力模型疏散仿真器 SiCoBioNa。",
+  "verified": true,
+  "notes": "PDF 已下载并经 PyMuPDF 校验（页数 10，正文可读）；标题/作者/摘要取自 arXiv 或出版方 API 实际返回。"
+ },
+ {
+  "id": "ax_2506-20952v1",
+  "title": "Effect of Haptic Feedback on Avoidance Behavior and Visual Exploration in Dynamic VR Pedestrian Environment",
+  "authors": [
+   "Kyosuke Ishibashi",
+   "Atsushi Saito",
+   "Zin Y. Tun",
+   "Lucas Ray",
+   "Megan C. Coram",
+   "Akihiro Sakurai",
+   "Allison M. Okamura",
+   "Ko Yamamoto"
+  ],
+  "year": 2025,
+  "venue": "arXiv preprint",
+  "source_id": "2506.20952v1",
+  "url": "https://arxiv.org/abs/2506.20952v1",
+  "pdf_path": "docs/papers2/pdf/ax_2506-20952v1.pdf",
+  "downloaded": true,
+  "open_access": true,
+  "themes": [
+   "D"
+  ],
+  "abstract_zh": "VR 人群仿真应用广泛，但触觉反馈对稠密动态人流中行走行为的影响尚不明确。本文通过用户实验研究触觉反馈如何改变 VR 拥挤人流中的行走运动，发现轨迹长度与骨盆角变化增大，碰撞后横向位移增大，侧后方接近时视觉探索增强，步速波动增大；作者认为触觉提升了用户对碰撞的敏感性。",
+  "contribution_zh": "通过用户实验证明触觉反馈改变了 VR 稠密动态人流中的避让运动并增强视觉探索。",
+  "verified": true,
+  "notes": "PDF 已下载并经 PyMuPDF 校验（页数 6，正文可读）；标题/作者/摘要取自 arXiv 或出版方 API 实际返回。"
+ },
+ {
+  "id": "ax_2510-04423v1",
+  "title": "Investigating mixed traffic dynamics of pedestrians and non-motorized vehicles at urban intersections: Observation experiments and modelling",
+  "authors": [
+   "Chaojia Yu",
+   "Kaixin Wang",
+   "Junle Li",
+   "Jingjie Wang"
+  ],
+  "year": 2025,
+  "venue": "arXiv preprint",
+  "source_id": "2510.04423v1",
+  "url": "https://arxiv.org/abs/2510.04423v1",
+  "pdf_path": "docs/papers2/pdf/ax_2510-04423v1.pdf",
+  "downloaded": true,
+  "open_access": true,
+  "themes": [
+   "D"
+  ],
+  "abstract_zh": "城市交叉口行人与非机动车混行带来安全挑战，传统模型难以刻画速度异质与冲突预判的动态交互。本文提出时间与角度社会力模型 TASFM，在社会力模型中引入碰撞时间（TTC）与随速度角度变化的切向力。以深圳高密度交叉口无人机轨迹验证，平均轨迹误差 0.154 m，占区域宽度 0.77%。",
+  "contribution_zh": "扩展社会力模型，引入 TTC 与速度角度切向力，用实测轨迹验证混行避碰。",
+  "verified": true,
+  "notes": "PDF 已下载并经 PyMuPDF 校验（页数 24，正文可读）；标题/作者/摘要取自 arXiv 或出版方 API 实际返回。"
+ },
+ {
+  "id": "ax_2510-10327v1",
+  "title": "Mapping the Urban Mobility Intelligence Frontier: A Scientometric Analysis of Data-Driven Pedestrian Trajectory Prediction and Simulation",
+  "authors": [
+   "Junhao Xu",
+   "Hui Zeng"
+  ],
+  "year": 2025,
+  "venue": "arXiv preprint",
+  "source_id": "2510.10327v1",
+  "url": "https://arxiv.org/abs/2510.10327v1",
+  "pdf_path": "docs/papers2/pdf/ax_2510-10327v1.pdf",
+  "downloaded": true,
+  "open_access": true,
+  "themes": [
+   "D"
+  ],
+  "abstract_zh": "本文基于 Web of Science 核心合集，用 SciExplorer 与 Bibliometrix 对数据驱动的行人轨迹预测与人群仿真研究进行科学计量分析，梳理其跨学科结构。结果显示人工智能、城市信息学与人群行为建模高度汇聚，由图神经网络、Transformer 与生成模型驱动，并服务于城市交通设计、公共安全规划与智慧城市数字孪生。",
+  "contribution_zh": "以科学计量方法系统刻画数据驱动行人轨迹预测与人群仿真的知识结构与新兴前沿。",
+  "verified": true,
+  "notes": "PDF 已下载并经 PyMuPDF 校验（页数 21，正文可读）；标题/作者/摘要取自 arXiv 或出版方 API 实际返回。"
+ },
+ {
+  "id": "ax_2507-20117v2",
+  "title": "RESCUE: Crowd Evacuation Simulation via Controlling SDM-United Characters",
+  "authors": [
+   "Xiaolin Liu",
+   "Tianyi Zhou",
+   "Hongbo Kang",
+   "Jian Ma",
+   "Ziwen Wang",
+   "Jing Huang",
+   "Wenguo Weng",
+   "Yu-Kun Lai",
+   "Kun Li"
+  ],
+  "year": 2025,
+  "venue": "arXiv preprint",
+  "source_id": "2507.20117v2",
+  "url": "https://arxiv.org/abs/2507.20117v2",
+  "pdf_path": "docs/papers2/pdf/ax_2507-20117v2.pdf",
+  "downloaded": true,
+  "open_access": true,
+  "themes": [
+   "D"
+  ],
+  "abstract_zh": "该文指出现有模型忽略碰撞、人际交互及地形与体型差异。作者对齐人脑感觉—决策—运动（SDM）环路，提出实时三维疏散仿真框架，含三维自适应社会力模型决策机制与个性化步态控制，支持多智能体并行，并提出部件级受力可视化。结果显示其支持动态轨迹规划与个性化行为，兼容不平整地形。",
+  "contribution_zh": "提出在线SDM统合的三维疏散仿真框架，融合三维自适应社会力决策与个性化步态控制。",
+  "verified": true,
+  "notes": "PDF 已下载并经 PyMuPDF 校验（页数 10，正文可读）；标题/作者/摘要取自 arXiv 或出版方 API 实际返回。"
+ },
+ {
+  "id": "ax_2406-08190v3",
+  "title": "CrowdEgress: A Multi-Agent Simulation Platform for Pedestrian Crowd",
+  "authors": [
+   "Peng Wang",
+   "Xiaoda Wang",
+   "Peter Luh",
+   "Neal Olderman",
+   "Christian Wilkie",
+   "Timo Korhonen"
+  ],
+  "year": 2024,
+  "venue": "arXiv preprint",
+  "source_id": "2406.08190v3",
+  "url": "https://arxiv.org/abs/2406.08190v3",
+  "pdf_path": "docs/papers2/pdf/ax_2406-08190v3.pdf",
+  "downloaded": true,
+  "open_access": true,
+  "themes": [
+   "D"
+  ],
+  "abstract_zh": "本文介绍人群仿真平台 CrowdEgress。其智能体模型在社会力模型基础上扩展，描述智能体之间及与墙体、门、出口等设施的相互作用；平台兼容 FDS+Evac，可导入其输入构建单层几何，并用流量求解器计算通往出口的路径图。作者计划融入社会与心理学理论，研究疏散中的预疏散、出口选择、社会群体与从众效应。",
+  "contribution_zh": "构建并公开兼容 FDS+Evac 的社会力扩展多智能体人群疏散仿真平台。",
+  "verified": true,
+  "notes": "PDF 已下载并经 PyMuPDF 校验（页数 27，正文可读）；标题/作者/摘要取自 arXiv 或出版方 API 实际返回。"
+ },
+ {
+  "id": "ax_2409-14844v1",
+  "title": "Evaluating Robot Influence on Pedestrian Behavior Models for Crowd Simulation and Benchmarking",
+  "authors": [
+   "Subham Agrawal",
+   "Nils Dengler",
+   "Maren Bennewitz"
+  ],
+  "year": 2024,
+  "venue": "arXiv preprint",
+  "source_id": "2409.14844v1",
+  "url": "https://arxiv.org/abs/2409.14844v1",
+  "pdf_path": "docs/papers2/pdf/ax_2409-14844v1.pdf",
+  "downloaded": true,
+  "open_access": true,
+  "themes": [
+   "D"
+  ],
+  "abstract_zh": "机器人会使行人轨迹偏移，但已有方法难以在未见场景客观度量。本文提出可重复评测框架：在社会力模型中加机器人力分量得 SRFM，用 JRDB 轨迹学参数，在 5 个场景下带或不带该分量仿真、度量轨迹偏移，并训练两种 RL 策略对比传统导航模型。",
+  "contribution_zh": "提出 SRFM 仿真框架，可重复客观度量并基准测试机器人对行人轨迹的扰动。",
+  "verified": true,
+  "notes": "PDF 已下载并经 PyMuPDF 校验（页数 12，正文可读）；标题/作者/摘要取自 arXiv 或出版方 API 实际返回。"
+ },
+ {
+  "id": "ax_2309-02812v1",
+  "title": "Agent-based simulation of pedestrians' earthquake evacuation; application to Beirut, Lebanon",
+  "authors": [
+   "Rouba Iskandar",
+   "Kamel Allaw",
+   "Julie Dugdale",
+   "Elise Beck",
+   "Jocelyne Adjizian-Gérard",
+   "Cécile Cornou",
+   "Jacques Harb",
+   "Pascal Lacroix",
+   "Nada Badaro-Saliba",
+   "Stéphane Cartier",
+   "Rita Zaarour"
+  ],
+  "year": 2023,
+  "venue": "arXiv preprint",
+  "source_id": "2309.02812v1",
+  "url": "https://arxiv.org/abs/2309.02812v1",
+  "pdf_path": "docs/papers2/pdf/ax_2309-02812v1.pdf",
+  "downloaded": true,
+  "open_access": true,
+  "themes": [
+   "D"
+  ],
+  "abstract_zh": "多数地震风险评估只估算建成环境损失，忽视人的行为。本文用智能体模型构建城市尺度行人疏散模拟，整合地震危险、建筑易损性与个体行为，应用于贝鲁特：地震荷载取峰值加速度 0.3g，震害由神经网络预测并估算废弃物。结果显示 52% 人口能在 5 分钟内到达开放空间，一处开放空间锁闭时降至 39%。",
+  "contribution_zh": "提出耦合地震危险、建筑易损性与个体行为的城市尺度疏散仿真，并量化开放空间可达性影响。",
+  "verified": true,
+  "notes": "PDF 已下载并经 PyMuPDF 校验（页数 12，正文可读）；标题/作者/摘要取自 arXiv 或出版方 API 实际返回。"
+ },
+ {
+  "id": "ax_2302-10421v2",
+  "title": "Crowd simulation incorporating a route choice model and similarity evaluation using real large-scale data",
+  "authors": [
+   "Ryo Nishida",
+   "Masaki Onishi",
+   "Koichi Hashimoto"
+  ],
+  "year": 2023,
+  "venue": "arXiv preprint",
+  "source_id": "2302.10421v2",
+  "url": "https://arxiv.org/abs/2302.10421v2",
+  "pdf_path": "docs/papers2/pdf/ax_2302-10421v2.pdf",
+  "downloaded": true,
+  "open_access": true,
+  "themes": [
+   "D"
+  ],
+  "abstract_zh": "行人仿真多只建模行走这一操作层决策，忽视路径选择这一更高战术层决策，也缺乏真实数据下的复现性检验。作者提出串联实测、路径选择模型估计与仿真器构建的通用框架，路径选择用离散选择模型、行走用社会力模型，并以剧场疏散演练与数万人烟花大会数据验证其复现更准确。",
+  "contribution_zh": "提出实测—路径选择建模—仿真构建的通用人群仿真框架并用真实数据验证其复现性",
+  "verified": true,
+  "notes": "PDF 已下载并经 PyMuPDF 校验（页数 12，正文可读）；标题/作者/摘要取自 arXiv 或出版方 API 实际返回。"
+ },
+ {
+  "id": "ax_2311-10554v1",
+  "title": "Simulation method of urban evacuation based on mesoscopic cellular automata",
+  "authors": [
+   "Wei Lv",
+   "Jinghui Wang",
+   "Zhiming Fang",
+   "Dun Mao"
+  ],
+  "year": 2023,
+  "venue": "arXiv preprint",
+  "source_id": "2311.10554v1",
+  "url": "https://arxiv.org/abs/2311.10554v1",
+  "pdf_path": "docs/papers2/pdf/ax_2311-10554v1.pdf",
+  "downloaded": true,
+  "open_access": true,
+  "themes": [
+   "D"
+  ],
+  "abstract_zh": "本文提出面向大范围场景疏散的介观元胞自动机模型：放弃平面网格，改用道路元胞分割，放大单元尺度并提高每格容纳人数，以状态变量表征元胞内行人流参数；源加载元胞模拟人员由建筑转入道路，出口卸载元胞将其移出系统，状态转移由连续性方程描述。仿真可识别疏散瓶颈。",
+  "contribution_zh": "提出道路元胞分割的介观元胞自动机模型，用状态变量更新实现大尺度城区疏散仿真。",
+  "verified": true,
+  "notes": "PDF 已下载并经 PyMuPDF 校验（页数 13，正文可读）；标题/作者/摘要取自 arXiv 或出版方 API 实际返回。"
+ },
+ {
+  "id": "ax_2309-05476v1",
+  "title": "The Influence of Macroscopic Pedestrian Structures on Train Boarding Efficiency",
+  "authors": [
+   "Rabia I. Kodapanakkal",
+   "Caspar A. S. Pouw",
+   "Antal Haans",
+   "Jaap Ham",
+   "Gunter Bombaerts",
+   "Alessandro Corbetta",
+   "Andrej Dameski",
+   "Andreas Spahn",
+   "Federico Toschi"
+  ],
+  "year": 2023,
+  "venue": "arXiv preprint",
+  "source_id": "2309.05476v1",
+  "url": "https://arxiv.org/abs/2309.05476v1",
+  "pdf_path": "docs/papers2/pdf/ax_2309-05476v1.pdf",
+  "downloaded": true,
+  "open_access": true,
+  "themes": [
+   "D"
+  ],
+  "abstract_zh": "列车上下客研究多聚焦上下车人数等群体变量，缺少心理学视角。本文考察候车者遵循「先下后上」规范形成的下车通道这一结构如何影响下客效率。基于荷兰乌得勒支中央车站 2017–2020 年 3278 起上下车事件（取自日均十万条轨迹数据集），发现上车人数越多、上客与下客之比越高，通道越窄，下客效率越低。",
+  "contribution_zh": "揭示行人互动涌现的下车通道结构是影响列车下客效率的中介，并指明干预靶点。",
+  "verified": true,
+  "notes": "PDF 已下载并经 PyMuPDF 校验（页数 27，正文可读）；标题/作者/摘要取自 arXiv 或出版方 API 实际返回。"
+ },
+ {
+  "id": "ax_2211-14260v1",
+  "title": "An agent-based simulation model of pedestrian evacuation based on Bayesian Nash Equilibrium",
+  "authors": [
+   "Yiyu Wang",
+   "Jiaqi Ge",
+   "Alexis Comber"
+  ],
+  "year": 2022,
+  "venue": "arXiv preprint",
+  "source_id": "2211.14260v1",
+  "url": "https://arxiv.org/abs/2211.14260v1",
+  "pdf_path": "docs/papers2/pdf/ax_2211-14260v1.pdf",
+  "downloaded": true,
+  "open_access": true,
+  "themes": [
+   "D"
+  ],
+  "abstract_zh": "论文把贝叶斯博弈引入行人疏散的主体仿真，比较随机跟随、最短路与贝叶斯纳什均衡三类行为及其组合，发现能预判下一步拥堵并调整方向的行人疏散更快，且随其比例上升，平均疏散时间下降、舒适度上升。",
+  "contribution_zh": "用贝叶斯纳什均衡刻画行人预判拥堵的改道行为并量化其对疏散效率的影响。",
+  "verified": true,
+  "notes": "PDF 已下载并经 PyMuPDF 校验（页数 21，正文可读）；标题/作者/摘要取自 arXiv 或出版方 API 实际返回。"
+ },
+ {
+  "id": "jn_https-doi-org-10-11591-ijai-v11-i4-pp1197-1212",
+  "title": "Simulation of pedestrian movements using a fine grid cellular automata model",
+  "authors": [
+   "Siamak Sarmady",
+   "Fazilah Haron",
+   "Abdullah Zawawi Talib"
+  ],
+  "year": 2022,
+  "venue": "IAES International Journal of Artificial Intelligence",
+  "source_id": "https://doi.org/10.11591/ijai.v11.i4.pp1197-1212",
+  "url": "https://doi.org/10.11591/ijai.v11.i4.pp1197-1212",
+  "pdf_path": "docs/papers2/pdf/jn_https-doi-org-10-11591-ijai-v11-i4-pp1197-1212.pdf",
+  "downloaded": true,
+  "open_access": true,
+  "themes": [
+   "D"
+  ],
+  "abstract_zh": "常规元胞自动机中每个行人只占一个身体大小的单元格，且所有人尺寸与速度相同。论文提出细网格元胞自动机模型，允许行人身体占据多个小单元格，以支持不同体型和速度，并模拟行人朝目标点移动。经典型通道场景测试，运动更平滑，仿真结果与经验速度—密度图吻合良好。",
+  "contribution_zh": "提出细网格元胞自动机模型，使行人可占多格并具异质体型与速度。",
+  "verified": true,
+  "notes": "PDF 已下载并经 PyMuPDF 校验（页数 16，正文可读）；标题/作者/摘要取自 arXiv 或出版方 API 实际返回。"
+ },
+ {
+  "id": "ax_2110-07926v1",
+  "title": "Structured Nonnegative Matrix Factorization for Traffic Flow Estimation of Large Cloud Networks",
+  "authors": [
+   "Syed Muhammad Atif",
+   "Nicolas Gillis",
+   "Sameer Qazi",
+   "Imran Naseem"
+  ],
+  "year": 2021,
+  "venue": "arXiv preprint",
+  "source_id": "2110.07926v1",
+  "url": "https://arxiv.org/abs/2110.07926v1",
+  "pdf_path": "docs/papers2/pdf/ax_2110-07926v1.pdf",
+  "downloaded": true,
+  "open_access": true,
+  "themes": [
+   "D"
+  ],
+  "abstract_zh": "网络流量矩阵估计是病态线性反问题：由可观测链路流量Y与二元路由矩阵A（Y=AX）估计不可观测的OD流量X。本文提出将高维OD流量映射为低维隐流量的模型，含三项约束——流量非负、自回归以捕捉时序模式、正交性以保证隐流量到链路流量的映射保持距离；参数用基于Nesterov加速梯度的算法训练。在Internet2与GÉANT两个真实骨干网数据集上验证。",
+  "contribution_zh": "首次以NMF结合非负、自回归与正交约束估计OD流量，精度与可扩展性优于现有降维方法。",
+  "verified": true,
+  "notes": "PDF 已下载并经 PyMuPDF 校验（页数 23，正文可读）；标题/作者/摘要取自 arXiv 或出版方 API 实际返回。"
+ }
+]
