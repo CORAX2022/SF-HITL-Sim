@@ -7,7 +7,7 @@ title: "存量—流量空间建模驱动的参与式交互仿真：面向公共
 type: software
 authors:
   - name: "SF-HITL-Sim 项目组"
-version: 0.1.0
+version: 0.1.1
 date-released: "2026-10-19"
 url: "https://github.com/CORAX2022/SF-HITL-Sim"
 repository-code: "https://github.com/CORAX2022/SF-HITL-Sim"

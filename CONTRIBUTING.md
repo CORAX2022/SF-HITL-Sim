@@ -1,7 +1,7 @@
 # 贡献指南（CONTRIBUTING）
 
 本仓库是「存量—流量空间建模驱动的参与式交互仿真：面向公共空间人员流动治理的人机协同实验平台」
-（仓库代号 `SF-HITL-Sim`，<https://github.com/CORAX2022/SF-HITL-Sim>，私有）。
+（仓库代号 `SF-HITL-Sim`，<https://github.com/CORAX2022/SF-HITL-Sim>，公开）。
 它同时是**研究平台**与**写作平台**：代码与论文共享同一套 git 历史，
 写作过程以分支与提交留痕，评审即合并，里程碑即标签。
 
@@ -166,7 +166,7 @@ git config commit.template .gitmessage
 ## 10. 提问与协作
 
 - 用议题（issue）描述问题与复现步骤；数值/结论类问题请附命令与输出。
-- 仓库为私有仓库，GitHub 访问依赖本机加速器；不可用时按 README「环境与网络说明」
+- 仓库已转为公开仓库；本机访问 GitHub 依赖加速器，不可用时按 README「环境与网络说明」
   使用 `scripts/gh-fetch.ps1` 通道，不要重复试错。
 - 评审顺序建议：先看 `README.md` 与 `ROADMAP.md` 确认阶段目标，再看 diff；
   写作稿先看 `paper/manuscript.md` 看板，避免在过期章节上评审。

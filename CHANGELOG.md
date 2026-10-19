@@ -21,6 +21,17 @@
 - **文献与构建补检**：中文文献（CNKI/Wanfang）系统性补检；
   CityFlow / AB Street 在有编译环境的机器上完成构建验证（本机无 MSVC/CMake/cargo）。
 
+## [0.1.1] - 2026-10-19
+
+### 变更
+
+- 仓库可见性由私有转为**公开**（<https://github.com/CORAX2022/SF-HITL-Sim>）：
+  服务器可匿名克隆，不再需要凭据；私有时期发布的 `v0.1.0` Release 资产保留为历史快照。
+- 交付包新增**全量资产版**（`SF-HITL-Sim-full-v0.1.1.zip`）：除 git 仓库外，一并打包
+  文献 PDF、第三方上游源码、第三方 NetLogo 模型与本地虚拟环境，供离线服务器一次性搬运；
+  常规版（`SF-HITL-Sim-v0.1.1.zip`）仍只含 git 仓库与写作资产。
+- README、CONTRIBUTING、CITATION 与交接文档同步更新公开仓库说明与版本号。
+
 ## [0.1.0] - 2026-10-19
 
 首个版本：仿真内核、闭环演示、文献与上游验证、写作平台同时就位，仓库可作为长期研究写作平台使用。
@@ -60,5 +71,6 @@
 
 [Keep a Changelog]: https://keepachangelog.com/zh-CN/1.1.0/
 [SemVer]: https://semver.org/lang/zh-CN/
-[Unreleased]: https://github.com/CORAX2022/SF-HITL-Sim/compare/v0.1.0...HEAD
+[Unreleased]: https://github.com/CORAX2022/SF-HITL-Sim/compare/v0.1.1...HEAD
+[0.1.1]: https://github.com/CORAX2022/SF-HITL-Sim/releases/tag/v0.1.1
 [0.1.0]: https://github.com/CORAX2022/SF-HITL-Sim/releases/tag/v0.1.0

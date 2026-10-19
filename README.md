@@ -5,8 +5,8 @@
 > Participatory Interactive Simulation Driven by Stock–Flow Spatial Modelling:
 > A Human–Machine Collaborative Experimental Platform for Public-Space Pedestrian-Flow Governance
 >
-> 仓库代号：`SF-HITL-Sim`（Stock–Flow Human-in-the-Loop Simulation）｜当前版本：v0.1.0｜仓库：
-> https://github.com/CORAX2022/SF-HITL-Sim （私有）
+> 仓库代号：`SF-HITL-Sim`（Stock–Flow Human-in-the-Loop Simulation）｜当前版本：v0.1.1｜仓库：
+> https://github.com/CORAX2022/SF-HITL-Sim （公开）
 
 ---
 
