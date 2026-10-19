@@ -1,0 +1,449 @@
+% =====================================================================
+% paper/references.bib —— 论文参考文献库（核心条目 40 条）
+%
+% 生成依据（两份本地索引，均已在仓库内）：
+%   - docs/papers/index.json     28 篇，其中 21 篇标题/作者/年份经 PDF 正文抽取核验
+%   - docs/papers2/index.json    74 条扩展文献池，含 abstract_zh / contribution_zh
+%
+% 去重规则：同一文献在两库均出现的，只保留一条，并优先采用 papers2 的已核验
+%          作者表与预印本编号（CrowdEgress、Cormas、SocioVerse 三例）。
+% key 规则：第一作者姓 + 年份 + "_" + 短标题；docs/papers/index.json 中已有的条目
+%          直接沿用其 id，保证与 docs/literature/文献综述.md 的 [@...] 一一对应。
+% 字段规则：只写两份索引中明确记录过的信息；索引未记录的 DOI / 卷期 / 页码一律
+%          留空，并在条目上方标注 `% TODO: 待核实`。禁止凭记忆补 DOI 或卷期。
+%
+% 条目状态：v0.1.0（写作脚手架）。定稿前须逐条处理 TODO，并确认正文中所有
+%          [@key] 都能在本文件中解析。
+% =====================================================================
+
+
+% =====================================================================
+% A 线：存量—流量 / 系统动力学空间建模
+% =====================================================================
+
+% 来源：docs/papers/index.json（verified: true；venue: "EPTCS 380 (ACT 2022)"；
+%       source_id: doi:10.4204/EPTCS.380.5）
+% TODO: 待核实：索引第 5 作者记录为 "Nicholas B. B. S."，疑为 PDF 抽取残片，
+%       须以论文首页补全；页码未记录。key 沿用索引 id（含 2022），出版年为 2023。
+@inproceedings{Baez2022_StockFlowDiagrams,
+  author    = {Baez, John and Li, Xiaoyan and Libkind, Sophie and Flint, Benjamin and others},
+  title     = {Compositional Modeling with Stock and Flow Diagrams},
+  booktitle = {EPTCS 380 (ACT 2022)},
+  year      = {2023},
+  doi       = {10.4204/EPTCS.380.5},
+  note      = {Applied Category Theory 2022 会议论文；EPTCS 第 380 卷}
+}
+
+% 来源：docs/papers/index.json（verified: true；venue 仅记为 "preprint"）
+% TODO: 待核实：venue、DOI 与 arXiv 编号均未记录，须补检后填入。
+@misc{Lyu2025_OvertourismSystemDynamics,
+  author = {Lyu, Huanzhu and Yang, Xiao and Ji, Xintong},
+  title  = {Overtourism to Equilibrium: A System Dynamics \& Multi-Objective Model for Sustainable Destinations},
+  year   = {2025},
+  note   = {预印本；索引未记录发表venue与标识符}
+}
+
+% 来源：docs/papers/index.json（verified: true；venue 仅记为 "preprint"）
+% TODO: 待核实：venue 与 DOI 未记录。
+@misc{Raimbault2020_UrbanScienceDynamics,
+  author = {Raimbault, Juste and Denis, Eric and Pumain, Denise},
+  title  = {Empowering Urban Governance through Urban Science: Multi-scale Dynamics of Urban Systems Worldwide},
+  year   = {2020},
+  note   = {预印本；索引未记录发表venue与标识符}
+}
+
+% 来源：docs/papers/index.json（verified: true；venue: "ICLR 2020"）
+% TODO: 待核实：DOI 与页码未记录。
+@inproceedings{Martin2020_CommunitySystemDynamics,
+  author    = {Martin, Jr., Donald and Prabhakaran, Vinodkumar and Mitchell, Margaret},
+  title     = {Participatory Problem Formulation for Fairer Machine Learning through Community Based System Dynamics},
+  booktitle = {ICLR 2020},
+  year      = {2020}
+}
+
+% 来源：docs/papers/index.json（verified: true；venue 仅记为 "preprint"）
+% TODO: 待核实：索引作者字段仅记为 "Malard-Adam et al."，作者全名与 venue 须补检。
+@misc{MalardAdam2023_ParticipatoryModelling,
+  author = {{Malard-Adam et al.}},
+  title  = {D{\'e}veloppement participatif d'un mod{\`e}le coupl{\'e} d'un syst{\`e}me agricole indig{\`e}ne {\`a} petite {\'e}chelle (Guatemala)},
+  year   = {2023},
+  note   = {预印本；作者全名待核实}
+}
+
+% 来源：docs/papers/index.json（verified: true；venue: "arXiv:2506.10964"）
+@misc{Herzog2025_UrbanModelPlatform,
+  author        = {Herzog, Rico H. and Degkwitz, Till and Verma, Trivik},
+  title         = {The Urban Model Platform: A Public Backbone for Modeling and Simulation in Urban Digital Twins},
+  year          = {2025},
+  eprint        = {2506.10964},
+  archiveprefix = {arXiv}
+}
+
+% 来源：docs/papers2/index.json（id: jn-10-1007-s44498-026-00092-2；verified: true）
+% TODO: 待核实：卷期页码未记录（索引仅记录 DOI 与期刊名）。
+@article{Liu2026_StockFlowServiceNexus,
+  author  = {Liu, Xiaoyi and Ye, Zhongnan and Hsu, Shu-Chien},
+  title   = {Urban metabolism in transition: a dynamic modeling of stock-flow-service nexus in the built environment},
+  journal = {Journal of Industrial Ecology},
+  year    = {2026},
+  doi     = {10.1007/s44498-026-00092-2}
+}
+
+% 来源：docs/papers2/index.json（id: jn-10-1002-sdr-70015；verified: true）
+% TODO: 待核实：卷期页码未记录。
+@article{Hulme2025_QSEM,
+  author  = {Hulme, Adam and Radley, Duncan and Brown, Andrew D.},
+  title   = {The Qualitative Systems Exploration Model (QSEM): A New Framework to Support the Structural Analysis of Causal Loop Diagrams Within Participatory System Dynamics},
+  journal = {System Dynamics Review},
+  year    = {2025},
+  doi     = {10.1002/sdr.70015}
+}
+
+% 来源：docs/papers2/index.json（id: jn-10-1037-met0000484；verified: true）
+% TODO: 待核实：卷期页码未记录。
+@article{Crielaard2022_CausalLoopDiagram,
+  author  = {Crielaard, Loes and Uleman, Jeroen F. and Ch{\^a}tel, Bas D L},
+  title   = {Refining the causal loop diagram: A tutorial for maximizing the contribution of domain expertise in computational system dynamics modeling},
+  journal = {Psychological Methods},
+  year    = {2022},
+  doi     = {10.1037/met0000484}
+}
+
+% 来源：docs/papers2/index.json（id: jn-10-1038-s41467-021-26752-4；verified: true）
+% TODO: 待核实：卷期页码未记录。
+@article{Simini2021_DeepGravity,
+  author  = {Simini, Filippo and Barlacchi, Gianni and Luca, Massimiliano},
+  title   = {A Deep Gravity model for mobility flows generation},
+  journal = {Nature Communications},
+  year    = {2021},
+  doi     = {10.1038/s41467-021-26752-4}
+}
+
+
+% =====================================================================
+% B 线：人在回路（HITL）与参与式仿真
+% =====================================================================
+
+% 来源：docs/papers/index.json（verified: true；venue 仅记为 "preprint"）
+% TODO: 待核实：venue、DOI 与 arXiv 编号未记录。
+@misc{Ni2024_LiPUPMA,
+  author = {Ni, Hang and Wang, Yuzhi and Song, Yizhi and Liu, Hao},
+  title  = {LiPUP-MA: A Residential Experience-centric Multi-Agent Framework for Living-in-the-loop Participatory Urban Planning},
+  year   = {2024},
+  note   = {预印本；索引未记录发表venue与标识符}
+}
+
+% 来源：docs/papers/index.json（verified: true；venue 仅记为 "preprint"）
+% TODO: 待核实：venue、DOI 与 arXiv 编号未记录。
+@misc{Xuan2025_GenerativeAgentHITL,
+  author = {Xuan, Ziyi and Wu, Yiwen and Xu, Xuhai},
+  title  = {Design and Evaluation of Generative Agent-based Platform for Human-Assistant Interaction Research: A Tale of 10 User Studies},
+  year   = {2025},
+  note   = {预印本；索引未记录发表venue与标识符}
+}
+
+% 来源：docs/papers/index.json（verified: true；venue: "preprint (UCL CASA)"）
+% TODO: 待核实：venue 细节、DOI 与 arXiv 编号未记录。
+@misc{Suzuki2017_ParticipatoryUrbanSim,
+  author = {Suzuki, Soma},
+  title  = {Multiagent-based Participatory Urban Simulation through Inverse Reinforcement Learning},
+  year   = {2017},
+  note   = {预印本；索引 venue 记为 UCL CASA}
+}
+
+% 来源：docs/papers/index.json（verified: FALSE；标题含括号说明，作者仅记录首位）
+% TODO: 待核实：该条目元数据未经 PDF 正文核验；作者表、venue 与标识符须补检，
+%       核实前不得作为论证依据（见 paper/README.md §7.4）。
+@misc{Feygin2019_BISTRO,
+  author = {Feygin, S. and others},
+  title  = {BISTRO: A Behavior-Informed Simulation Testbed (behavioral experiments coupled with transport simulation)},
+  year   = {2019},
+  note   = {预印本；元数据未核验}
+}
+
+% 来源：docs/papers2/index.json（id: jn_https-doi-org-10-1177-02690942251380527；verified: true；含本地 PDF）
+% TODO: 待核实：卷期页码未记录；索引 venue 原文为
+%       "Local Economy The Journal of the Local Economy Policy Unit"。
+@article{Sevinc2025_ReadingCities,
+  author  = {Sevin{\c c}, Deniz and Scott, Alister J. and Bryson, John R. and Leach, J.},
+  title   = {Reading cities: Towards a participatory tool for disentangling the complexity of urban systems},
+  journal = {Local Economy: The Journal of the Local Economy Policy Unit},
+  year    = {2025},
+  doi     = {10.1177/02690942251380527}
+}
+
+% 来源：docs/papers2/index.json（id: cn_7202988551；verified: true，题录与摘要经 NAPSTIC 核验）
+% TODO: 待核实：DOI（中文期刊多数无公开 DOI）与作者拼音/英文译名。
+@article{Rui2026_ParticipatoryCommunity,
+  author   = {芮光晔 and 黎子铭},
+  title    = {参与式规划设计驱动社区多维协同发展的机制与路径——以广东佛山顺德东风村为例},
+  journal  = {风景园林},
+  year     = {2026},
+  volume   = {33},
+  number   = {2},
+  pages    = {59--67},
+  language = {zh},
+  note     = {题录与摘要经 NAPSTIC 核验（origin_id 7202988551）}
+}
+
+% 来源：docs/papers2/index.json（id: cn_csghhk202306021；verified: true）
+% TODO: 待核实：DOI（中文期刊多数无公开 DOI）与作者拼音/英文译名。
+@article{Li2023_CommunityMicroRenewal,
+  author   = {李晴 and 林妮},
+  title    = {“人民城市”视角下社区微更新参与式规划设计的新模式探索：以上海市YF里弄微更新为例},
+  journal  = {城市规划学刊},
+  year     = {2023},
+  number   = {6},
+  pages    = {87--96},
+  language = {zh},
+  note     = {题录与摘要经 NAPSTIC 核验（origin_id csghhk202306021）}
+}
+
+% 来源：docs/papers2/index.json（id: ax_2604-01520v1；verified: true；含本地 PDF）
+% TODO: 待核实：发表venue（索引仅记为 arXiv 预印本）。
+@misc{Wang2026_HumanAIPlatform,
+  author        = {Wang, Lei and Li, Yuanzi and Wu, Jinchao and Gao, Heyang and Bo, Xiaohe and Chen, Xu and Wen, Ji-Rong},
+  title         = {LLM Agents as Social Scientists: A Human-AI Collaborative Platform for Social Science Automation},
+  year          = {2026},
+  eprint        = {2604.01520v1},
+  archiveprefix = {arXiv}
+}
+
+
+% =====================================================================
+% C 线：大语言模型合成智能体与社会仿真
+% =====================================================================
+
+% 来源：docs/papers/index.json（verified: true；venue: "Political Analysis (preprint)"）
+% TODO: 待核实：正式发表信息与 DOI 未记录。
+@misc{Argyle2022_OutOfOneMany,
+  author = {Argyle, Lisa P. and Busby, Ethan C. and Fulda, Nancy and Gubler, Joshua and Rytting, Christopher and Wingate, David},
+  title  = {Out of One, Many: Using Language Models to Simulate Human Samples},
+  year   = {2022},
+  note   = {索引 venue 记为 Political Analysis（预印本版本）}
+}
+
+% 来源：docs/papers/index.json（verified: FALSE；venue: "UIST 2023 / arXiv:2304.03442"）
+% TODO: 待核实：UIST 2023 页码与 DOI；该条目元数据未经 PDF 核验。
+@misc{Park2023_GenerativeAgents,
+  author        = {Park, Joon Sung and O'Brien, Joseph C. and Cai, Carrie J. and Morris, Meredith Ringel and Liang, Percy and Bernstein, Michael S.},
+  title         = {Generative Agents: Interactive Simulacra of Human Behavior},
+  year          = {2023},
+  eprint        = {2304.03442},
+  archiveprefix = {arXiv},
+  note          = {索引记为 UIST 2023 / arXiv:2304.03442；元数据未核验}
+}
+
+% 来源：docs/papers/index.json（verified: true；venue 仅记为 "preprint"）
+% TODO: 待核实：venue、DOI 与预印本编号未记录。
+@misc{Park2024_SelfReportSimulation,
+  author = {Park, Joon Sung and Zou, Carolyn Q. and Kamphorst, Jonne and Egan, Niles and Shaw, Aaron and Hill, Benjamin Mako and Cai, Carrie J. and Morris, Meredith Ringel and Liang, Percy and Bernstein, Michael S.},
+  title  = {LLM Agents Grounded in Self-Reports Enable General-Purpose Simulation of Individuals},
+  year   = {2024},
+  note   = {预印本；索引未记录发表venue与标识符}
+}
+
+% 来源：docs/papers/index.json（verified: FALSE；venue: "arXiv:2502.08691"）
+% TODO: 待核实：作者全名（索引仅记录 "Jinghua Piao et al."）与发表状态。
+@misc{Piao2025_AgentSociety,
+  author        = {Piao, Jinghua and others},
+  title         = {AgentSociety: Large-Scale Simulation of LLM-Driven Generative Agents Advances Understanding of Human Behaviors and Society},
+  year          = {2025},
+  eprint        = {2502.08691},
+  archiveprefix = {arXiv},
+  note          = {元数据未核验；作者表待补全}
+}
+
+% 来源：docs/papers2/index.json（id: ax_2504-10157v3；verified: true；含本地 PDF）
+@misc{Zhang2025_SocioVerse,
+  author        = {Zhang, Xinnong and Lin, Jiayu and Mou, Xinyi and Yang, Shiyue and Liu, Xiawei and Sun, Libo and Lyu, Hanjia and Yang, Yihang and others},
+  title         = {SocioVerse: A World Model for Social Simulation Powered by LLM Agents and A Pool of 10 Million Real-World Users},
+  year          = {2025},
+  eprint        = {2504.10157v3},
+  archiveprefix = {arXiv}
+}
+
+% 来源：docs/papers/index.json（verified: true；venue 仅记为 "preprint"）
+% TODO: 待核实：venue、DOI 与预印本编号未记录。
+@misc{Xie2024_LLMAgentTrust,
+  author = {Xie, Chengxing and Chen, Canyu and Jia, Feiran and Ye, Ziyu and Lai, Shiyang and Shu, Kai and Gu, Jindong and Bibi, Adel and Hu, Ziniu and Jurgens, David and Evans, James and others},
+  title  = {Can Large Language Model Agents Simulate Human Trust Behavior?},
+  year   = {2024},
+  note   = {预印本；索引未记录发表venue与标识符}
+}
+
+% 来源：docs/papers/index.json（verified: true；venue 仅记为 "preprint"）
+% TODO: 待核实：作者表（索引记为 "Zhilun Zhou; Yuming Lin; et al."）与发表信息。
+@misc{Zhou2024_LLMParticipatoryPlanning,
+  author = {Zhou, Zhilun and Lin, Yuming and others},
+  title  = {Large Language Model for Participatory Urban Planning},
+  year   = {2024},
+  note   = {预印本；索引未记录发表venue与标识符}
+}
+
+% 来源：docs/papers2/index.json（id: ax_2507-02919v1；verified: true；含本地 PDF）
+@misc{Li2025_SiliconSampleRepresentativeness,
+  author        = {Li, Dai and Li, Linzhuo and Qiu, Huilian Sophie},
+  title         = {ChatGPT is not A Man but Das Man: Representativeness and Structural Consistency of Silicon Samples Generated by Large Language Models},
+  year          = {2025},
+  eprint        = {2507.02919v1},
+  archiveprefix = {arXiv}
+}
+
+% 来源：docs/papers2/index.json（id: ax_2406-17232v2；verified: true；含本地 PDF）
+@misc{Chuang2024_BeliefNetworks,
+  author        = {Chuang, Yun-Shiuan and Nirunwiroj, Krirk and Studdiford, Zach and Goyal, Agam and Frigo, Vincent V. and Yang, Sijia and Shah, Dhavan and Hu, Junjie and Rogers, Timothy T.},
+  title         = {Beyond Demographics: Aligning Role-playing LLM-based Agents Using Human Belief Networks},
+  year          = {2024},
+  eprint        = {2406.17232v2},
+  archiveprefix = {arXiv}
+}
+
+% 来源：docs/papers2/index.json（id: ax_2608-07519v2；verified: true；含本地 PDF）
+@misc{Torkayesh2026_MobilityPolicyPersonas,
+  author        = {Torkayesh, Ali and Offermann, Julia and Gimpel, Regina and Engelmann, Linda and Arning, Katrin and Ziefle, Martina and Venghaus, Sandra},
+  title         = {From Survey Personas to LLM Agents: A Generative Agent-based Simulation of Mobility Policy Preference Dynamics},
+  year          = {2026},
+  eprint        = {2608.07519v2},
+  archiveprefix = {arXiv}
+}
+
+% 来源：docs/papers2/index.json（id: jn_https-doi-org-10-1038-s41467-026-78228-y；verified: true；含本地 PDF）
+% TODO: 待核实：卷期页码未记录。
+@article{Piao2026_PolarizationNetworks,
+  author  = {Piao, Jinghua and Lu, Zhihong and Chen, Gao and Xu, Fengli and Hu, Qinghua and Pereira dos Santos, Fernando and Li, Yongping and Evans, James A.},
+  title   = {Emergence of polarization in networks of large language model agents},
+  journal = {Nature Communications},
+  year    = {2026},
+  doi     = {10.1038/s41467-026-78228-y}
+}
+
+% 来源：docs/papers2/index.json（id: cn_7204129335；verified: true，题录与摘要经 NAPSTIC 核验）
+% TODO: 待核实：DOI 与作者拼音/英文译名。
+@article{Wang2026_LLMUrbanIndicatorDiagnosis,
+  author   = {王康旭 and 张姗琪 and 陈成},
+  title    = {融合大语言模型的城市指标体检评估智能诊断范式构建与探索},
+  journal  = {城市规划学刊},
+  year     = {2026},
+  number   = {2},
+  pages    = {82--88},
+  language = {zh},
+  note     = {题录与摘要经 NAPSTIC 核验（origin_id 7204129335）}
+}
+
+
+% =====================================================================
+% D 线：人群/人流仿真与数字孪生（本文的对照对象）
+% =====================================================================
+
+% 来源：docs/papers/index.json（verified: true；venue: "Nature / arXiv:cond-mat/9805244"）
+% TODO: 待核实：期刊卷期页码。索引 venue 同时记录了期刊名与 arXiv 编号，
+%       两者关系须以 PDF 首页核验，不得凭记忆补全。
+@misc{Helbing1998_SocialForceModel,
+  author        = {Helbing, Dirk and Moln{\'a}r, P{\'e}ter},
+  title         = {Social force model for pedestrian dynamics},
+  year          = {1998},
+  eprint        = {cond-mat/9805244},
+  archiveprefix = {arXiv},
+  note          = {索引 venue 记为 Nature / arXiv:cond-mat/9805244；期刊卷期待核实}
+}
+
+% 来源：docs/papers/index.json（verified: true；venue: "Physica A / arXiv:cond-mat/0112119"）
+% TODO: 待核实：期刊卷期页码。
+@misc{Burstedde2001_CellularAutomatonApplications,
+  author        = {Burstedde, Carsten and Kirchner, Ansgar and Klauck, Kai and Schadschneider, Andreas and Zittartz, Johannes},
+  title         = {Cellular Automaton Approach to Pedestrian Dynamics -- Applications},
+  year          = {2001},
+  eprint        = {cond-mat/0112119},
+  archiveprefix = {arXiv},
+  note          = {索引 venue 记为 Physica A / arXiv:cond-mat/0112119；期刊卷期待核实}
+}
+
+% 来源：docs/papers/index.json（verified: true；venue: "Physica A / arXiv:cond-mat/0112117"）
+% TODO: 待核实：期刊卷期页码。
+@misc{Schadschneider2001_CellularAutomatonTheory,
+  author        = {Schadschneider, Andreas},
+  title         = {Cellular Automaton Approach to Pedestrian Dynamics -- Theory},
+  year          = {2001},
+  eprint        = {cond-mat/0112117},
+  archiveprefix = {arXiv},
+  note          = {索引 venue 记为 Physica A / arXiv:cond-mat/0112117；期刊卷期待核实}
+}
+
+% 来源：docs/papers/index.json（verified: true；venue: "preprint (Inria)"）
+% TODO: 待核实：发表venue、DOI 与预印本编号未记录。
+@misc{Amirian2019_DataDrivenCrowdGAN,
+  author = {Amirian, Javad and van Toll, Wouter and Hayet, Jean-Bernard and Pettr{\'e}, Julien},
+  title  = {Data-Driven Crowd Simulation with Generative Adversarial Networks},
+  year   = {2019},
+  note   = {预印本；索引 venue 记为 Inria}
+}
+
+% 来源：docs/papers/index.json（verified: true；venue: "preprint (Tsinghua)"）
+% TODO: 待核实：发表venue、DOI 与预印本编号未记录。
+@misc{Chen2024_SocialPhysicsDiffusion,
+  author = {Chen, Hongyi and Ding, Jingtao and Li, Yong and Wang, Yue and Zhang, Xiao-Ping},
+  title  = {Social Physics Informed Diffusion Model for Crowd Simulation},
+  year   = {2024},
+  note   = {预印本；索引 venue 记为 Tsinghua}
+}
+
+% 来源：docs/papers2/index.json（id: ax_2406-08190v3；verified: true；含本地 PDF）
+%       与 docs/papers/index.json 的 Wang2024_CrowdEgress 为同一文献，此处取 papers2 版本。
+@misc{Wang2024_CrowdEgress,
+  author        = {Wang, Peng and Wang, Xiaoda and Luh, Peter and Olderman, Neal and Wilkie, Christian and Korhonen, Timo},
+  title         = {CrowdEgress: A Multi-Agent Simulation Platform for Pedestrian Crowd},
+  year          = {2024},
+  eprint        = {2406.08190v3},
+  archiveprefix = {arXiv}
+}
+
+% 来源：docs/papers2/index.json（id: ax_2310-12534v1；verified: true；含本地 PDF）
+%       与 docs/papers/index.json 的 Zaitsev2023_Cormas 为同一文献，此处取 papers2 版本。
+@misc{Zaitsev2023_Cormas,
+  author        = {Zaitsev, Oleksandr and Vendel, Fran{\c c}ois and Delay, Etienne},
+  title         = {Cormas: The Software for Participatory Modelling and its Application for Managing Natural Resources in Senegal},
+  year          = {2023},
+  eprint        = {2310.12534v1},
+  archiveprefix = {arXiv}
+}
+
+% 来源：docs/papers2/index.json（id: ax_2211-14260v1；verified: true；含本地 PDF）
+% 说明：该文即本项目第 6 章复现的 NetLogo 个体级疏散模型的方法学来源
+%       （University of Leeds，模型 v1.0.0，CC BY-SA 4.0）。
+@misc{Wang2022_BNEEvacuation,
+  author        = {Wang, Yiyu and Ge, Jiaqi and Comber, Alexis},
+  title         = {An agent-based simulation model of pedestrian evacuation based on Bayesian Nash Equilibrium},
+  year          = {2022},
+  eprint        = {2211.14260v1},
+  archiveprefix = {arXiv},
+  note          = {第 6 章外部复现对象的方法学来源（NetLogo 实现，CC BY-SA 4.0）}
+}
+
+% 来源：docs/papers2/index.json（id: ax_2601-17304v1；verified: true；含本地 PDF）
+@misc{Yang2026_ContinuumPedestrianFlow,
+  author        = {Yang, Liangze and Yu, Hui and Du, Jie},
+  title         = {From microscopic social force models to macroscopic continuum models for pedestrian flow},
+  year          = {2026},
+  eprint        = {2601.17304v1},
+  archiveprefix = {arXiv}
+}
+
+% 来源：docs/papers/index.json（verified: true；venue 仅记为 "preprint"）
+% TODO: 待核实：作者全名（索引记为 "Haowen Xu; Femi Omitaomu; Soheil Sabri; et al."）、
+%       venue 与 DOI。
+@misc{Xu2024_GenAIUrbanDigitalTwins,
+  author = {Xu, Haowen and Omitaomu, Femi and Sabri, Soheil and others},
+  title  = {Leveraging Generative AI for Urban Digital Twins: A Scoping Review on the Autonomous Generation of Urban Data, Scenarios, Designs, and 3D City Models},
+  year   = {2024},
+  note   = {预印本；索引未记录发表venue与标识符}
+}
+
+
+% =====================================================================
+% 未纳入本文件的索引条目（元数据不足，禁止引用；详见 paper/README.md §7.4）
+%   - Qiu2025_LockInHypothesis     标题记为"(待核验)"，无作者
+%   - Fang2021_FlowAggregation     标题记为"(待核验)"，无作者
+%   - Wang2021_DigitalTwinIntersection  作者记为"et al."，无标题
+% 待这三条在 docs/papers/index.json 中补全元数据后，再决定是否纳入。
+% =====================================================================
